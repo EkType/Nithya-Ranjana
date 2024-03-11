@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RaTaSaYa.rj" format="2">
+  <advance width="698"/>
+  <anchor x="643" y="646" name="top1"/>
+  <anchor x="336" y="646" name="top2"/>
+  <anchor x="59" y="636" name="top_alt"/>
+  <anchor x="553" y="69" name="bottom"/>
+  <anchor x="573" y="53" name="bottom2"/>
+  <anchor x="608" y="-17" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="114" y="262" type="curve"/>
+      <point x="126" y="276" type="line"/>
+      <point x="94" y="302"/>
+      <point x="84" y="314"/>
+      <point x="63" y="339" type="curve"/>
+      <point x="38" y="341" type="line"/>
+      <point x="63" y="312" type="line"/>
+      <point x="93" y="305"/>
+      <point x="111" y="319"/>
+      <point x="118" y="352" type="curve" smooth="yes"/>
+      <point x="122" y="373"/>
+      <point x="135" y="379"/>
+      <point x="155" y="379" type="curve" smooth="yes"/>
+      <point x="175" y="379"/>
+      <point x="196" y="368"/>
+      <point x="220" y="347" type="curve"/>
+      <point x="211" y="390" type="line"/>
+      <point x="176" y="416"/>
+      <point x="140" y="431"/>
+      <point x="103" y="431" type="curve" smooth="yes"/>
+      <point x="54" y="431"/>
+      <point x="18" y="405"/>
+      <point x="18" y="362" type="curve" smooth="yes"/>
+      <point x="18" y="326"/>
+      <point x="51" y="294"/>
+    </contour>
+    <contour>
+      <point x="198" y="442" type="curve"/>
+      <point x="201" y="467" type="line"/>
+      <point x="201" y="508"/>
+      <point x="187" y="521"/>
+      <point x="146" y="521" type="curve" smooth="yes"/>
+      <point x="132" y="521"/>
+      <point x="105" y="519"/>
+      <point x="91" y="519" type="curve" smooth="yes"/>
+      <point x="77" y="519"/>
+      <point x="64" y="522"/>
+      <point x="55" y="532" type="curve"/>
+      <point x="44" y="524" type="line"/>
+      <point x="57" y="478"/>
+      <point x="80" y="459"/>
+      <point x="116" y="459" type="curve" smooth="yes"/>
+      <point x="132" y="459"/>
+      <point x="144" y="462"/>
+      <point x="165" y="462" type="curve" smooth="yes"/>
+      <point x="187" y="462"/>
+      <point x="198" y="458"/>
+    </contour>
+    <contour>
+      <point x="152" y="568" type="curve" smooth="yes"/>
+      <point x="199" y="568"/>
+      <point x="212" y="571"/>
+      <point x="255" y="577" type="curve"/>
+      <point x="255" y="654" type="line"/>
+      <point x="4" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="23" y="596"/>
+      <point x="77" y="568"/>
+    </contour>
+    <component base="_SaYaPost" xOffset="-43"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

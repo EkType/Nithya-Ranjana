@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vowelAi.rj" format="2">
+  <advance width="534"/>
+  <unicode hex="1140B"/>
+  <anchor x="560" y="684" name="top2"/>
+  <anchor x="507" y="646" name="top1"/>
+  <outline>
+    <component base="vowelE.rj"/>
+    <component base="matraAi_LengthMark.rj" xOffset="-46"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+        <true/>
+      </array>
+    </dict>
+  </lib>
+</glyph>

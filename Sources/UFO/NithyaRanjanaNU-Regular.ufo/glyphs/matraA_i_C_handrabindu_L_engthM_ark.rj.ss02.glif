@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAi_Chandrabindu_LengthMark.rj.ss02" format="2">
+  <anchor x="525" y="646" name="_top1"/>
+  <anchor x="558" y="754" name="top2"/>
+  <outline>
+    <component base="matraAi_LengthMark.rj.ss02"/>
+    <component base="Chandrabindu_alt.rj" xScale="0.7" yScale="0.7" xOffset="446" yOffset="316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaNna_alt_Aa.rj" format="2">
+  <advance width="774"/>
+  <anchor x="367" y="646" name="top2"/>
+  <anchor x="81" y="601" name="top_alt"/>
+  <anchor x="444" y="35" name="bottom"/>
+  <anchor x="444" y="40" name="bottom2"/>
+  <anchor x="475" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="295" y="-26" type="line"/>
+      <point x="303" y="-9" type="line"/>
+      <point x="261" y="8" type="line" smooth="yes"/>
+      <point x="194" y="35"/>
+      <point x="160" y="66"/>
+      <point x="160" y="107" type="curve" smooth="yes"/>
+      <point x="160" y="150"/>
+      <point x="197" y="173"/>
+      <point x="238" y="173" type="curve" smooth="yes"/>
+      <point x="253" y="173"/>
+      <point x="274" y="168"/>
+      <point x="301" y="158" type="curve"/>
+      <point x="304" y="188" type="line"/>
+      <point x="279" y="221"/>
+      <point x="232" y="241"/>
+      <point x="177" y="241" type="curve" smooth="yes"/>
+      <point x="102" y="241"/>
+      <point x="57" y="205"/>
+      <point x="57" y="143" type="curve" smooth="yes"/>
+      <point x="57" y="76"/>
+      <point x="114" y="34"/>
+      <point x="259" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="339" y="29" type="curve" smooth="yes"/>
+      <point x="357" y="29"/>
+      <point x="375" y="38"/>
+      <point x="375" y="58" type="curve" smooth="yes"/>
+      <point x="375" y="339" type="line"/>
+      <point x="285" y="339" type="line"/>
+      <point x="285" y="192" type="line"/>
+      <point x="290" y="184" type="line"/>
+      <point x="290" y="97" type="line"/>
+      <point x="296" y="138" type="line"/>
+      <point x="262" y="137"/>
+      <point x="241" y="116"/>
+      <point x="241" y="90" type="curve" smooth="yes"/>
+      <point x="241" y="60"/>
+      <point x="290" y="29"/>
+    </contour>
+    <component base="_HaHalf_alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YaHalant.rj" format="2">
+  <advance width="566"/>
+  <anchor x="411" y="129" name="bottom"/>
+  <anchor x="411" y="49" name="bottom2"/>
+  <anchor x="411" y="30" name="bottom3"/>
+  <anchor x="92" y="594" name="top"/>
+  <anchor x="511" y="646" name="top1"/>
+  <anchor x="284" y="646" name="top2"/>
+  <outline>
+    <component base="Ya.rj"/>
+    <component base="Halant.rj" xOffset="239"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

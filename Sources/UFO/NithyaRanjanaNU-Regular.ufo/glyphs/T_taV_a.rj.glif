@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaVa.rj" format="2">
+  <advance width="587"/>
+  <anchor x="308" y="-10" name="bottom"/>
+  <anchor x="283" y="60" name="bottom2"/>
+  <anchor x="298" y="-10" name="bottom3"/>
+  <anchor x="123" y="599" name="top"/>
+  <anchor x="540" y="646" name="top1"/>
+  <anchor x="314" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="468" y="-26" type="curve"/>
+      <point x="474" y="-10" type="line"/>
+      <point x="460" y="-3" type="line" smooth="yes"/>
+      <point x="410" y="22"/>
+      <point x="403" y="30"/>
+      <point x="403" y="75" type="curve" smooth="yes"/>
+      <point x="403" y="229" type="line"/>
+      <point x="332" y="237" type="line"/>
+      <point x="289" y="276"/>
+      <point x="234" y="288"/>
+      <point x="185" y="288" type="curve" smooth="yes"/>
+      <point x="105" y="288"/>
+      <point x="51" y="250"/>
+      <point x="51" y="186" type="curve" smooth="yes"/>
+      <point x="51" y="92"/>
+      <point x="138" y="57"/>
+    </contour>
+    <contour>
+      <point x="319" y="73" type="line"/>
+      <point x="321" y="138"/>
+      <point x="296" y="162"/>
+      <point x="216" y="171" type="curve"/>
+      <point x="212" y="163" type="line"/>
+      <point x="230" y="149"/>
+      <point x="240" y="136"/>
+      <point x="240" y="123" type="curve" smooth="yes"/>
+      <point x="240" y="110"/>
+      <point x="230" y="100"/>
+      <point x="215" y="100" type="curve" smooth="yes"/>
+      <point x="183" y="100"/>
+      <point x="156" y="130"/>
+      <point x="156" y="159" type="curve" smooth="yes"/>
+      <point x="156" y="197"/>
+      <point x="186" y="220"/>
+      <point x="237" y="220" type="curve" smooth="yes"/>
+      <point x="267" y="220"/>
+      <point x="298" y="211"/>
+      <point x="326" y="194" type="curve"/>
+      <point x="308" y="211" type="line"/>
+      <point x="308" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="636" y="427" type="line"/>
+      <point x="636" y="567" type="line"/>
+    </contour>
+    <component base="_TtaPre1" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="GhaYa.rj" format="2">
+  <advance width="620"/>
+  <anchor x="465" y="69" name="bottom"/>
+  <anchor x="465" y="59" name="bottom2"/>
+  <anchor x="465" y="9" name="bottom3"/>
+  <anchor x="565" y="646" name="top1"/>
+  <anchor x="301" y="646" name="top2"/>
+  <anchor x="84" y="612" name="top_alt"/>
+  <outline>
+    <component base="_GhaPre2"/>
+    <component base="_YaPost2" xOffset="88"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

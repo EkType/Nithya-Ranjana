@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TthaLa.rj" format="2">
+  <advance width="486"/>
+  <anchor x="331" y="46" name="bottom"/>
+  <anchor x="415" y="-11" name="bottom3"/>
+  <anchor x="320" y="646" name="top1"/>
+  <anchor x="237" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="336" y="246" type="line"/>
+      <point x="431" y="246" type="line"/>
+      <point x="431" y="350" type="line"/>
+      <point x="336" y="320" type="line"/>
+    </contour>
+    <component base="_LaPost" xOffset="9"/>
+    <component base="_TthaPre1" xOffset="53"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_LaPost</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

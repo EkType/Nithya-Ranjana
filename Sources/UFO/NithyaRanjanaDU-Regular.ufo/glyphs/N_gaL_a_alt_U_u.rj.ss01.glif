@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaLa_alt_Uu.rj.ss01" format="2">
+  <advance width="588"/>
+  <anchor x="326" y="46" name="bottom2"/>
+  <anchor x="278" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="curve"/>
+      <point x="190" y="17" type="line"/>
+      <point x="142" y="41"/>
+      <point x="120" y="67"/>
+      <point x="120" y="101" type="curve" smooth="yes"/>
+      <point x="120" y="137"/>
+      <point x="145" y="162"/>
+      <point x="188" y="162" type="curve" smooth="yes"/>
+      <point x="203" y="162"/>
+      <point x="221" y="157"/>
+      <point x="248" y="147" type="curve"/>
+      <point x="242" y="180" type="line"/>
+      <point x="217" y="214"/>
+      <point x="174" y="234"/>
+      <point x="135" y="234" type="curve" smooth="yes"/>
+      <point x="70" y="234"/>
+      <point x="31" y="199"/>
+      <point x="31" y="140" type="curve" smooth="yes"/>
+      <point x="31" y="84"/>
+      <point x="80" y="34"/>
+    </contour>
+    <contour>
+      <point x="254" y="52" type="curve" smooth="yes"/>
+      <point x="271" y="52"/>
+      <point x="280" y="59"/>
+      <point x="280" y="73" type="curve" smooth="yes"/>
+      <point x="280" y="199" type="line"/>
+      <point x="257" y="168" type="line"/>
+      <point x="281" y="163"/>
+      <point x="317" y="150"/>
+      <point x="347" y="135" type="curve"/>
+      <point x="357" y="179" type="line"/>
+      <point x="325" y="204"/>
+      <point x="278" y="228"/>
+      <point x="220" y="246" type="curve"/>
+      <point x="210" y="241" type="line"/>
+      <point x="210" y="118" type="line"/>
+      <point x="231" y="142" type="line"/>
+      <point x="196" y="142"/>
+      <point x="171" y="126"/>
+      <point x="171" y="103" type="curve" smooth="yes"/>
+      <point x="171" y="78"/>
+      <point x="213" y="52"/>
+    </contour>
+    <contour>
+      <point x="490" y="-33" type="curve"/>
+      <point x="499" y="-17" type="line"/>
+      <point x="425" y="23"/>
+      <point x="421" y="28"/>
+      <point x="421" y="77" type="curve" smooth="yes"/>
+      <point x="421" y="250" type="line"/>
+      <point x="326" y="250" type="line"/>
+      <point x="326" y="36" type="line"/>
+      <point x="370" y="18"/>
+      <point x="425" y="-5"/>
+    </contour>
+    <component base="_NgaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_NgaPre1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta_alt_U_Uu.rj" format="2">
+  <advance width="493"/>
+  <anchor x="338" y="69" name="bottom"/>
+  <anchor x="338" y="49" name="bottom2"/>
+  <anchor x="78" y="594" name="top"/>
+  <anchor x="438" y="646" name="top1"/>
+  <anchor x="237" y="646" name="top2"/>
+  <anchor x="369" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="200" y="106" type="curve"/>
+      <point x="214" y="123" type="line"/>
+      <point x="165" y="170"/>
+      <point x="117" y="217"/>
+      <point x="82" y="300" type="curve"/>
+      <point x="98" y="224" type="line"/>
+      <point x="176" y="224"/>
+      <point x="215" y="255"/>
+      <point x="215" y="319" type="curve" smooth="yes"/>
+      <point x="215" y="358"/>
+      <point x="240" y="379"/>
+      <point x="285" y="379" type="curve" smooth="yes"/>
+      <point x="315" y="379"/>
+      <point x="333" y="370"/>
+      <point x="375" y="333" type="curve"/>
+      <point x="374" y="382" type="line"/>
+      <point x="333" y="434"/>
+      <point x="273" y="460"/>
+      <point x="198" y="460" type="curve" smooth="yes"/>
+      <point x="96" y="460"/>
+      <point x="30" y="400"/>
+      <point x="30" y="315" type="curve" smooth="yes"/>
+      <point x="30" y="220"/>
+      <point x="115" y="154"/>
+    </contour>
+    <contour>
+      <point x="178" y="536" type="curve" smooth="yes"/>
+      <point x="269" y="536"/>
+      <point x="341" y="548"/>
+      <point x="397" y="573" type="curve"/>
+      <point x="438" y="646" type="line"/>
+      <point x="429" y="654" type="line"/>
+      <point x="0" y="654" type="line"/>
+      <point x="-5" y="646" type="line"/>
+      <point x="22" y="572"/>
+      <point x="82" y="536"/>
+    </contour>
+    <contour>
+      <point x="338" y="203" type="line"/>
+      <point x="438" y="203" type="line"/>
+      <point x="438" y="646" type="line"/>
+      <point x="338" y="618" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

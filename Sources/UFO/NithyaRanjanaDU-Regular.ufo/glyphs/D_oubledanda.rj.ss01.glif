@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Doubledanda.rj.ss01" format="2">
+  <advance width="411"/>
+  <anchor x="84" y="40" name="bottom2_1"/>
+  <anchor x="254" y="40" name="bottom2_2"/>
+  <anchor x="115" y="0" name="bottom3_1"/>
+  <anchor x="285" y="0" name="bottom3_2"/>
+  <anchor x="84" y="35" name="bottom_1"/>
+  <anchor x="254" y="35" name="bottom_2"/>
+  <outline>
+    <contour>
+      <point x="254" y="213" type="line"/>
+      <point x="354" y="213" type="line"/>
+      <point x="354" y="646" type="line"/>
+      <point x="254" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="213" type="line"/>
+      <point x="184" y="213" type="line"/>
+      <point x="184" y="396" type="line"/>
+      <point x="94" y="476" type="line"/>
+      <point x="84" y="469" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="318" type="curve"/>
+      <point x="317" y="344" type="line"/>
+      <point x="267" y="381"/>
+      <point x="164" y="443"/>
+      <point x="94" y="476" type="curve"/>
+      <point x="110" y="406" type="line"/>
+      <point x="152" y="395" type="line"/>
+      <point x="214" y="369"/>
+      <point x="256" y="351"/>
+    </contour>
+    <contour>
+      <point x="215" y="529" type="curve" smooth="yes"/>
+      <point x="272" y="529"/>
+      <point x="300" y="544"/>
+      <point x="314" y="580" type="curve"/>
+      <point x="278" y="569" type="line"/>
+      <point x="314" y="569" type="line"/>
+      <point x="354" y="646" type="line"/>
+      <point x="345" y="654" type="line"/>
+      <point x="46" y="654" type="line"/>
+      <point x="40" y="646" type="line"/>
+      <point x="52" y="572"/>
+      <point x="124" y="529"/>
+    </contour>
+    <component base="_terminal" xOffset="84"/>
+    <component base="_terminal" xOffset="254"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+    </dict>
+  </lib>
+</glyph>

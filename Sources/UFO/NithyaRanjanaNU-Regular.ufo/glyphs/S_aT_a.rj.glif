@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaTa.rj" format="2">
+  <advance width="587"/>
+  <anchor x="548" y="-26" name="bottom3"/>
+  <anchor x="90" y="575" name="top"/>
+  <anchor x="531" y="646" name="top1"/>
+  <anchor x="298" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="437" y="-14" type="curve"/>
+      <point x="449" y="5" type="line"/>
+      <point x="367" y="67"/>
+      <point x="316" y="113"/>
+      <point x="288" y="156" type="curve"/>
+      <point x="310" y="107" type="line"/>
+      <point x="336" y="118"/>
+      <point x="350" y="129"/>
+      <point x="352" y="158" type="curve" smooth="yes"/>
+      <point x="354" y="192"/>
+      <point x="363" y="209"/>
+      <point x="390" y="209" type="curve" smooth="yes"/>
+      <point x="406" y="209"/>
+      <point x="424" y="202"/>
+      <point x="453" y="187" type="curve"/>
+      <point x="450" y="227" type="line"/>
+      <point x="413" y="260"/>
+      <point x="381" y="273"/>
+      <point x="338" y="273" type="curve" smooth="yes"/>
+      <point x="281" y="273"/>
+      <point x="241" y="236"/>
+      <point x="241" y="183" type="curve" smooth="yes"/>
+      <point x="241" y="121"/>
+      <point x="320" y="68"/>
+    </contour>
+    <contour>
+      <point x="621" y="-26" type="curve"/>
+      <point x="631" y="-9" type="line"/>
+      <point x="575" y="26" type="line" smooth="yes"/>
+      <point x="539" y="48"/>
+      <point x="531" y="63"/>
+      <point x="531" y="103" type="curve" smooth="yes"/>
+      <point x="531" y="236" type="line"/>
+      <point x="431" y="236" type="line"/>
+      <point x="431" y="84" type="line"/>
+      <point x="464" y="57"/>
+      <point x="539" y="15"/>
+    </contour>
+    <contour>
+      <point x="431" y="225" type="line"/>
+      <point x="531" y="225" type="line"/>
+      <point x="531" y="646" type="line"/>
+      <point x="431" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="569" type="line"/>
+      <point x="491" y="569" type="line"/>
+      <point x="531" y="646" type="line"/>
+      <point x="522" y="654" type="line"/>
+      <point x="314" y="654" type="line"/>
+    </contour>
+    <component base="_SaPre3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

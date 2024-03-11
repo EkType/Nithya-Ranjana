@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_LengthMark_alt2e.rj" format="2">
+  <advance width="2"/>
+  <anchor x="14" y="684" name="top2"/>
+  <outline>
+    <component base="_topSwatch" xOffset="-193"/>
+    <component base="matraA_alt2e.rj" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

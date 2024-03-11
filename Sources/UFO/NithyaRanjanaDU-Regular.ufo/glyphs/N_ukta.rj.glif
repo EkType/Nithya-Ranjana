@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nukta.rj" format="2">
+  <outline>
+    <contour>
+      <point x="-130" y="-176" type="curve"/>
+      <point x="-108" y="-161"/>
+      <point x="-67" y="-144"/>
+      <point x="-41" y="-135" type="curve"/>
+      <point x="-41" y="-126" type="line"/>
+      <point x="-63" y="-102"/>
+      <point x="-85" y="-83"/>
+      <point x="-110" y="-66" type="curve"/>
+      <point x="-138" y="-76"/>
+      <point x="-176" y="-91"/>
+      <point x="-199" y="-107" type="curve"/>
+      <point x="-199" y="-116" type="line"/>
+      <point x="-175" y="-136"/>
+      <point x="-152" y="-154"/>
+    </contour>
+  </outline>
+</glyph>

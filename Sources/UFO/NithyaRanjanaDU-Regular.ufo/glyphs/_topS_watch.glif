@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_topSwatch" format="2">
+  <advance width="200"/>
+  <anchor x="207" y="684" name="top2"/>
+  <outline>
+    <contour>
+      <point x="144" y="636" type="line"/>
+      <point x="144" y="648" type="line" smooth="yes"/>
+      <point x="144" y="756"/>
+      <point x="104" y="801"/>
+      <point x="-12" y="801" type="curve" smooth="yes"/>
+      <point x="-73" y="801"/>
+      <point x="-126" y="790"/>
+      <point x="-186" y="790" type="curve" smooth="yes"/>
+      <point x="-260" y="790"/>
+      <point x="-292" y="803"/>
+      <point x="-310" y="841" type="curve"/>
+      <point x="-329" y="834" type="line"/>
+      <point x="-308" y="743"/>
+      <point x="-256" y="705"/>
+      <point x="-158" y="705" type="curve" smooth="yes"/>
+      <point x="-77" y="705"/>
+      <point x="-30" y="715"/>
+      <point x="28" y="715" type="curve" smooth="yes"/>
+      <point x="87" y="715"/>
+      <point x="99" y="701"/>
+      <point x="99" y="683" type="curve" smooth="yes"/>
+      <point x="99" y="665"/>
+      <point x="81" y="654"/>
+      <point x="49" y="654" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

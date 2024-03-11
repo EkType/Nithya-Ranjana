@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="HaYa_alt_Aa.rj" format="2">
+  <advance width="769"/>
+  <anchor x="434" y="69" name="bottom"/>
+  <anchor x="474" y="48" name="bottom2"/>
+  <anchor x="367" y="646" name="top2"/>
+  <anchor x="71" y="601" name="top_alt"/>
+  <anchor x="465" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="308" y="-7" type="curve"/>
+      <point x="326" y="-1" type="line"/>
+      <point x="339" y="44"/>
+      <point x="362" y="72"/>
+      <point x="404" y="72" type="curve" smooth="yes"/>
+      <point x="424" y="72"/>
+      <point x="436" y="68"/>
+      <point x="456" y="57" type="curve"/>
+      <point x="476" y="84" type="line"/>
+      <point x="438" y="129"/>
+      <point x="407" y="147"/>
+      <point x="351" y="147" type="curve" smooth="yes"/>
+      <point x="298" y="147"/>
+      <point x="254" y="115"/>
+      <point x="235" y="61" type="curve"/>
+      <point x="311" y="40" type="line"/>
+      <point x="258" y="73"/>
+      <point x="212" y="100"/>
+      <point x="153" y="140" type="curve"/>
+      <point x="184" y="87" type="line"/>
+      <point x="204" y="158"/>
+      <point x="247" y="194"/>
+      <point x="309" y="194" type="curve" smooth="yes"/>
+      <point x="320" y="194"/>
+      <point x="338" y="193"/>
+      <point x="357" y="190" type="curve"/>
+      <point x="364" y="194" type="line"/>
+      <point x="355" y="219" type="line"/>
+      <point x="323" y="244"/>
+      <point x="287" y="258"/>
+      <point x="239" y="258" type="curve" smooth="yes"/>
+      <point x="158" y="258"/>
+      <point x="99" y="215"/>
+      <point x="80" y="141" type="curve"/>
+      <point x="81" y="135" type="line"/>
+      <point x="137" y="97"/>
+      <point x="225" y="44"/>
+    </contour>
+    <contour>
+      <point x="364" y="194" type="line"/>
+      <point x="364" y="341" type="line"/>
+      <point x="269" y="341" type="line"/>
+      <point x="269" y="216" type="line"/>
+    </contour>
+    <component base="_HaHalf_alt" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

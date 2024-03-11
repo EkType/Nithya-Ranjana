@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_BaPre1" format="2">
+  <advance width="407"/>
+  <outline>
+    <contour>
+      <point x="152" y="562" type="curve" smooth="yes"/>
+      <point x="236" y="562"/>
+      <point x="312" y="573"/>
+      <point x="369" y="591" type="curve"/>
+      <point x="407" y="646" type="line"/>
+      <point x="398" y="654" type="line"/>
+      <point x="-17" y="654" type="line"/>
+      <point x="-21" y="646" type="line"/>
+      <point x="5" y="595"/>
+      <point x="61" y="562"/>
+    </contour>
+    <component base="_BaPre2"/>
+  </outline>
+</glyph>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chandrabindu_alt.rj" format="2">
+  <anchor x="113" y="646" name="_top2"/>
+  <outline>
+    <contour>
+      <point x="86" y="774" type="curve" smooth="yes"/>
+      <point x="129" y="774"/>
+      <point x="156" y="793"/>
+      <point x="156" y="825" type="curve" smooth="yes"/>
+      <point x="156" y="873"/>
+      <point x="80" y="881"/>
+      <point x="80" y="898" type="curve" smooth="yes"/>
+      <point x="80" y="906"/>
+      <point x="98" y="915"/>
+      <point x="98" y="922" type="curve" smooth="yes"/>
+      <point x="98" y="930"/>
+      <point x="85" y="939"/>
+      <point x="85" y="945" type="curve" smooth="yes"/>
+      <point x="85" y="948"/>
+      <point x="87" y="950"/>
+      <point x="96" y="953" type="curve"/>
+      <point x="93" y="962" type="line"/>
+      <point x="72" y="959"/>
+      <point x="63" y="953"/>
+      <point x="63" y="945" type="curve" smooth="yes"/>
+      <point x="63" y="938"/>
+      <point x="72" y="932"/>
+      <point x="72" y="927" type="curve" smooth="yes"/>
+      <point x="72" y="919"/>
+      <point x="46" y="908"/>
+      <point x="46" y="895" type="curve" smooth="yes"/>
+      <point x="46" y="869"/>
+      <point x="124" y="861"/>
+      <point x="124" y="828" type="curve" smooth="yes"/>
+      <point x="124" y="812"/>
+      <point x="109" y="804"/>
+      <point x="85" y="804" type="curve" smooth="yes"/>
+      <point x="65" y="804"/>
+      <point x="51" y="810"/>
+      <point x="51" y="821" type="curve" smooth="yes"/>
+      <point x="51" y="829"/>
+      <point x="55" y="835"/>
+      <point x="64" y="835" type="curve" smooth="yes"/>
+      <point x="73" y="835"/>
+      <point x="77" y="828"/>
+      <point x="74" y="820" type="curve"/>
+      <point x="81" y="817" type="line"/>
+      <point x="90" y="820"/>
+      <point x="94" y="826"/>
+      <point x="94" y="833" type="curve" smooth="yes"/>
+      <point x="94" y="847"/>
+      <point x="79" y="858"/>
+      <point x="58" y="858" type="curve" smooth="yes"/>
+      <point x="35" y="858"/>
+      <point x="19" y="841"/>
+      <point x="19" y="820" type="curve" smooth="yes"/>
+      <point x="19" y="793"/>
+      <point x="48" y="774"/>
+    </contour>
+    <contour>
+      <point x="122" y="722" type="curve" smooth="yes"/>
+      <point x="157" y="722"/>
+      <point x="187" y="732"/>
+      <point x="210" y="752" type="curve"/>
+      <point x="173" y="787" type="line"/>
+      <point x="151" y="765"/>
+      <point x="123" y="752"/>
+      <point x="90" y="752" type="curve" smooth="yes"/>
+      <point x="58" y="752"/>
+      <point x="26" y="763"/>
+      <point x="2" y="785" type="curve"/>
+      <point x="-9" y="774" type="line"/>
+      <point x="23" y="741"/>
+      <point x="72" y="722"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>259</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

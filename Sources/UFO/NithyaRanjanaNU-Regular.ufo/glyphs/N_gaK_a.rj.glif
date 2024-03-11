@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaKa.rj" format="2">
+  <advance width="601"/>
+  <anchor x="286" y="9" name="bottom"/>
+  <anchor x="276" y="-10" name="bottom3"/>
+  <anchor x="381" y="31" name="bottomRu"/>
+  <anchor x="546" y="646" name="top1"/>
+  <anchor x="281" y="646" name="top2"/>
+  <anchor x="63" y="618" name="top_alt"/>
+  <anchor x="256" y="62" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="381" y="202" type="line"/>
+      <point x="381" y="321" type="line" smooth="yes"/>
+      <point x="381" y="378"/>
+      <point x="315" y="435"/>
+      <point x="250" y="435" type="curve" smooth="yes"/>
+      <point x="203" y="435"/>
+      <point x="163" y="408"/>
+      <point x="128" y="360" type="curve"/>
+      <point x="179" y="352" type="line"/>
+      <point x="97" y="410" type="line"/>
+      <point x="101" y="378" type="line"/>
+      <point x="130" y="433"/>
+      <point x="184" y="465"/>
+      <point x="240" y="465" type="curve" smooth="yes"/>
+      <point x="325" y="465"/>
+      <point x="407" y="427"/>
+      <point x="565" y="300" type="curve"/>
+      <point x="578" y="315" type="line"/>
+      <point x="546" y="346"/>
+      <point x="546" y="360"/>
+      <point x="546" y="399" type="curve" smooth="yes"/>
+      <point x="546" y="646" type="line"/>
+      <point x="446" y="621" type="line"/>
+      <point x="446" y="411" type="line"/>
+      <point x="487" y="410" type="line"/>
+      <point x="462" y="431"/>
+      <point x="377" y="494"/>
+      <point x="310" y="518" type="curve"/>
+      <point x="347" y="496" type="line"/>
+      <point x="314" y="521"/>
+      <point x="256" y="536"/>
+      <point x="192" y="536" type="curve" smooth="yes"/>
+      <point x="115" y="536"/>
+      <point x="46" y="491"/>
+      <point x="25" y="427" type="curve" smooth="yes"/>
+      <point x="22" y="419"/>
+      <point x="24" y="411"/>
+      <point x="30" y="407" type="curve" smooth="yes"/>
+      <point x="76" y="378"/>
+      <point x="150" y="329"/>
+      <point x="198" y="306" type="curve"/>
+      <point x="207" y="306" type="line"/>
+      <point x="241" y="346"/>
+      <point x="269" y="365"/>
+      <point x="293" y="365" type="curve" smooth="yes"/>
+      <point x="305" y="365"/>
+      <point x="313" y="357"/>
+      <point x="313" y="345" type="curve" smooth="yes"/>
+      <point x="313" y="307"/>
+      <point x="264" y="275"/>
+      <point x="205" y="275" type="curve" smooth="yes"/>
+      <point x="152" y="275"/>
+      <point x="97" y="301"/>
+      <point x="13" y="366" type="curve"/>
+      <point x="1" y="353" type="line"/>
+      <point x="95" y="259"/>
+      <point x="181" y="213"/>
+      <point x="257" y="213" type="curve"/>
+    </contour>
+    <contour>
+      <point x="505" y="112" type="curve"/>
+      <point x="495" y="157" type="line"/>
+      <point x="418" y="206"/>
+      <point x="394" y="216"/>
+      <point x="321" y="251" type="curve"/>
+      <point x="322" y="197" type="line"/>
+      <point x="409" y="164"/>
+      <point x="436" y="152"/>
+    </contour>
+    <contour>
+      <point x="446" y="193" type="line"/>
+      <point x="546" y="193" type="line"/>
+      <point x="546" y="245" type="line"/>
+      <point x="455" y="296" type="line"/>
+      <point x="446" y="291" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="445" type="line"/>
+      <point x="376" y="621" type="line"/>
+      <point x="276" y="621" type="line"/>
+      <point x="276" y="489" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="564" type="curve" smooth="yes"/>
+      <point x="248" y="564"/>
+      <point x="282" y="575"/>
+      <point x="323" y="594" type="curve"/>
+      <point x="296" y="569" type="line"/>
+      <point x="507" y="569" type="line"/>
+      <point x="546" y="646" type="line"/>
+      <point x="537" y="654" type="line"/>
+      <point x="5" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="21" y="585"/>
+      <point x="88" y="564"/>
+    </contour>
+    <component base="_BaPost2" xOffset="17"/>
+    <component base="_terminal2" xOffset="39" yOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

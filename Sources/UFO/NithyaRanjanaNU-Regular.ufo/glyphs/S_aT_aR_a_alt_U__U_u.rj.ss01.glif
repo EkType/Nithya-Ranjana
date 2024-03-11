@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaTaRa_alt_U_Uu.rj.ss01" format="2">
+  <advance width="513"/>
+  <anchor x="358" y="25" name="bottom"/>
+  <anchor x="358" y="69" name="bottom2"/>
+  <anchor x="243" y="646" name="top2"/>
+  <anchor x="85" y="584" name="top_alt"/>
+  <anchor x="389" y="0" name="bottom3"/>
+  <anchor x="458" y="646" name="top1"/>
+  <outline>
+    <contour>
+      <point x="231" y="38" type="curve"/>
+      <point x="244" y="56" type="line"/>
+      <point x="213" y="77"/>
+      <point x="184" y="98"/>
+      <point x="158" y="126" type="curve"/>
+      <point x="170" y="97" type="line"/>
+      <point x="219" y="101"/>
+      <point x="242" y="123"/>
+      <point x="252" y="162" type="curve" smooth="yes"/>
+      <point x="258" y="191"/>
+      <point x="269" y="209"/>
+      <point x="299" y="209" type="curve" smooth="yes"/>
+      <point x="323" y="209"/>
+      <point x="347" y="198"/>
+      <point x="372" y="176" type="curve"/>
+      <point x="380" y="211" type="line"/>
+      <point x="332" y="247"/>
+      <point x="282" y="265"/>
+      <point x="225" y="265" type="curve" smooth="yes"/>
+      <point x="152" y="265"/>
+      <point x="101" y="227"/>
+      <point x="102" y="173" type="curve" smooth="yes"/>
+      <point x="103" y="121"/>
+      <point x="137" y="84"/>
+    </contour>
+    <contour>
+      <point x="547" y="-26" type="curve"/>
+      <point x="452" y="39" type="line"/>
+      <point x="425" y="161" type="line"/>
+      <point x="403" y="186" type="line"/>
+      <point x="388" y="190"/>
+      <point x="372" y="192"/>
+      <point x="362" y="192" type="curve" smooth="yes"/>
+      <point x="333" y="192"/>
+      <point x="323" y="182"/>
+      <point x="322" y="151" type="curve" smooth="yes"/>
+      <point x="321" y="126"/>
+      <point x="317" y="120"/>
+      <point x="304" y="120" type="curve" smooth="yes"/>
+      <point x="297" y="120"/>
+      <point x="290" y="122"/>
+      <point x="281" y="126" type="curve"/>
+      <point x="273" y="111" type="line"/>
+      <point x="348" y="69"/>
+      <point x="460" y="11"/>
+    </contour>
+    <component base="_terminal" xOffset="358"/>
+    <component base="_SaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

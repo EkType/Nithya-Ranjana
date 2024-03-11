@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaMa_alt_Ru.rj.ss01" format="2">
+  <advance width="648"/>
+  <anchor x="551" y="-8" name="bottom"/>
+  <anchor x="313" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="493" y="26" type="line"/>
+      <point x="593" y="26" type="line"/>
+      <point x="593" y="646" type="line"/>
+      <point x="493" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="80" type="curve" smooth="yes"/>
+      <point x="384" y="80"/>
+      <point x="408" y="106"/>
+      <point x="408" y="153" type="curve" smooth="yes"/>
+      <point x="408" y="241" type="line"/>
+      <point x="387" y="269" type="line"/>
+      <point x="315" y="277" type="line"/>
+      <point x="241" y="277"/>
+      <point x="192" y="248"/>
+      <point x="192" y="188" type="curve" smooth="yes"/>
+      <point x="192" y="127"/>
+      <point x="260" y="80"/>
+    </contour>
+    <contour>
+      <point x="534" y="120" type="curve"/>
+      <point x="541" y="149" type="line"/>
+      <point x="500" y="208"/>
+      <point x="431" y="257"/>
+      <point x="377" y="272" type="curve"/>
+      <point x="382" y="188" type="line"/>
+      <point x="423" y="186"/>
+      <point x="473" y="163"/>
+    </contour>
+    <contour>
+      <point x="316" y="574" type="line"/>
+      <point x="563" y="574" type="line"/>
+      <point x="593" y="646" type="line"/>
+      <point x="584" y="654" type="line"/>
+      <point x="316" y="654" type="line"/>
+    </contour>
+    <component base="_SaPre2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

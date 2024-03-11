@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>1000</integer>
+    <key>capHeight</key>
+    <integer>654</integer>
+    <key>copyright</key>
+    <string>Copyright 2024 The Nithya Ranjana Project Authors (https://github.com/EkType/NithyaRanjana)</string>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>familyName</key>
+    <string>Nithya Ranjana NU</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2024/03/05 07:30:37</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1000</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-200</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>This project is initiated and sponsored by Murali K. Prahalad, Ph.D.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Designed by Tathagata Biswas and Noopur Datye with help from Ananda Maharjan, Callijatra</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Ek Type</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://ektype.in</string>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1000</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-200</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>15</integer>
+      <integer>31</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>EKTF</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1000</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>250</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-26</integer>
+      <integer>0</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Nithya Ranjana NU</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>331</integer>
+  </dict>
+</plist>

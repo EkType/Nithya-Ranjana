@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tta.rj" format="2">
+  <advance width="570"/>
+  <unicode hex="091F"/>
+  <anchor x="336" y="20" name="bottom"/>
+  <anchor x="267" y="85" name="bottom2"/>
+  <anchor x="299" y="55" name="bottom3"/>
+  <anchor x="332" y="20" name="bottomRu"/>
+  <anchor x="104" y="584" name="top"/>
+  <anchor x="513" y="646" name="top1"/>
+  <anchor x="294" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="483" y="-22" type="curve"/>
+      <point x="497" y="-6" type="line"/>
+      <point x="411" y="67"/>
+      <point x="372" y="101"/>
+      <point x="299" y="175" type="curve"/>
+      <point x="275" y="190" type="line"/>
+      <point x="229" y="232"/>
+      <point x="174" y="278"/>
+      <point x="148" y="301" type="curve"/>
+      <point x="166" y="246" type="line"/>
+      <point x="201" y="321"/>
+      <point x="252.009" y="363"/>
+      <point x="326" y="363" type="curve" smooth="yes"/>
+      <point x="394" y="363"/>
+      <point x="463" y="327"/>
+      <point x="550" y="262" type="curve"/>
+      <point x="564" y="278" type="line"/>
+      <point x="527" y="316"/>
+      <point x="513" y="338"/>
+      <point x="513" y="377" type="curve" smooth="yes"/>
+      <point x="513" y="646" type="line"/>
+      <point x="413" y="634" type="line"/>
+      <point x="413" y="363" type="line"/>
+      <point x="423" y="397" type="line"/>
+      <point x="363" y="454"/>
+      <point x="317" y="469"/>
+      <point x="268" y="469" type="curve" smooth="yes"/>
+      <point x="132" y="469"/>
+      <point x="107" y="355"/>
+      <point x="61" y="355" type="curve" smooth="yes"/>
+      <point x="50" y="355"/>
+      <point x="37" y="363"/>
+      <point x="20" y="377" type="curve"/>
+      <point x="4" y="359" type="line"/>
+      <point x="125" y="244"/>
+      <point x="305" y="105"/>
+    </contour>
+    <contour>
+      <point x="388" y="82" type="line"/>
+      <point x="365" y="101"/>
+      <point x="362" y="116"/>
+      <point x="362" y="130" type="curve" smooth="yes"/>
+      <point x="362" y="164"/>
+      <point x="383" y="188"/>
+      <point x="415" y="188" type="curve" smooth="yes"/>
+      <point x="439" y="188"/>
+      <point x="465" y="178"/>
+      <point x="485" y="161" type="curve"/>
+      <point x="497" y="176" type="line"/>
+      <point x="441" y="243"/>
+      <point x="404" y="273"/>
+      <point x="345" y="273" type="curve" smooth="yes"/>
+      <point x="301" y="273"/>
+      <point x="262" y="240"/>
+      <point x="244" y="190" type="curve"/>
+    </contour>
+    <contour>
+      <point x="340" y="408" type="line"/>
+      <point x="340" y="635" type="line"/>
+      <point x="240" y="635" type="line"/>
+      <point x="240" y="415" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="541" type="curve" smooth="yes"/>
+      <point x="217" y="541"/>
+      <point x="275" y="555"/>
+      <point x="296" y="571" type="curve"/>
+      <point x="304" y="569" type="line"/>
+      <point x="478" y="569" type="line"/>
+      <point x="513" y="646" type="line"/>
+      <point x="504" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="0" y="644" type="line"/>
+      <point x="22" y="584"/>
+      <point x="79" y="541"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+    </dict>
+  </lib>
+</glyph>

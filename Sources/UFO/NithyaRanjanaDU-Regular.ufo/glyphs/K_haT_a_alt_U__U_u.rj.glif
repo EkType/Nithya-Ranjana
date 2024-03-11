@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KhaTa_alt_U_Uu.rj" format="2">
+  <advance width="524"/>
+  <anchor x="369" y="89" name="bottom"/>
+  <anchor x="373" y="60" name="bottom2"/>
+  <anchor x="294" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="254" y="36" type="curve"/>
+      <point x="262" y="52" type="line"/>
+      <point x="237" y="68"/>
+      <point x="208" y="90"/>
+      <point x="190" y="106" type="curve"/>
+      <point x="182" y="83" type="line"/>
+      <point x="226" y="87"/>
+      <point x="252" y="113"/>
+      <point x="257" y="146" type="curve" smooth="yes"/>
+      <point x="262" y="182"/>
+      <point x="281" y="199"/>
+      <point x="314" y="199" type="curve" smooth="yes"/>
+      <point x="333" y="199"/>
+      <point x="359" y="188"/>
+      <point x="393" y="168" type="curve"/>
+      <point x="411" y="201" type="line"/>
+      <point x="366" y="235"/>
+      <point x="300" y="260"/>
+      <point x="243" y="260" type="curve" smooth="yes"/>
+      <point x="155" y="260"/>
+      <point x="109" y="217"/>
+      <point x="109" y="158" type="curve" smooth="yes"/>
+      <point x="109" y="107"/>
+      <point x="163" y="69"/>
+    </contour>
+    <contour>
+      <point x="540" y="-26" type="curve"/>
+      <point x="549" y="-9" type="line"/>
+      <point x="519" y="8" type="line" smooth="yes"/>
+      <point x="480" y="30"/>
+      <point x="469" y="43"/>
+      <point x="469" y="100" type="curve" smooth="yes"/>
+      <point x="469" y="245" type="line"/>
+      <point x="369" y="245" type="line"/>
+      <point x="369" y="54" type="line"/>
+      <point x="412" y="29"/>
+      <point x="482" y="-1"/>
+    </contour>
+    <contour>
+      <point x="369" y="123" type="line"/>
+      <point x="469" y="123" type="line"/>
+      <point x="469" y="286" type="line"/>
+      <point x="369" y="286" type="line"/>
+    </contour>
+    <component base="_KhaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

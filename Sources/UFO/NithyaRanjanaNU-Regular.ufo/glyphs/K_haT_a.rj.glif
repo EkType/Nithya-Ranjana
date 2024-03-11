@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KhaTa.rj" format="2">
+  <advance width="524"/>
+  <anchor x="523" y="-26" name="bottom3"/>
+  <anchor x="469" y="646" name="top1"/>
+  <anchor x="294" y="646" name="top2"/>
+  <anchor x="369" y="40" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="358" y="-26" type="curve"/>
+      <point x="367" y="-8" type="line"/>
+      <point x="295" y="28"/>
+      <point x="247" y="60"/>
+      <point x="203" y="97" type="curve"/>
+      <point x="208" y="69" type="line"/>
+      <point x="251" y="76"/>
+      <point x="271" y="103"/>
+      <point x="271" y="137" type="curve" smooth="yes"/>
+      <point x="271" y="178"/>
+      <point x="287" y="198"/>
+      <point x="316" y="198" type="curve" smooth="yes"/>
+      <point x="335" y="198"/>
+      <point x="359" y="188"/>
+      <point x="393" y="168" type="curve"/>
+      <point x="411" y="201" type="line"/>
+      <point x="366" y="235"/>
+      <point x="300" y="260"/>
+      <point x="243" y="260" type="curve" smooth="yes"/>
+      <point x="155" y="260"/>
+      <point x="109" y="217"/>
+      <point x="109" y="158" type="curve" smooth="yes"/>
+      <point x="109" y="90"/>
+      <point x="187" y="45"/>
+    </contour>
+    <contour>
+      <point x="369" y="123" type="line"/>
+      <point x="469" y="123" type="line"/>
+      <point x="469" y="286" type="line"/>
+      <point x="369" y="286" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="369"/>
+    <component base="_KhaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

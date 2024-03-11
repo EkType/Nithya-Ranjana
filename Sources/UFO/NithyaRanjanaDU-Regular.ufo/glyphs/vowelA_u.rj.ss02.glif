@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vowelAu.rj.ss02" format="2">
+  <advance width="793"/>
+  <anchor x="638" y="35" name="bottom"/>
+  <anchor x="638" y="40" name="bottom2"/>
+  <anchor x="669" y="0" name="bottom3"/>
+  <anchor x="738" y="648" name="top1"/>
+  <anchor x="404" y="646" name="top2"/>
+  <outline>
+    <component base="vowelO.rj"/>
+    <component base="matraAi_LengthMark.rj.ss02" xOffset="208"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

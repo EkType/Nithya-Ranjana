@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraO.rj" format="2">
+  <advance width="199"/>
+  <unicode hex="11440"/>
+  <anchor x="44" y="35" name="bottom"/>
+  <anchor x="44" y="40" name="bottom2"/>
+  <anchor x="75" y="0" name="bottom3"/>
+  <anchor x="144" y="648" name="top1"/>
+  <anchor x="-173" y="646" name="top2"/>
+  <outline>
+    <component base="matraA.rj"/>
+    <component base="matraE.rj" xOffset="-351"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

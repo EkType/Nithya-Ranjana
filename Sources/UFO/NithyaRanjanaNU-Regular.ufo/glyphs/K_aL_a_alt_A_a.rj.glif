@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaLa_alt_Aa.rj" format="2">
+  <advance width="668"/>
+  <anchor x="354" y="646" name="top2"/>
+  <anchor x="83" y="605" name="top_alt"/>
+  <anchor x="518" y="35" name="bottom"/>
+  <anchor x="518" y="40" name="bottom2"/>
+  <anchor x="422" y="-11" name="bottom3_1"/>
+  <anchor x="549" y="0" name="bottom3_2"/>
+  <outline>
+    <contour>
+      <point x="594" y="300" type="curve"/>
+      <point x="618" y="330" type="line"/>
+      <point x="538" y="390"/>
+      <point x="434" y="447"/>
+      <point x="370" y="479" type="curve"/>
+      <point x="368" y="408" type="line"/>
+      <point x="424" y="387"/>
+      <point x="487" y="355"/>
+    </contour>
+    <contour>
+      <point x="209" y="562" type="curve" smooth="yes"/>
+      <point x="264" y="562"/>
+      <point x="321" y="564"/>
+      <point x="378" y="567" type="curve"/>
+      <point x="438" y="646" type="line"/>
+      <point x="430" y="654" type="line"/>
+      <point x="14" y="654" type="line"/>
+      <point x="10" y="646" type="line"/>
+      <point x="36" y="586"/>
+      <point x="115" y="562"/>
+    </contour>
+    <contour>
+      <point x="518" y="210" type="line"/>
+      <point x="618" y="210" type="line"/>
+      <point x="618" y="330" type="line"/>
+      <point x="518" y="362" type="line"/>
+    </contour>
+    <component base="_LaPost" xOffset="16"/>
+    <component base="_BaPre2" xOffset="31"/>
+    <component base="_terminal" xOffset="518"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_LaPost</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

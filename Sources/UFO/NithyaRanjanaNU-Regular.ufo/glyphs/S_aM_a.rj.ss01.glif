@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaMa.rj.ss01" format="2">
+  <advance width="648"/>
+  <anchor x="493" y="29" name="bottom"/>
+  <anchor x="493" y="69" name="bottom2"/>
+  <anchor x="593" y="646" name="top1"/>
+  <anchor x="313" y="646" name="top2"/>
+  <anchor x="61" y="593" name="top_alt"/>
+  <anchor x="493" y="29" name="bottom3"/>
+  <outline>
+    <component base="_MaPost2" xOffset="208"/>
+    <component base="_SaPre2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

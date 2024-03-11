@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAi_LengthMark.rj.ss02" format="2">
+  <anchor x="525" y="646" name="_top1"/>
+  <anchor x="558" y="754" name="top2"/>
+  <outline>
+    <contour>
+      <point x="457" y="645" type="line"/>
+      <point x="504" y="653"/>
+      <point x="537" y="688"/>
+      <point x="537" y="731" type="curve" smooth="yes"/>
+      <point x="537" y="771"/>
+      <point x="507" y="801"/>
+      <point x="463" y="801" type="curve" smooth="yes"/>
+      <point x="440" y="801"/>
+      <point x="416" y="789"/>
+      <point x="400" y="766" type="curve"/>
+      <point x="418" y="762" type="line"/>
+      <point x="437" y="794"/>
+      <point x="423" y="869"/>
+      <point x="341" y="869" type="curve" smooth="yes"/>
+      <point x="274" y="869"/>
+      <point x="265" y="804"/>
+      <point x="273" y="776" type="curve"/>
+      <point x="282" y="776" type="line"/>
+      <point x="291" y="797"/>
+      <point x="308" y="809"/>
+      <point x="333" y="809" type="curve" smooth="yes"/>
+      <point x="371" y="809"/>
+      <point x="394" y="784"/>
+      <point x="394" y="739" type="curve"/>
+      <point x="400" y="738" type="line"/>
+      <point x="441" y="752"/>
+      <point x="472" y="731"/>
+      <point x="472" y="699" type="curve" smooth="yes"/>
+      <point x="472" y="673"/>
+      <point x="454" y="654"/>
+      <point x="425" y="654" type="curve"/>
+    </contour>
+    <contour>
+      <point x="169" y="790" type="line"/>
+      <point x="218" y="790"/>
+      <point x="260" y="809"/>
+      <point x="260" y="853" type="curve" smooth="yes"/>
+      <point x="260" y="894"/>
+      <point x="230" y="925"/>
+      <point x="158" y="925" type="curve" smooth="yes"/>
+      <point x="111" y="925"/>
+      <point x="20" y="909"/>
+      <point x="-17" y="909" type="curve" smooth="yes"/>
+      <point x="-54" y="909"/>
+      <point x="-63" y="932"/>
+      <point x="-64" y="955" type="curve"/>
+      <point x="-74" y="955" type="line"/>
+      <point x="-78" y="907"/>
+      <point x="-61" y="866"/>
+      <point x="4" y="866" type="curve" smooth="yes"/>
+      <point x="63" y="866"/>
+      <point x="113" y="874"/>
+      <point x="149" y="874" type="curve" smooth="yes"/>
+      <point x="182" y="874"/>
+      <point x="199" y="859"/>
+      <point x="199" y="837" type="curve" smooth="yes"/>
+      <point x="199" y="819"/>
+      <point x="187" y="809"/>
+      <point x="165" y="802" type="curve"/>
+    </contour>
+    <contour>
+      <point x="289" y="674" type="curve" smooth="yes"/>
+      <point x="336" y="674"/>
+      <point x="363" y="695"/>
+      <point x="363" y="730" type="curve" smooth="yes"/>
+      <point x="363" y="754"/>
+      <point x="347" y="773"/>
+      <point x="310" y="776" type="curve"/>
+      <point x="308" y="768" type="line"/>
+      <point x="313" y="766"/>
+      <point x="317" y="760"/>
+      <point x="317" y="753" type="curve" smooth="yes"/>
+      <point x="317" y="740"/>
+      <point x="299" y="732"/>
+      <point x="276" y="732" type="curve" smooth="yes"/>
+      <point x="231" y="732"/>
+      <point x="209" y="749"/>
+      <point x="203" y="764" type="curve"/>
+      <point x="188" y="760"/>
+      <point x="176" y="758"/>
+      <point x="165" y="758" type="curve" smooth="yes"/>
+      <point x="125" y="758"/>
+      <point x="111" y="777"/>
+      <point x="111" y="795" type="curve" smooth="yes"/>
+      <point x="111" y="816"/>
+      <point x="127" y="830"/>
+      <point x="158" y="837" type="curve"/>
+      <point x="158" y="846" type="line"/>
+      <point x="95" y="850"/>
+      <point x="45" y="830"/>
+      <point x="45" y="780" type="curve" smooth="yes"/>
+      <point x="45" y="740"/>
+      <point x="84" y="713"/>
+      <point x="135" y="713" type="curve" smooth="yes"/>
+      <point x="165" y="713"/>
+      <point x="189" y="725"/>
+      <point x="198" y="736" type="curve"/>
+      <point x="181" y="749" type="line"/>
+      <point x="189" y="705"/>
+      <point x="238" y="674"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

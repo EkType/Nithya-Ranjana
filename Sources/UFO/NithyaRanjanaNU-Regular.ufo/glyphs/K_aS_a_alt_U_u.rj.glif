@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaSa_alt_Uu.rj" format="2">
+  <advance width="759"/>
+  <anchor x="424" y="99" name="bottom"/>
+  <anchor x="424" y="69" name="bottom2"/>
+  <anchor x="374" y="646" name="top2"/>
+  <anchor x="455" y="0" name="bottom3_1"/>
+  <anchor x="635" y="0" name="bottom3_2"/>
+  <outline>
+    <contour>
+      <point x="492" y="366" type="curve"/>
+      <point x="492" y="418" type="line"/>
+      <point x="430" y="449"/>
+      <point x="370" y="476"/>
+      <point x="305" y="500" type="curve"/>
+      <point x="305" y="430" type="line"/>
+      <point x="355" y="419"/>
+      <point x="420" y="396"/>
+    </contour>
+    <contour>
+      <point x="645" y="312" type="curve"/>
+      <point x="636" y="357" type="line"/>
+      <point x="595" y="383"/>
+      <point x="554" y="403"/>
+      <point x="492" y="429" type="curve"/>
+      <point x="492" y="372" type="line"/>
+      <point x="555" y="353"/>
+      <point x="598" y="336"/>
+    </contour>
+    <contour>
+      <point x="604" y="223" type="line"/>
+      <point x="704" y="223" type="line"/>
+      <point x="704" y="435" type="line"/>
+      <point x="613" y="473" type="line"/>
+      <point x="604" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="574" type="line"/>
+      <point x="713" y="574" type="line"/>
+      <point x="720" y="582" type="line"/>
+      <point x="678" y="654" type="line"/>
+      <point x="424" y="654" type="line"/>
+    </contour>
+    <component base="_BaMaComp" xOffset="15"/>
+    <component base="_SaPost3_alt_Uu"/>
+    <component base="_terminal" xOffset="604"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

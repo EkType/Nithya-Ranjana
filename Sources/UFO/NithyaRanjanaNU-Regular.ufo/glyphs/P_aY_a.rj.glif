@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaYa.rj" format="2">
+  <advance width="604"/>
+  <anchor x="449" y="69" name="bottom"/>
+  <anchor x="449" y="59" name="bottom2"/>
+  <anchor x="449" y="9" name="bottom3"/>
+  <anchor x="549" y="646" name="top1"/>
+  <anchor x="280" y="646" name="top2"/>
+  <anchor x="47" y="620" name="top_alt"/>
+  <outline>
+    <component base="_PaPre2" xOffset="-10"/>
+    <component base="_YaPost2" xOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

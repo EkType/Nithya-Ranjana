@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NyaSa_alt_Uu.rj" format="2">
+  <advance width="739"/>
+  <anchor x="403" y="99" name="bottom"/>
+  <anchor x="403" y="69" name="bottom2"/>
+  <anchor x="374" y="646" name="top2"/>
+  <anchor x="434" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="724" y="188" type="curve"/>
+      <point x="733" y="205" type="line"/>
+      <point x="688" y="228"/>
+      <point x="684" y="245"/>
+      <point x="684" y="288" type="curve" smooth="yes"/>
+      <point x="684" y="646" type="line"/>
+      <point x="584" y="619" type="line"/>
+      <point x="584" y="280" type="line"/>
+      <point x="598" y="294" type="line"/>
+      <point x="564" y="309"/>
+      <point x="525" y="327"/>
+      <point x="464" y="369" type="curve"/>
+      <point x="454" y="305" type="line"/>
+      <point x="512" y="279"/>
+      <point x="627" y="230"/>
+    </contour>
+    <contour>
+      <point x="431" y="309" type="curve"/>
+      <point x="431" y="365" type="line"/>
+      <point x="373" y="393"/>
+      <point x="317" y="426"/>
+      <point x="271" y="453" type="curve"/>
+      <point x="254" y="386" type="line"/>
+      <point x="282" y="374"/>
+      <point x="360" y="339"/>
+    </contour>
+    <contour>
+      <point x="404" y="574" type="line"/>
+      <point x="637" y="574" type="line"/>
+      <point x="684" y="646" type="line"/>
+      <point x="676" y="654" type="line"/>
+      <point x="469" y="654" type="line"/>
+    </contour>
+    <component base="_NyaPre2"/>
+    <component base="_SaPost3_alt_Uu" xOffset="-21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

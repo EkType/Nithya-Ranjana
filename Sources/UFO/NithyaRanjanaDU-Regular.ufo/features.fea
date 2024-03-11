@@ -1,0 +1,7048 @@
+@MatraADefault = [ matraA.rj
+matraIi.rj
+matraAu_LengthMark.rj
+
+];
+
+@MatraAlt1 = [ matraA_alt1.rj
+matraIi_alt1a.rj
+matraAu_LengthMark_alt1.rj
+
+];
+
+@MatraAlt1a = [ matraA_alt1a.rj
+matraIi_alt2a.rj
+matraAu_LengthMark_alt1a.rj
+
+];
+
+@MatraAlt1c = [ matraA_alt1c.rj
+matraIi_alt1c.rj
+matraAu_LengthMark_alt1c.rj
+
+];
+
+@MatraAlt1d = [ matraA_alt1d.rj
+matraIi_alt2d.rj
+matraAu_LengthMark_alt1d.rj
+
+];
+
+@HeadlessLetters1 = [ Kha.rj  Ga.rj  Nya.rj  Ttha.rj  Nna.rj  Tha.rj  Sha.rj
+
+#Two letter conjuncts
+KhaRa.rj KhaKha.rj KhaCha.rj KhaTa.rj KhaNa.rj KhaMa.rj KhaYa.rj KhaLa.rj KhaVa.rj KhaSha.rj KhaSa.rj 
+GaRa.rj GaGa.rj GaGha.rj GaCha.rj GaNna.rj GaDa.rj GaDha.rj GaNa.rj GaBa.rj GaBha.rj GaMa.rj GaYa.rj GaLa.rj GaVa.rj GaSha.rj GaSa.rj
+NyaRa.rj NyaCa.rj NyaCha.rj NyaJa.rj NyaJha.rj NyaNya.rj NyaMa.rj NyaYa.rj NyaVa.rj NyaSha.rj NyaSa.rj NyaNa.rj NyaLa.rj
+TthaRa.rj TthaTtha.rj TthaNa.rj TthaMa.rj TthaLa.rj TthaVa.rj TthaSa.rj TthaYa.rj
+NnaRa.rj NnaTta.rj NnaTtha.rj NnaNa.rj NnaDda.rj NnaDdha.rj NnaNna.rj NnaMa.rj NnaYa.rj NnaVa.rj NnaLa.rj
+ThaRa.rj ThaTha.rj ThaNa.rj ThaMa.rj ThaYa.rj ThaLa.rj ThaVa.rj ThaSa.rj
+ShaRa.rj ShaCa.rj ShaCha.rj ShaTta.rj ShaTa.rj ShaNa.rj ShaPa.rj ShaBa.rj ShaMa.rj ShaYa.rj ShaLa.rj ShaVa.rj ShaSha.rj
+RaDhaNa.rj
+
+#Three and Four letter conjuncts
+KhaTaYa.rj
+GaTaYa.rj GaGhaYa.rj GaNyaJa.rj GaDaVa.rj GaDhaVa.rj GaDhaRa.rj GaNaYa.rj GaPha.rj GaPhaRa.rj GaBhaYa.rj GaRaYa.rj GaVaYa.rj
+NyaKaSsa.rj NyaKaSsaVa.rj NyaCaMa.rj NyaCaYa.rj NyaChaVa.rj NyaJaYa.rj NyaJaNya.rj NyaJaVa.rj NyaShaRa.rj NyaShaLa.rj NyaShaVa.rj
+NnaDdaYa.rj NnaDdaRa.rj
+ThaVaYa.rj 
+DhaNaYa.rj DhaRaYa.rj
+NaDhaRaYa.rj
+ShaCaYa.rj ShaVaYa.rj ShaRaYa.rj
+RaDhaNaYa.rj RaDhaYa.rj RaDhaVa.rj
+
+];
+
+@HeadlessLetters1a = [ GaJaNya.rj
+
+];
+
+@HeadlessLetters1a_alt = [ GaJaNya_alt_Aa.rj
+
+];
+
+@HeadlessLetters1b = [ Dha.rj DhaRa.rj DhaDha.rj DhaNa.rj DhaMa.rj DhaYa.rj DhaVa.rj DhaLa.rj DhaSa.rj DhaHa.rj
+RaDha.rj RaDhaRa.rj RaDhaMa.rj RaDhaYa.rj
+NaDha.rj NaDhaYa.rj NaDhaRa.rj NaDhaVa.rj
+
+];
+
+@HeadlessLetters1c = [ GaJa.rj
+ShaKa.rj.ss01
+GaJaYa.rj
+
+];
+
+@HeadlessLetters1c_alt = [ GaJa_alt_Aa.rj
+ShaKa_alt_Aa.rj.ss01
+GaJaYa_alt_Aa.rj
+
+];
+
+@HeadlessLetters1d = [ ShaKa.rj
+
+];
+
+@HeadlessLetters1d_alt = [ ShaKa_alt_Aa.rj
+
+];
+
+@MatraAlt2a = [ matraA_alt2a.rj
+matraIi_alt2a.rj
+matraAu_LengthMark_alt2a.rj 
+
+];
+
+@MatraAlt2b = [ matraA_alt2b.rj
+matraIi_alt2b.rj
+matraAu_LengthMark_alt2b.rj 
+
+];
+
+@MatraAlt2c = [ matraA_alt2c.rj
+matraIi_alt2c.rj
+matraAu_LengthMark_alt2c.rj 
+
+];
+
+@MatraAlt2d = [ matraA_alt2d.rj
+matraIi_alt2d.rj
+matraAu_LengthMark_alt2d.rj 
+
+];
+
+@MatraAlt2e = [ matraA_alt2e.rj
+matraIi_alt2e.rj
+matraAu_LengthMark_alt2e.rj 
+
+];
+
+@MatraAlt2f = [ matraA_alt2f.rj
+matraIi_alt2f.rj
+matraAu_LengthMark_alt2f.rj 
+
+];
+
+@HandsdownLetters2a = [ Ka.rj 
+Ja.rj
+KaRa.rj 
+KaKha.rj 
+KaJha.rj 
+KaTta.rj 
+KaNna.rj 
+KaPa.rj 
+KaMa.rj 
+KaYa.rj 
+KaSa.rj
+JaRa.rj
+RaJa.rj
+RaKa.rj
+HaHa.rj
+
+#3 letter conjuncts
+KaTaRaYa.rj
+KaNaYa.rj
+KaLaYa.rj
+KaRaYa.rj
+KaSsaMaYa.rj
+KaTaYa.rj
+KaVaYa.rj
+KaSsaMa.rj
+KaSsaYa.rj
+JaGaYa.rj
+NaKaRa.rj
+SsaKaRa.rj
+SaKaYa.rj
+SaKaRa.rj
+SaKaVa.rj
+JaNyaMa.rj
+NaKaSsa.rj
+KaPaRa.rj
+NaKaLa.rj
+NaKaVa.rj
+RaKaSsaYa.rj
+
+];
+
+@HandsdownLetters2a_alt = [ Ka_alt_Aa.rj 
+Ja_alt_Aa.rj
+KaRa_alt_Aa.rj 
+KaKha_alt_Aa.rj 
+KaJha_alt_Aa.rj 
+KaTta_alt_Aa.rj 
+KaNna_alt_Aa.rj 
+KaPa_alt_Aa.rj 
+KaMa_alt_Aa.rj 
+KaYa_alt_Aa.rj 
+KaSa_alt_Aa.rj
+JaRa_alt_Aa.rj
+RaJa_alt_Aa.rj
+RaKa_alt_Aa.rj
+HaHa_alt_Aa.rj
+
+#3 letter conjuncts
+KaTaRaYa_alt_Aa.rj
+KaNaYa_alt_Aa.rj
+KaLaYa_alt_Aa.rj
+KaRaYa_alt_Aa.rj
+KaSsaMaYa_alt_Aa.rj
+KaTaYa_alt_Aa.rj
+KaVaYa_alt_Aa.rj
+KaSsaMa_alt_Aa.rj
+KaSsaYa_alt_Aa.rj
+JaGaYa_alt_Aa.rj
+NaKaRa_alt_Aa.rj
+SsaKaRa_alt_Aa.rj
+SaKaYa_alt_Aa.rj
+SaKaRa_alt_Aa.rj
+SaKaVa_alt_Aa.rj
+JaNyaMa_alt_Aa.rj
+NaKaSsa_alt_Aa.rj
+KaPaRa_alt_Aa.rj
+NaKaLa_alt_Aa.rj
+NaKaVa_alt_Aa.rj
+RaKaSsaYa_alt_Aa.rj
+
+];
+
+@HandsdownLetters2b = [ KaSsa.rj 
+JaNya.rj
+KaKa.rj 
+KaCa.rj 
+KaJa.rj 
+KaTa.rj 
+KaTha.rj 
+KaDa.rj 
+KaNa.rj 
+KaLa.rj 
+KaVa.rj 
+KaSha.rj 
+JaKa.rj 
+JaJa.rj 
+JaDda.rj 
+JaTa.rj 
+JaDa.rj 
+JaNa.rj 
+JaBa.rj 
+JaBha.rj 
+JaLa.rj 
+JaVa.rj 
+KaPha.rj
+JaJha.rj
+JaMa.rj
+JaYa.rj
+JaSa.rj
+JaTta.rj
+KaSsaRa.rj
+
+#3 letter conjuncts
+KaTaTa.rj
+KaTaTaRa.rj
+KaThaNa.rj
+KaTaRa.rj
+KaTaVa.rj
+KaSsaVa.rj
+JaJaYa.rj
+JaNyaYa.rj
+KaSsaNna.rj
+KaMaYa.rj
+RaJaVa.rj
+TaKaLa.rj
+
+];
+
+@HandsdownLetters2b_alt = [ KaSsa_alt_Aa.rj 
+JaNya_alt_Aa.rj
+KaKa_alt_Aa.rj 
+KaCa_alt_Aa.rj 
+KaJa_alt_Aa.rj 
+KaTa_alt_Aa.rj 
+KaTha_alt_Aa.rj 
+KaDa_alt_Aa.rj 
+KaNa_alt_Aa.rj 
+KaLa_alt_Aa.rj 
+KaVa_alt_Aa.rj 
+KaSha_alt_Aa.rj 
+JaKa_alt_Aa.rj 
+JaJa_alt_Aa.rj 
+JaDda_alt_Aa.rj 
+JaTa_alt_Aa.rj 
+JaDa_alt_Aa.rj 
+JaNa_alt_Aa.rj 
+JaBa_alt_Aa.rj 
+JaBha_alt_Aa.rj 
+JaLa_alt_Aa.rj 
+JaVa_alt_Aa.rj 
+KaPha_alt_Aa.rj
+JaJha_alt_Aa.rj
+JaMa_alt_Aa.rj
+JaYa_alt_Aa.rj
+JaSa_alt_Aa.rj
+JaTta_alt_Aa.rj
+KaSsaRa_alt_Aa.rj
+
+#3 letter conjuncts
+KaTaTa_alt_Aa.rj
+KaTaTaRa_alt_Aa.rj
+KaThaNa_alt_Aa.rj
+KaTaRa_alt_Aa.rj
+KaTaVa_alt_Aa.rj
+KaSsaVa_alt_Aa.rj
+JaJaYa_alt_Aa.rj
+JaNyaYa_alt_Aa.rj
+KaSsaNna_alt_Aa.rj
+KaMaYa_alt_Aa.rj
+RaJaVa_alt_Aa.rj
+TaKaLa_alt_Aa.rj
+
+];
+
+@HandsdownLetters2c = [ NaJa.rj 
+BaJa.rj 
+MaKa.rj 
+LaKa.rj 
+LaJa.rj 
+SsaKa.rj 
+SaJa.rj
+TaKa.rj
+NaKa.rj
+TaJa.rj
+
+NgaHaYa.rj
+TaKaRa.rj
+TaKaSsa.rj
+SaKa.rj.ss01
+TaKaVa.rj
+LaKaYa.rj
+RaHaYa.rj
+TaSaKa.rj
+
+];
+
+@HandsdownLetters2c_alt = [ NaJa_alt_Aa.rj 
+BaJa_alt_Aa.rj 
+MaKa_alt_Aa.rj 
+LaKa_alt_Aa.rj 
+LaJa_alt_Aa.rj 
+SsaKa_alt_Aa.rj 
+SaJa_alt_Aa.rj
+TaKa_alt_Aa.rj
+NaKa_alt_Aa.rj
+TaJa_alt_Aa.rj
+
+NgaHaYa_alt_Aa.rj
+TaKaRa_alt_Aa.rj
+TaKaSsa_alt_Aa.rj
+SaKa_alt_Aa.rj.ss01
+TaKaVa_alt_Aa.rj
+LaKaYa_alt_Aa.rj
+RaHaYa_alt_Aa.rj
+TaSaKa_alt_Aa.rj
+
+];
+
+@HandsdownLetters2d = [ DdaKa.rj
+SaKa.rj
+NaSaKa.rj
+
+];
+
+@HandsdownLetters2d_alt = [ DdaKa_alt_Aa.rj
+SaKa_alt_Aa.rj
+NaSaKa_alt_Aa.rj
+
+];
+
+@HandsdownLetters2e = [ #Ngha.rj
+#Nyha.rj
+#Mha.rj
+
+HaNga.rj
+HaNna.rj
+HaMa.rj
+HaYa.rj
+NgaHaVa.rj
+NaHaMa.rj
+NaHaYa.rj
+NaHaSa.rj
+MaHaMa.rj
+LaHaMa.rj
+LaHaYa.rj
+HaRaYa.rj
+HaVaYa.rj
+NaJaYa.rj
+RaKaSsa.rj
+RaJaNya.rj
+NgaHaLa.rj
+MaHaYa.rj
+MaHaLa.rj
+MaHaVa.rj
+RaJaYa.rj
+NyaHa.rj
+TaKaSsa.rj.ss01
+SaKaRa.rj.ss01
+SaKaVa.rj.ss01
+TaKaVa.rj.ss01
+TaKaRa.rj.ss01
+
+];
+
+@HandsdownLetters2e_alt = [ #HaNga_alt_Aa.rj
+#NyaHa_alt_Aa.rj
+#HaMa_alt_Aa.rj
+
+HaNga_alt_Aa.rj
+HaNna_alt_Aa.rj
+HaMa_alt_Aa.rj
+HaYa_alt_Aa.rj
+NgaHaVa_alt_Aa.rj
+NaHaMa_alt_Aa.rj
+NaHaYa_alt_Aa.rj
+NaHaSa_alt_Aa.rj
+MaHaMa_alt_Aa.rj
+LaHaMa_alt_Aa.rj
+LaHaYa_alt_Aa.rj
+HaRaYa_alt_Aa.rj
+HaVaYa_alt_Aa.rj
+NaJaYa_alt_Aa.rj
+RaKaSsa_alt_Aa.rj
+RaJaNya_alt_Aa.rj
+NgaHaLa_alt_Aa.rj
+MaHaYa_alt_Aa.rj
+MaHaLa_alt_Aa.rj
+MaHaVa_alt_Aa.rj
+RaJaYa_alt_Aa.rj
+NyaHa_alt_Aa.rj
+TaKaSsa_alt_Aa.rj.ss01
+SaKaRa_alt_Aa.rj.ss01
+SaKaVa_alt_Aa.rj.ss01
+TaKaVa_alt_Aa.rj.ss01
+TaKaRa_alt_Aa.rj.ss01
+
+];
+
+@HandsdownLetters2f = [ JaJaVa.rj
+JaNyaLa.rj
+JaNyaVa.rj
+KaSsaNa.rj
+KaSsaLa.rj
+JaNyaNa.rj
+JaNyaRa.rj
+JaJaNya.rj
+KaSsaKaSsa.rj
+KaKaSsa.rj
+
+];
+
+@HandsdownLetters2f_alt = [ JaJaVa_alt_Aa.rj
+JaNyaLa_alt_Aa.rj
+JaNyaVa_alt_Aa.rj
+KaSsaNa_alt_Aa.rj
+KaSsaLa_alt_Aa.rj
+JaNyaNa_alt_Aa.rj
+JaNyaRa_alt_Aa.rj
+JaJaNya_alt_Aa.rj
+KaSsaKaSsa_alt_Aa.rj
+KaKaSsa_alt_Aa.rj
+
+];
+
+@HandsupLetters = [ Gha.rj Nga.rj Jha.rj Tta.rj Ddha.rj 
+
+];
+
+@GroupE_alt1 = [ #Ngha.rj Nyha.rj Nha.rj Mha.rj Rha.rj Lha.rj
+
+KaSsa.rj
+KaSsa_alt_Aa.rj
+KaKha.rj
+KaKha_alt_Aa.rj
+KaJa.rj
+KaJa_alt_Aa.rj
+KaJha.rj
+KaJha_alt_Aa.rj
+KaTta.rj
+KaTta_alt_Aa.rj
+KaNna.rj
+KaNna_alt_Aa.rj
+KaTha.rj
+KaTha_alt_Aa.rj
+KaDa.rj
+KaDa_alt_Aa.rj
+KaNa.rj
+KaNa_alt_Aa.rj
+KaPa.rj
+KaPa_alt_Aa.rj
+KaPha.rj
+KaPha_alt_Aa.rj
+KaMa.rj
+KaMa_alt_Aa.rj
+KaYa.rj
+KaYa_alt_Aa.rj
+KaLa.rj
+KaLa_alt_Aa.rj
+KaSha.rj
+KaSha_alt_Aa.rj
+KaSa.rj
+KaSa_alt_Aa.rj
+
+GhaGha.rj
+GhaNa.rj
+GhaLa.rj
+GhaVa.rj
+GhaSa.rj
+GhaMa.rj
+GhaYa.rj
+GhaRa.rj
+
+CaMa.rj
+CaYa.rj
+CaSa.rj
+
+JaNya.rj
+JaNya_alt_Aa.rj
+JaDa.rj
+JaDa_alt_Aa.rj
+
+DdaGha.rj
+DdaDda.rj
+DdaDdha.rj
+DdaDa.rj
+
+NaKa.rj
+NaKa_alt_Aa.rj
+NaKha.rj
+NaGha.rj
+NaCa.rj
+NaCha.rj
+NaJa.rj
+NaJa_alt_Aa.rj
+NaTta.rj
+NaDda.rj
+NaTa.rj
+NaTha.rj
+NaDa.rj
+NaPa.rj
+NaPha.rj
+NaBa.rj
+NaBha.rj
+NaYa.rj
+NaVa.rj
+NaSha.rj
+NaSsa.rj
+
+BaJa.rj
+BaJa_alt_Aa.rj
+BaJha.rj
+BaTta.rj
+BaDda.rj
+BaDa.rj
+BaDha.rj
+BaNa.rj
+BaBha.rj
+BaMa.rj
+BaYa.rj
+BaLa.rj
+BaSha.rj
+BaSa.rj
+
+RaKa.rj
+RaKa_alt_Aa.rj
+RaKha.rj
+RaCa.rj
+RaCha.rj
+RaJa.rj
+RaJa_alt_Aa.rj
+RaJha.rj
+RaNya.rj
+RaTtha.rj
+RaDda.rj
+RaDdha.rj
+RaNna.rj
+RaTa.rj
+RaTha.rj
+RaDa.rj
+RaNa.rj
+RaPa.rj
+RaPha.rj
+RaBa.rj
+RaBha.rj
+RaMa.rj
+RaYa.rj
+RaRa.rj
+RaLa.rj
+RaVa.rj
+RaSha.rj
+RaSsa.rj
+RaSa.rj
+RaHa.rj
+RaKaSsa.rj
+RaKaSsa_alt_Aa.rj
+RaJaNya.rj
+RaJaNya_alt_Aa.rj
+RaGaYa.rj
+RaNgaGa.rj
+RaGhaYa.rj
+RaCaCha.rj
+RaCaYa.rj
+RaJaYa.rj
+RaJaVa.rj
+RaNnaYa.rj
+RaTaTa.rj
+RaTaMa.rj
+RaTaYa.rj
+RaTaRa.rj
+RaTaVa.rj
+RaTaSa.rj
+RaTaSaYa.rj
+RaTaSaNaYa.rj
+RaThaYa.rj
+RaNaYa.rj
+RaDaDa.rj
+RaDaDha.rj
+RaDaYa.rj
+RaDaRa.rj
+RaDaVa.rj
+RaBaRa.rj
+RaBhaYa.rj
+RaBhaRa.rj
+RaMaYa.rj
+RaShaVa.rj
+RaVaYa.rj
+RaVaRa.rj
+RaHaRa.rj
+RaShaYa.rj
+RaSsaTta.rj
+RaSsaYa.rj
+RaHaYa.rj
+RaKaSsaYa.rj
+
+
+LaKa.rj
+LaKa_alt_Aa.rj
+LaKha.rj
+LaCa.rj
+LaJa.rj
+LaJa_alt_Aa.rj
+LaTta.rj
+LaTtha.rj
+LaDda.rj
+LaDdha.rj
+LaTa.rj
+LaTa.rj
+LaTha.rj
+LaDa.rj
+LaPa.rj
+LaPha.rj
+LaBa.rj
+LaBha.rj
+LaVa.rj
+LaSha.rj
+
+VaDda.rj
+VaDa.rj
+VaNa.rj
+VaMa.rj
+VaYa.rj
+VaLa.rj
+
+HaNga.rj
+HaNga_alt_Aa.rj
+HaNna.rj
+HaNna_alt_Aa.rj
+HaRaYa.rj
+HaRaYa_alt_Aa.rj
+HaNa.rj
+HaMa.rj
+HaMa_alt_Aa.rj
+HaYa.rj
+HaYa_alt_Aa.rj
+HaLa.rj
+HaVa.rj
+HaHa.rj
+HaHa_alt_Aa.rj
+NyaHa.rj
+NyaHa_alt_Aa.rj
+NaDha.rj.ss01
+
+#3letter conjuncts
+KaTaRaYa.rj
+KaTaRaYa_alt_Aa.rj
+KaThaNa.rj
+KaThaNa_alt_Aa.rj
+KaNaYa.rj
+KaNaYa_alt_Aa.rj
+KaLaYa.rj
+KaLaYa_alt_Aa.rj
+KaSsaKaSsa.rj
+KaSsaKaSsa_alt_Aa.rj
+GhaNaYa.rj
+CaChaYa.rj
+ChaCaMa.rj
+DdaGaRa.rj
+DdaGhaRa.rj
+DaGaYa.rj
+DaGaRa.rj
+DaDaYa.rj
+DaDaRa.rj
+DaDaVa.rj
+DaDhaNa.rj
+DaDhaYa.rj
+DaDhaRa.rj
+DaDhaVa.rj
+DaVaRa.rj
+DaBhaYa.rj
+DaVaYa.rj
+NaNaYa.rj
+BaBhaYa.rj
+BaDhaRa.rj
+KaSsaMaYa.rj
+KaSsaMaYa_alt_Aa.rj
+TaSaNaYa.rj
+NaTaRaYa.rj
+KaTaYa.rj
+KaTaYa_alt_Aa.rj
+KaTaVa.rj
+KaTaVa_alt_Aa.rj
+KaVaYa.rj
+KaVaYa_alt_Aa.rj
+KaSsaMa.rj
+KaSsaMa_alt_Aa.rj
+KaSsaYa.rj
+KaSsaYa_alt_Aa.rj
+KaSsaVa.rj
+KaSsaVa_alt_Aa.rj
+
+NgaKaTaYa.rj
+NgaKaYa.rj
+NgaKhaYa.rj
+NgaKaSsa.rj
+NgaKaSsaVa.rj
+NgaGaYa.rj
+NgaGaRa.rj
+NgaGhaYa.rj
+NgaGhaRa.rj
+NgaHaYa.rj
+NgaHaYa_alt_Aa.rj
+NgaHaLa.rj
+NgaHaLa_alt_Aa.rj
+NgaHaVa.rj
+NgaHaVa_alt_Aa.rj
+JaGaYa.rj
+JaGaYa_alt_Aa.rj
+JaJaYa.rj
+JaJaYa_alt_Aa.rj
+JaJaVa.rj
+JaJaVa_alt_Aa.rj
+JaNyaYa.rj
+JaNyaYa_alt_Aa.rj
+JaNyaLa.rj
+JaNyaLa_alt_Aa.rj
+JaNyaVa.rj
+JaNyaVa_alt_Aa.rj
+TaSaTa.rj
+TaSaTaRa.rj
+TaSaTha.rj
+TaSaNa.rj
+TaSaMa.rj
+TaSaMaYa.rj
+TaSaVa.rj
+
+NaKaRa.rj
+NaKaRa_alt_Aa.rj
+NaKhaYa.rj
+NaJaYa.rj
+NaJaYa_alt_Aa.rj
+NaTaYa.rj
+NaTaRa.rj
+NaTaLa.rj
+NaTaVa.rj
+NaThaYa.rj
+NaDaDha.rj
+NaDaYa.rj
+NaDaRa.rj
+NaDaVa.rj
+NaNaVa.rj
+NaPaRa.rj
+NaPaVa.rj
+NaBaRa.rj
+NaVaRa.rj
+NaBhaRa.rj
+NaVaYa.rj
+NaSaTa.rj
+NaSaTha.rj
+NaSaTta.rj
+NaSaTtaRa.rj
+NaSaVa.rj
+NaHaSa.rj
+NaHaSa_alt_Aa.rj
+PaTaYa.rj
+PaTaRaYa.rj
+PaVaYa.rj
+PaSaVa.rj
+PaSaYa.rj
+BaDhaVa.rj
+MaKhaVa.rj
+MaNaYa.rj
+MaPaRa.rj
+MaPaLa.rj
+MaPaVa.rj
+MaPaYa.rj
+MaPhaVa.rj
+MaBaYa.rj
+MaBaVa.rj
+MaBhaVa.rj
+MaHaMa.rj
+MaHaMa_alt_Aa.rj
+MaHaYa.rj
+MaHaYa_alt_Aa.rj
+MaHaLa.rj
+MaHaLa_alt_Aa.rj
+MaHaVa.rj
+MaHaVa_alt_Aa.rj
+LaBhaYa.rj
+LaMaYa.rj
+LaHaMa.rj
+LaHaMa_alt_Aa.rj
+LaHaYa.rj
+LaHaYa_alt_Aa.rj
+SsaTtaYa.rj
+SsaTtaRa.rj
+SsaTtaVa.rj
+SsaTtaRaYa.rj
+SsaTthaYa.rj
+SsaNnaYa.rj
+SsaNnaVa.rj
+SsaPaRa.rj
+SaSaVa.rj
+SaMaYa.rj
+
+DdaGaYa.rj
+NaTtaRa.rj
+NaTaSa.rj
+NaSaKa.rj
+NaSaKa_alt_Aa.rj
+
+LaHaLa.rj
+LaHaVa.rj
+KaSsaNna.rj
+KaSsaNna_alt_Aa.rj
+KaSsaNa.rj
+KaSsaNa_alt_Aa.rj
+KaSsaLa.rj
+KaSsaLa_alt_Aa.rj
+JaNyaNa.rj
+JaNyaNa_alt_Aa.rj
+JaNyaMa.rj
+JaNyaMa_alt_Aa.rj
+RaHaRa.rj
+JaJaNya.rj
+JaJaNya_alt_Aa.rj
+
+NgaGaDhaYa.rj
+NgaKaSsaNna.rj
+
+RaBaRa.rj
+RaVaRa.rj
+NaKaSsa.rj
+NaKaSsa_alt_Aa.rj
+RaDaVa.rj
+RaVaYa.rj
+
+KaPaRa.rj
+KaPaRa_alt_Aa.rj
+TaSaPha.rj
+TaKhaYa.rj
+TaSaKa.rj
+TaSaKa_alt_Aa.rj
+TaSaPa.rj
+NaMaYa.rj
+NaSsaTta.rj
+LaKaYa.rj
+LaKaYa_alt_Aa.rj
+KaKaSsa.rj
+KaKaSsa_alt_Aa.rj
+KaMaYa.rj
+KaMaYa_alt_Aa.rj
+LaPaYa.rj
+NaDaDhaVa.rj
+NaKaLa.rj
+NaKaLa_alt_Aa.rj
+NaKaVa.rj
+NaKaVa_alt_Aa.rj
+NaMaLa.rj
+NaSaNa.rj
+NaSaPa.rj
+NaSaTaRa.rj
+
+NaTaSaTa.rj
+NaTaSaVa.rj
+NaTaSaYa.rj
+NaTaVaYa.rj
+NaTaVaYa.rj
+NgaKaSsaYa.rj
+PaNaYa.rj
+RaCaCha.rj
+RaCaYa.rj
+RaDaDa.rj
+RaHaYa.rj
+RaHaYa_alt_Aa.rj
+RaJaVa.rj
+RaJaVa_alt_Aa.rj
+RaJaYa.rj
+RaJaYa_alt_Aa.rj
+RaKaSsaYa.rj
+RaKaSsaYa_alt_Aa.rj
+RaMaYa.rj
+RaNgaGa.rj
+
+RaSsaTta.rj
+RaSsaYa.rj
+RaTaSa.rj
+RaTaSaNaYa.rj
+RaTaSaYa.rj
+NaGhaNa.rj
+RaGaYa.rj
+RaNnaYa.rj
+RaDaYa.rj
+TaKaSsa.rj.ss01
+
+];
+
+@GroupE_alt2 = [ ChaCha.rj
+ChaMa.rj
+ChaNa.rj
+ChaYa.rj
+ChaLa.rj
+ChaVa.rj
+ChaSa.rj
+
+NgaKa.rj
+NgaKha.rj
+NgaGa.rj
+NgaGha.rj
+NgaNga.rj
+NgaCha.rj
+NgaNa.rj
+NgaMa.rj
+NgaYa.rj
+NgaLa.rj
+NgaVa.rj
+NgaSa.rj
+
+JaKa.rj
+JaKa_alt_Aa.rj
+JaJa.rj
+JaJa_alt_Aa.rj
+JaJha.rj
+JaJha_alt_Aa.rj
+JaTta.rj
+JaTta_alt_Aa.rj
+JaDda.rj
+JaDda_alt_Aa.rj
+JaTa.rj
+JaTa_alt_Aa.rj
+JaNa.rj
+JaNa_alt_Aa.rj
+JaBa.rj
+JaBa_alt_Aa.rj
+JaBha.rj
+JaBha_alt_Aa.rj
+JaMa.rj
+JaMa_alt_Aa.rj
+JaYa.rj
+JaYa_alt_Aa.rj
+JaLa.rj
+JaLa_alt_Aa.rj
+JaVa.rj
+JaVa_alt_Aa.rj
+JaBha_alt_Aa.rj
+JaSa.rj
+JaSa_alt_Aa.rj
+
+TtaTta.rj
+TtaPa.rj
+TtaMa.rj
+TtaSsa.rj
+TtaSa.rj
+TtaYa.rj
+
+DdaKa.rj
+DdaKa_alt_Aa.rj
+DdaGa.rj
+DdaNa.rj
+DdaBha.rj
+DdaMa.rj
+DdaLa.rj
+DdaVa.rj
+DdaSa.rj
+DdaYa.rj
+
+DdhaDdha.rj
+DdhaNna.rj
+DdhaMa.rj
+DdhaSa.rj
+DdhaYa.rj
+
+DaDa.rj
+DaDha.rj
+
+NaGa.rj
+NaNa.rj
+NaMa.rj
+NaLa.rj
+NaSa.rj
+
+PaCa.rj
+PaCha.rj
+PaTta.rj
+PaTa.rj
+PaNa.rj
+PaPa.rj
+PaPha.rj
+PaMa.rj
+PaYa.rj
+PaLa.rj
+PaVa.rj
+PaSha.rj
+PaSa.rj
+
+PhaJa.rj
+PhaTta.rj
+PhaTa.rj
+PhaTha.rj
+PhaNa.rj
+PhaPa.rj
+PhaPha.rj
+PhaMa.rj
+PhaYa.rj
+PhaLa.rj
+PhaVa.rj
+PhaVa.rj
+PhaSha.rj
+PhaSa.rj
+
+BaGha.rj
+
+MaKa.rj
+MaKa_alt_Aa.rj
+MaKha.rj
+MaGha.rj
+MaCa.rj
+MaTa.rj
+MaDa.rj
+MaNa.rj
+MaPa.rj
+MaPha.rj
+MaBa.rj
+MaBha.rj
+MaMa.rj
+MaYa.rj
+MaLa.rj
+MaVa.rj
+MaSha.rj
+MaSa.rj
+MaNna.rj
+
+YaNa.rj
+YaMa.rj
+YaYa.rj
+YaLa.rj
+YaVa.rj
+YaSa.rj
+
+LaGa.rj
+LaNa.rj
+LaMa.rj
+LaYa.rj
+LaLa.rj
+LaSa.rj
+
+SsaKa.rj
+SsaKa_alt_Aa.rj
+SsaTta.rj
+SsaTtha.rj
+SsaNna.rj
+SsaNa.rj
+SsaPa.rj
+SsaPha.rj
+SsaMa.rj
+SsaYa.rj
+SsaLa.rj
+SsaVa.rj
+SsaSsa.rj
+
+SaDa.rj
+SaTta.rj
+
+BhaBha.rj.ss01
+BhaLa.rj.ss01
+BhaMa.rj.ss01
+BhaNa.rj.ss01
+BhaSa.rj.ss01
+BhaVa.rj.ss01
+BhaYa.rj.ss01
+DdaDa.rj.ss01
+DdaDda.rj.ss01
+DdaDdha.rj.ss01
+DdaGa.rj.ss01
+DdaGha.rj.ss01
+DdaKa.rj.ss01
+DdaLa.rj.ss01
+DdaSa.rj.ss01
+DdaVa.rj.ss01
+DdaYa.rj.ss01
+NgaCha.rj.ss01
+NgaGa.rj.ss01
+NgaGha.rj.ss01
+NgaKa.rj.ss01
+NgaKha.rj.ss01
+NgaLa.rj.ss01
+NgaMa.rj.ss01
+NgaNa.rj.ss01
+NgaNga.rj.ss01
+NgaSa.rj.ss01
+NgaVa.rj.ss01
+NgaYa.rj.ss01
+SaKha.rj
+SaMa.rj.ss01
+SaPa.rj.ss01
+SaPha.rj.ss01
+SaSa.rj.ss01
+SaTha.rj.ss01
+SaYa.rj.ss01
+TaBha.rj.ss01
+TaKa.rj.ss01
+TaKa_alt_Aa.rj.ss01
+TaKha.rj.ss01
+TaLa.rj.ss01
+TaMa.rj.ss01
+TaNa.rj.ss01
+TaPa.rj.ss01
+TaPha.rj.ss01
+TaSa.rj.ss01
+TaSaRa.rj.ss01
+TaTa.rj.ss01
+TaTha.rj.ss01
+TaVa.rj.ss01
+TaYa.rj.ss01
+
+RaGa.rj
+RaGha.rj
+RaNga.rj
+RaTta.rj
+RaDdha.rj
+
+#3 letter conjuncts
+KaTaTa.rj
+KaTaTa_alt_Aa.rj
+KaTaTaRa.rj
+KaTaTaRa_alt_Aa.rj
+KaRaYa.rj
+KaRaYa_alt_Aa.rj
+CaChaRa.rj
+CaSaYa.rj
+DaBaRa.rj
+DaRaYa.rj
+CaChaVa.rj
+TaTaYa.rj
+TaNaYa.rj
+TaPaLa.rj
+TaMaYa.rj
+TaRaYa.rj
+TaRaTaRa.rj
+TaVaYa.rj
+NaHaMa.rj
+NaHaMa_alt_Aa.rj
+NaHaYa.rj
+NaHaYa_alt_Aa.rj
+NaHaRa.rj
+NaHaLa.rj
+NaHaVa.rj
+PaTaRa.rj
+PaTaVa.rj
+SsaKaRa.rj
+SsaKaRa_alt_Aa.rj
+HaRaYa_alt_Aa.rj
+HaVaYa.rj
+HaVaYa_alt_Aa.rj
+TaRaLa.rj
+TaRaVa.rj
+TaSaYa.rj
+KaSsaRa.rj
+KaSsaRa_alt_Aa.rj
+JaNyaRa.rj
+JaNyaRa_alt_Aa.rj
+
+TaPaRa.rj
+SaPaRa.rj
+
+NaSaYa.rj
+
+CaCaYa.rj
+NaGaRa.rj
+NaSaMa.rj
+DaMaYa.rj
+NgaGaDhaVa.rj
+NgaKaTa.rj
+NgaKaTaVa.rj
+NgaTaVa.rj
+TtaKaSsa.rj
+NgaKaRa.rj
+NgaKaVa.rj
+NgaGhaRaYa.rj
+
+
+];
+
+@HeadlessE_1 = [ Kha.rj
+TthaVa.rj
+ThaTha.rj
+KhaRa.rj
+NyaRa.rj
+NyaCa.rj
+NyaKaSsa.rj
+
+];
+
+@HeadlessE_2 = [ Ga.rj
+Nya.rj
+Ttha.rj
+Nna.rj
+Tha.rj
+Sha.rj
+
+KhaMa.rj
+KhaYa.rj
+KhaVa.rj
+KhaSa.rj
+GaGa.rj
+GaGha.rj
+GaMa.rj
+GaYa.rj
+GaRa.rj
+GaSa.rj
+NyaJha.rj
+NyaMa.rj
+NyaYa.rj
+
+TthaTtha.rj
+NnaTta.rj
+NnaNa.rj
+NnaDdha.rj
+NnaNna.rj
+NnaMa.rj
+NnaYa.rj
+NnaVa.rj
+ShaKa.rj
+ShaKa_alt_Aa.rj
+ShaCa.rj
+ShaTta.rj
+ShaTa.rj
+ShaNa.rj
+ShaPa.rj
+ShaBa.rj
+ShaMa.rj
+ShaYa.rj
+ShaLa.rj
+ShaVa.rj
+ShaYa.rj.ss01
+
+#reph
+#RaGa.rj
+#RaNya.rj
+#RaTtha.rj
+#RaTha.rj
+
+TthaRa.rj
+NnaRa.rj
+ShaRa.rj
+
+];
+
+@HeadlessE_3 = [ KhaKha.rj
+GaPha.rj
+GaBa.rj
+GaVa.rj
+TthaMa.rj
+TthaSa.rj
+TthaYa.rj
+NnaTtha.rj
+ThaMa.rj
+ThaYa.rj
+ThaSa.rj
+ShaKa.rj.ss01
+ShaPa.rj.ss01
+ShaBa.rj.ss01
+ShaMa.rj.ss01
+ShaVa.rj.ss01
+
+NyaSa.rj
+NnaDda.rj
+
+KhaTaYa.rj
+GaJaNya.rj
+GaJaNya_alt_Aa.rj
+GaNaYa.rj
+GaPhaRa.rj
+GaRaYa.rj
+NyaJaYa.rj
+NyaCaMa.rj
+NnaDdaYa.rj
+NnaDdaRa.rj
+ShaCaYa.rj
+ShaVaYa.rj
+ShaRaYa.rj
+
+GaDhaRa.rj
+GaGhaYa.rj
+GaJaYa.rj
+GaJaYa_alt_Aa.rj
+
+
+];
+
+@HeadlessE_4 = [ KhaCha.rj
+KhaTa.rj
+KhaNa.rj
+KhaLa.rj
+KhaSha.rj
+GaCha.rj
+GaJa.rj
+GaJa_alt_Aa.rj
+GaNna.rj
+GaDa.rj
+GaDha.rj
+GaNa.rj
+GaBha.rj
+GaLa.rj
+GaSha.rj
+NyaCha.rj
+NyaJa.rj
+NyaNya.rj
+NyaNa.rj
+NyaLa.rj
+NyaVa.rj
+NyaSha.rj
+NyaShaRa.rj
+NyaShaVa.rj
+TthaNa.rj
+TthaLa.rj
+ThaNa.rj
+ThaLa.rj
+ThaVa.rj
+ShaCha.rj
+ShaSha.rj
+ShaNa.rj.ss01
+ShaLa.rj.ss01
+
+ThaRa.rj
+
+NyaKaSsaVa.rj
+NyaCaYa.rj
+NyaJaNya.rj
+NyaJaVa.rj
+NyaShaLa.rj
+
+ShaTa.rj.ss01
+
+NnaLa.rj
+
+GaTaYa.rj
+GaDhaVa.rj
+GaBhaYa.rj
+GaNyaJa.rj
+GaDaVa.rj
+GaVaYa.rj
+NyaChaVa.rj
+ThaVaYa.rj
+
+];
+
+@HeadlessE_1b = [ Dha.rj
+DhaSa.rj
+DhaHa.rj
+DhaMa.rj
+DhaYa.rj
+DhaRa.rj
+DhaVa.rj
+RaDha.rj
+
+];
+
+@HeadlessE_2b = [ DhaDha.rj
+DhaNa.rj
+DhaLa.rj
+
+];
+
+@HeadlessE_3b = [ DhaNaYa.rj
+DhaRaYa.rj
+
+];
+
+@HeadlessE_4b = [ NaDha.rj
+NaDhaYa.rj
+NaDhaRa.rj
+NaDhaVa.rj
+
+RaDhaRa.rj
+RaDhaVa.rj
+
+];
+
+@HeadlessE_5b = [ RaDhaMa.rj
+RaDhaNa.rj
+RaDhaYa.rj
+NaDhaRaYa.rj
+RaDhaNaYa.rj
+
+];
+
+@Group2_Ai = [ #matraAi_LengthMark2.rj, this group will have all the mid-width characters
+Ra.rj Ka.rj Ca.rj Cha.rj Ja.rj Dda.rj Ta.rj Da.rj Na.rj Pa.rj Ba.rj Bha.rj Ma.rj Va.rj Ssa.rj Ha.rj SaKa.rj.ss01 SaJa.rj
+RaRa.rj KaRa.rj CaRa.rj ChaRa.rj JaRa.rj DdaRa.rj TaRa.rj DaRa.rj NaRa.rj PaRa.rj BaRa.rj BhaRa.rj MaRa.rj VaRa.rj SsaRa.rj HaRa.rj 
+
+KaKa.rj KaCa.rj KaJa.rj KaTa.rj  KaTha.rj KaDa.rj KaNa.rj KaLa.rj KaSsa.rj KaVa.rj KaSha.rj
+GhaNa.rj GhaLa.rj GhaVa.rj
+CaCa.rj CaCha.rj CaNa.rj CaLa.rj CaVa.rj
+ChaCha.rj ChaNa.rj ChaLa.rj ChaVa.rj
+JaNa.rj JaLa.rj
+DdaDda.rj DdaDa.rj DdaLa.rj DdaVa.rj DdaGha.rj
+DaDa.rj DaDha.rj DaNa.rj DaBa.rj DaBha.rj DaLa.rj DaVa.rj
+TthaTtha.rj TthaNa.rj TthaLa.rj 
+DdaNa.rj DdaBha.rj
+TaJa.rj
+NaKa.rj NaCa.rj NaCha.rj NaJa.rj NaDda.rj NaTa.rj NaTha.rj NaDa.rj NaNa.rj NaBa.rj NaBha.rj NaLa.rj NaVa.rj NaSha.rj
+PaCa.rj PaCha.rj PaTa.rj PaNa.rj PaLa.rj PaVa.rj PaSha.rj
+BaCha.rj BaJa.rj BaDda.rj BaTa.rj BaDha.rj BaNa.rj BaBa.rj BaBha.rj BaLa.rj BaVa.rj BaSha.rj BaDa.rj 
+BhaDa.rj
+MaKa.rj MaCa.rj MaTa.rj MaDa.rj MaNa.rj MaBa.rj MaBha.rj MaLa.rj MaVa.rj MaSha.rj
+YaNa.rj YaLa.rj YaVa.rj
+RaKa.rj RaCa.rj RaCha.rj RaJa.rj RaDda.rj RaTa.rj RaTha.rj RaDa.rj RaNa.rj RaPa.rj RaBa.rj RaBha.rj RaMa.rj RaVa.rj RaSha.rj RaSsa.rj RaHa.rj
+
+LaKa.rj LaCa.rj LaJa.rj LaTtha.rj LaTa.rj LaTha.rj LaDa.rj LaDda.rj LaBa.rj LaBha.rj LaVa.rj LaSha.rj
+VaVa.rj VaNa.rj VaLa.rj VaDa.rj
+SsaKa.rj SsaTtha.rj SsaNa.rj SsaLa.rj SsaVa.rj
+SaDa.rj
+HaLa.rj HaVa.rj
+
+KaSsaRa.rj KaTaTa.rj KaTaRa.rj KaTaTaRa.rj KaThaNa.rj KaPaRa.rj KaSsaNa.rj KaSsaLa.rj KaTaRaYa.rj KaTaVa.rj 
+CaChaRa.rj
+DaDhaRa.rj DaDhaVa.rj DaBhaRa.rj BaDhaRa.rj
+
+CaChaVa.rj
+DdaGaRa.rj DdaGhaRa.rj
+TaRaTaRa.rj TaRaLa.rj TaRaVa.rj
+DaDaRa.rj DaDaVa.rj DaDhaNa.rj DaBaRa.rj DaVaRa.rj
+NaKaRa.rj NaKaVa.rj NaTaRa.rj NaDaRa.rj NaDaVa.rj NaDaDha.rj NaDaDhaVa.rj NaVaRa.rj NaNaVa.rj NaBaRa.rj NaBhaRa.rj NaHaRa.rj NaTaVa.rj NaGhaNa.rj
+PaTaRa.rj PaTaVa.rj
+BaDhaVa.rj
+MaBaVa.rj MaBhaVa.rj
+SsaKaRa.rj
+RaCaCha.rj RaTaTa.rj RaTaRa.rj RaDaDa.rj RaVaRa.rj RaTaVa.rj RaDaDha.rj RaDaRa.rj RaBhaRa.rj RaShaVa.rj RaHaRa.rj
+LaHaLa.rj LaHaVa.rj
+
+
+
+
+
+
+
+];
+
+@Group3_Ai = [ #matraAi_LengthMark3.rj, this group will have all the narrow-width characters
+DdaKa.rj 
+RaTtha.rj
+VaDda.rj 
+HaHa.rj
+
+KaKaSsa.rj KaSsaVa.rj KaSsaKaSsa.rj 
+NaKaLa.rj NaKaSsa.rj
+JaNya.rj JaNyaRa.rj JaNyaLa.rj JaJaNya.rj JaJaVa.rj JaNyaVa.rj JaNyaNa.rj JaNyaLa.rj
+JaKa.rj JaJa.rj JaDda.rj JaTa.rj JaDa.rj JaBa.rj JaBha.rj JaVa.rj
+RaKaSsa.rj RaJaNya.rj RaJaVa.rj
+
+
+
+
+
+];
+
+@U_Uu_Group = [ Kha.rj 
+Gha.rj
+Nna.rj 
+La.rj 
+Sha.rj 
+Sa.rj 
+Ta.rj 
+Bha.rj 
+
+KaTa.rj
+KhaTa.rj
+JaTa.rj
+PaTa.rj
+PhaTa.rj
+BaTa.rj
+MaTa.rj
+NaTa.rj
+LaTa.rj
+RaTa.rj
+
+TaKa.rj
+TaTha.rj
+TaNa.rj
+TaPha.rj
+TaBha.rj
+TaLa.rj
+TaVa.rj
+
+BhaBha.rj
+BhaNa.rj
+BhaVa.rj
+
+TaLa.rj
+BhaLa.rj
+ShaLa.rj
+SaLa.rj
+
+SaKa.rj
+SaTha.rj
+SaNa.rj
+SaBa.rj
+SaLa.rj
+SaVa.rj
+SaTa.rj.ss01
+SaTaRa.rj.ss01
+
+ShaKa.rj
+ShaTa.rj
+ShaNa.rj
+ShaPa.rj
+ShaBa.rj
+ShaVa.rj
+ShaTa.rj.ss01
+
+KhaRa.rj
+NnaRa.rj
+LaRa.rj
+
+KaSha.rj
+KhaSha.rj
+GaSha.rj
+NyaSha.rj
+NaSha.rj
+PaSha.rj
+PhaSha.rj
+BaSha.rj
+MaSha.rj
+RaSha.rj
+LaSha.rj
+ShaSha.rj
+
+GaBha.rj
+JaBha.rj
+NaBha.rj
+BaBha.rj
+MaBha.rj
+RaBha.rj
+LaBha.rj
+DaBha.rj
+DdaBha.rj
+
+#3 letter conjuncts
+DaBhaRa.rj
+KaTaRa.rj
+KaTaVa.rj
+NgaKaTa.rj
+TaKaRa.rj
+TaTaRa.rj
+TaRaTaRa.rj
+TaSaNa.rj
+NaSaNa.rj
+TaSaRa.rj
+TaSaVa.rj
+NaTaRa.rj
+NaBhaRa.rj
+MaBhaRa.rj
+NaHaSa.rj
+PaTaRa.rj
+NyaShaRa.rj
+NaSaVa.rj
+NaTaVa.rj
+PaTaVa.rj
+PaSaVa.rj
+SaKaRa.rj
+TaSaTha.rj
+NaSaTha.rj
+SaSaVa.rj
+NaTaSa.rj
+NaSaKa.rj
+TaSaKa.rj
+TtaTa.rj
+TtaTaRa.rj
+RaTaSa.rj
+TtaSha.rj
+SaKaVa.rj
+TaKaSsa.rj
+SaSa.rj
+RaBhaRa.rj
+TaKaVa.rj
+
+];
+
+@U_Uu_AltGroup = [ Kha_alt_U_Uu.rj 
+Gha_alt_U_Uu.rj
+Nna_alt_U_Uu.rj 
+La_alt_U_Uu.rj 
+Sha_alt_U_Uu.rj 
+Sa_alt_U_Uu.rj 
+Ta_alt_U_Uu.rj 
+Bha_alt_U_Uu.rj 
+
+KaTa_alt_U_Uu.rj
+KhaTa_alt_U_Uu.rj
+JaTa_alt_U_Uu.rj
+PaTa_alt_U_Uu.rj
+PhaTa_alt_U_Uu.rj
+BaTa_alt_U_Uu.rj
+MaTa_alt_Uu.rj
+NaTa_alt_Uu.rj
+LaTa_alt_Uu.rj
+RaTa_alt_U_Uu.rj
+
+TaKa_alt_U_Uu.rj
+TaTha_alt_U_Uu.rj
+TaNa_alt_U_Uu.rj
+TaPha_alt_U_Uu.rj
+TaBha_alt_U_Uu.rj
+TaLa_alt_U_Uu.rj
+TaVa_alt_U_Uu.rj
+
+BhaBha_alt_U_Uu.rj
+BhaNa_alt_U_Uu.rj
+BhaVa_alt_U_Uu.rj
+
+TaLa_alt_U_Uu.rj
+BhaLa_alt_U_Uu.rj
+ShaLa_alt_U_Uu.rj
+SaLa_alt_U_Uu.rj
+
+SaKa_alt_U_Uu.rj
+SaTha_alt_U_Uu.rj
+SaNa_alt_U_Uu.rj
+SaBa_alt_U_Uu.rj
+SaLa_alt_U_Uu.rj
+SaVa_alt_U_Uu.rj
+SaTa_alt_U_Uu.rj.ss01
+SaTaRa_alt_U_Uu.rj.ss01
+
+ShaKa_alt_U_Uu.rj
+ShaTa_alt_U_Uu.rj
+ShaNa_alt_U_Uu.rj
+ShaPa_alt_U_Uu.rj
+ShaBa_alt_U_Uu.rj
+ShaVa_alt_U_Uu.rj
+ShaTa_alt_U_Uu.rj.ss01
+
+KhaRa_alt_U_Uu.rj
+NnaRa_alt_U_Uu.rj
+LaRa_alt_U_Uu.rj
+
+KaSha_alt_Uu.rj
+KhaSha_alt_Uu.rj
+GaSha_alt_Uu.rj
+NyaSha_alt_Uu.rj
+NaSha_alt_Uu.rj
+PaSha_alt_Uu.rj
+PhaSha_alt_Uu.rj
+BaSha_alt_Uu.rj
+MaSha_alt_Uu.rj
+RaSha_alt_Uu.rj
+LaSha_alt_Uu.rj
+ShaSha_alt_Uu.rj
+
+GaBha_alt_U_Uu.rj
+JaBha_alt_U_Uu.rj
+NaBha_alt_U_Uu.rj
+BaBha_alt_U_Uu.rj
+MaBha_alt_U_Uu.rj
+RaBha_alt_U_Uu.rj
+LaBha_alt_U_Uu.rj
+DaBha_alt_U_Uu.rj
+DdaBha_alt_U_Uu.rj
+
+#3 letter conjuncts
+DaBhaRa_alt_U_uu.rj
+KaTaRa_alt_U_Uu.rj
+KaTaVa_alt_U_Uu.rj
+NgaKaTa_alt_U_Uu.rj
+TaKaRa_alt_U_Uu.rj
+TaTaRa_alt_U_Uu.rj
+TaRaTaRa_alt_U_Uu.rj
+TaSaNa_alt_U_Uu.rj
+NaSaNa_alt_U_Uu.rj
+TaSaRa_alt_U_Uu.rj
+TaSaVa_alt_U_Uu.rj
+NaTaRa_alt_U_Uu.rj
+NaBhaRa_alt_U_Uu.rj
+MaBhaRa_alt_U_Uu.rj
+NaHaSa_alt_U_Uu.rj
+PaTaRa_alt_U_Uu.rj
+NyaShaRa_alt_U_Uu.rj
+NaSaVa_alt_U_Uu.rj
+NaTaVa_alt_U_Uu.rj
+PaTaVa_alt_U_Uu.rj
+PaSaVa_alt_U_Uu.rj
+SaKaRa_alt_U_Uu.rj
+TaSaTha_alt_U.rj
+NaSaTha_alt_U_Uu.rj
+SaSaVa_alt_U_Uu.rj
+NaTaSa_alt_U_Uu.rj
+NaSaKa_alt_U_Uu.rj
+TaSaKa_alt_U_Uu.rj
+TtaTa_alt_U_Uu.rj
+TtaTaRa_alt_U_Uu.rj
+RaTaSa_alt_U_Uu.rj
+TtaSha_alt_U_Uu.rj
+SaKaVa_alt_U_Uu.rj
+TaKaSsa_alt_U_Uu.rj
+SaSa_alt_U_Uu.rj
+RaBhaRa_alt_U_Uu.rj
+TaKaVa_alt_U_Uu.rj
+
+];
+
+@U_group = [ SaTa.rj
+SaPa.rj
+SaPha.rj
+
+ShaMa.rj
+
+BhaMa.rj
+BhaSa.rj
+BhaYa.rj
+
+TaMa.rj
+TaYa.rj
+TaSa.rj
+
+KaSa.rj
+KhaSa.rj
+GaSa.rj
+GhaSa.rj
+NgaSa.rj
+CaSa.rj
+ChaSa.rj
+JaSa.rj
+JhaSa.rj
+NyaSa.rj
+TtaSa.rj
+TthaSa.rj
+DdaSa.rj
+DdhaSa.rj
+TaSa.rj
+ThaSa.rj
+DaSa.rj
+DhaSa.rj
+NaSa.rj
+PaSa.rj
+PhaSa.rj
+BaSa.rj
+BhaSa.rj
+MaSa.rj
+YaSa.rj
+RaSa.rj
+LaSa.rj
+SaSa.rj.ss01
+TaSa.rj.ss01
+TaSaRa.rj.ss01
+TaSaTa.rj
+
+SaRa.rj
+
+KaTaYa.rj
+NaSaTa.rj
+NaTaLa.rj
+KaTaTa.rj
+KaTaTaRa.rj
+RaTaVa.rj
+RaShaVa.rj
+TaTa.rj
+TaPa.rj
+TaSsa.rj
+RaTaTa.rj
+NaTaSaTa.rj
+TaSaTaRa.rj
+SaTaRa.rj
+NaSaTaRa.rj
+
+];
+
+@U_AltGroup = [ SaTa_alt_U.rj
+SaPa_alt_U.rj
+SaPha_alt_U.rj
+
+ShaMa_alt_U.rj
+
+BhaMa_alt_U.rj
+BhaSa_alt_U.rj
+BhaYa_alt_U.rj
+
+TaMa_alt_U.rj
+TaYa_alt_U.rj
+TaSa_alt_U_Uu.rj
+
+KaSa_alt_Uu.rj
+KhaSa_alt_U_Uu.rj
+GaSa_alt_Uu.rj
+GhaSa_alt_Uu.rj
+NgaSa_alt_Uu.rj
+CaSa_alt_Uu.rj
+ChaSa_alt_Uu.rj
+JaSa_alt_Uu.rj
+JhaSa_alt_Uu.rj
+NyaSa_alt_Uu.rj
+TtaSa_alt_Uu.rj
+TthaSa_alt_Uu.rj
+DdaSa_alt_Uu.rj
+DdhaSa_alt_Uu.rj
+TaSa_alt_U_Uu.rj
+ThaSa_alt_Uu.rj
+DaSa_alt_Uu.rj
+DhaSa_alt_Uu.rj
+NaSa_alt_Uu.rj
+PaSa_alt_Uu.rj
+PhaSa_alt_Uu.rj
+BaSa_alt_Uu.rj
+BhaSa_alt_U.rj
+MaSa_alt_Uu.rj
+YaSa_alt_Uu.rj
+RaSa_alt_Uu.rj
+LaSa_alt_Uu.rj
+SaSa_alt_Uu.rj.ss01
+TaSa_alt_Uu.rj.ss01
+TaSaRa_alt_Uu.rj.ss01
+TaSaTa_alt_U.rj
+
+SaRa_alt_Uu.rj
+
+KaTaYa_alt_U.rj
+NaSaTa_alt_U.rj
+NaTaLa_alt_U.rj
+KaTaTa_alt_U.rj
+KaTaTaRa_alt_U.rj
+RaTaVa_alt_Uu.rj
+RaShaVa_alt_U.rj
+TaTa_alt_U.rj
+TaPa_alt_U_Uu.rj
+TaSsa_alt_U_Uu.rj
+RaTaTa_alt_U.rj
+NaTaSaTa_alt_U.rj
+TaSaTaRa_alt_U.rj
+SaTaRa_alt_U.rj
+NaSaTaRa_alt_U.rj
+
+];
+
+@Uu_Group = [ #Lha.rj
+
+Gha.rj
+GaGha.rj
+GhaGha.rj
+NgaGha.rj
+DdaGha.rj
+BaGha.rj
+MaGha.rj
+DaGha.rj
+NaGha.rj
+RaGha.rj
+
+KaLa.rj
+KhaLa.rj
+GaLa.rj
+GhaLa.rj
+NgaLa.rj
+CaLa.rj
+ChaLa.rj
+JaLa.rj
+JhaLa.rj
+NyaLa.rj
+TtaLa.rj
+TthaLa.rj
+DdaLa.rj
+DdhaLa.rj
+NnaLa.rj
+TaLa.rj.ss01
+ThaLa.rj
+DaLa.rj
+DhaLa.rj
+NaLa.rj
+PaLa.rj
+PhaLa.rj
+BaLa.rj
+BhaLa.rj.ss01
+MaLa.rj
+YaLa.rj
+RaLa.rj
+LaLa.rj
+VaLa.rj
+SsaLa.rj
+SaLa.rj.ss01
+ShaLa.rj.ss01
+
+KaSa.rj
+KhaSa.rj
+GaSa.rj
+GhaSa.rj
+CaSa.rj
+ChaSa.rj
+JhaSa.rj
+NyaSa.rj
+DhaSa.rj
+TaSa.rj
+ThaSa.rj
+PaSa.rj
+PhaSa.rj
+BaSa.rj
+BhaSa.rj
+MaSa.rj
+YaSa.rj
+LaSa.rj
+
+NaSa.rj
+BhaSa.rj.ss01
+SaSa.rj.ss01
+TaSa.rj.ss01
+TaSaRa.rj.ss01
+SaRa.rj
+NgaSa.rj
+JaSa.rj
+TtaSa.rj
+TthaSa.rj
+DdaSa.rj
+DdhaSa.rj
+DaSa.rj
+RaSa.rj
+
+NaTa.rj
+MaTa.rj
+LaTa.rj
+
+HaLa.rj
+HaNna.rj
+
+KhaKha.rj
+NgaKha.rj
+TaKha.rj
+NaKha.rj
+MaKha.rj
+LaKha.rj
+SaKha.rj
+
+KaTaTa.rj
+KaTaTaRa.rj
+JaNyaLa.rj
+TaPaLa.rj
+TaSaTa.rj
+NaTaLa.rj
+NaSaTa.rj
+NaHaLa.rj
+MaPaLa.rj
+
+NgaHaLa.rj
+TaRaLa.rj
+MaHaLa.rj
+LaHaLa.rj
+KaSsaNna.rj
+KaSsaLa.rj
+
+NgaKaSsaNna.rj
+TaTa.rj
+NaKaLa.rj
+NaMaLa.rj
+NaTaSaVa.rj
+NyaShaLa.rj
+
+RaTaTa.rj
+TaKaLa.rj
+NgaKaTaVa.rj
+NgaTaVa.rj
+NaTaSaTa.rj
+TaSaTaRa.rj
+SaTaRa.rj
+NaSaTaRa.rj
+
+SaTa.rj
+
+];
+
+@Uu_AltGroup = [ #HaLa_alt_Uu.rj
+
+Gha_alt_U_Uu.rj
+GaGha_alt_Uu.rj
+GhaGha_alt_Uu.rj
+NgaGha_alt_Uu.rj
+DdaGha_alt_Uu.rj
+BaGha_alt_Uu.rj
+MaGha_alt_Uu.rj
+DaGha_alt_Uu.rj
+NaGha_alt_Uu.rj
+RaGha_alt_Uu.rj
+
+KaLa_alt_Uu.rj
+KhaLa_alt_Uu.rj
+GaLa_alt_Uu.rj
+GhaLa_alt_Uu.rj
+NgaLa_alt_Uu.rj
+CaLa_alt_Uu.rj
+ChaLa_alt_Uu.rj
+JaLa_alt_Uu.rj
+JhaLa_alt_Uu.rj
+NyaLa_alt_Uu.rj
+TtaLa_alt_Uu.rj
+TthaLa_alt_Uu.rj
+DdaLa_alt_U.rj
+DdhaLa_alt_Uu.rj
+NnaLa_alt_Uu.rj
+TaLa_alt_Uu.rj.ss01
+ThaLa_alt_Uu.rj
+DaLa_alt_Uu.rj
+DhaLa_alt_Uu.rj
+NaLa_alt_Uu.rj
+PaLa_alt_Uu.rj
+PhaLa_alt_Uu.rj
+BaLa_alt_Uu.rj
+BhaLa_alt_Uu.rj.ss01
+MaLa_alt_Uu.rj
+YaLa_alt_Uu.rj
+RaLa_alt_Uu.rj
+LaLa_alt_Uu.rj
+VaLa_alt_Uu.rj
+SsaLa_alt_Uu.rj
+SaLa_alt_Uu.rj.ss01
+ShaLa_alt_Uu.rj.ss01
+
+KaSa_alt_Uu.rj
+KhaSa_alt_U_Uu.rj
+GaSa_alt_Uu.rj
+GhaSa_alt_Uu.rj
+CaSa_alt_Uu.rj
+ChaSa_alt_Uu.rj
+JhaSa_alt_Uu.rj
+NyaSa_alt_Uu.rj
+DhaSa_alt_Uu.rj
+TaSa_alt_U_Uu.rj
+ThaSa_alt_Uu.rj
+PaSa_alt_Uu.rj
+PhaSa_alt_Uu.rj
+BaSa_alt_Uu.rj
+BhaSa_alt_Uu.rj
+MaSa_alt_Uu.rj
+YaSa_alt_Uu.rj
+LaSa_alt_Uu.rj
+
+NaSa_alt_Uu.rj
+BhaSa_alt_Uu.rj.ss01
+SaSa_alt_Uu.rj.ss01
+TaSa_alt_Uu.rj.ss01
+TaSaRa_alt_Uu.rj.ss01
+SaRa_alt_Uu.rj
+NgaSa_alt_Uu.rj
+JaSa_alt_Uu.rj
+TtaSa_alt_Uu.rj
+TthaSa_alt_Uu.rj
+DdaSa_alt_Uu.rj
+DdhaSa_alt_Uu.rj
+DaSa_alt_Uu.rj
+RaSa_alt_Uu.rj
+
+NaTa_alt_Uu.rj
+MaTa_alt_Uu.rj
+LaTa_alt_Uu.rj
+
+HaLa_alt_Uu.rj
+HaNna_alt_Uu.rj
+
+KhaKha_alt_Uu.rj
+NgaKha_alt_Uu.rj
+TaKha_alt_Uu.rj
+NaKha_alt_Uu.rj
+MaKha_alt_Uu.rj
+LaKha_alt_Uu.rj
+SaKha_alt_Uu.rj
+
+KaTaTa_alt_Uu.rj
+KaTaTaRa_alt_Uu.rj
+JaNyaLa_alt_Uu.rj
+TaPaLa_alt_Uu.rj
+TaSaTa_alt_Uu.rj
+NaTaLa_alt_Uu.rj
+NaSaTa_alt_Uu.rj
+NaHaLa_alt_Uu.rj
+MaPaLa_alt_U_Uu.rj
+
+NgaHaLa_alt_Uu.rj
+TaRaLa_alt_Uu.rj
+MaHaLa_alt_Uu.rj
+LaHaLa_alt_Uu.rj
+KaSsaNna_alt_Uu.rj
+KaSsaLa_alt_Uu.rj
+
+NgaKaSsaNna_alt_Uu.rj
+TaTa_alt_Uu.rj
+NaKaLa_alt_Uu.rj
+NaMaLa_alt_Uu.rj
+NaTaSaVa_alt_Uu.rj
+NyaShaLa_alt_Uu.rj
+
+RaTaTa_alt_Uu.rj
+TaKaLa_alt_Uu.rj
+NgaKaTaVa_alt_Uu.rj
+NgaTaVa_alt_Uu.rj
+NaTaSaTa_alt_Uu.rj
+TaSaTaRa_alt_Uu.rj
+SaTaRa_alt_Uu.rj
+NaSaTaRa_alt_Uu.rj
+
+SaTa_alt_Uu.rj
+
+];
+
+@GroupU_1 = [ Nna_alt_U_Uu.rj La_alt_U_Uu.rj Kha_alt_U_Uu.rj KhaRa_alt_U_Uu.rj
+
+];
+
+@GroupU_2 = [ #Ngha.rj
+Ja.rj 
+Dda.rj 
+Ddha.rj 
+Nga.rj 
+Ttha.rj 
+
+KaJa.rj
+GaJa.rj
+JaJa.rj
+NyaJa.rj
+NaJa.rj
+PhaJa.rj
+BaJa.rj
+RaJa.rj
+LaJa.rj
+SaJa.rj
+
+NgaNga.rj
+RaNga.rj
+HaNga.rj
+
+JaDda.rj
+DdaDda.rj
+NnaDda.rj
+NaDda.rj
+BaDda.rj
+RaDda.rj
+LaDda.rj
+VaDda.rj
+
+DdaDdha.rj
+DdhaDdha.rj
+NnaDdha.rj
+RaDdha.rj
+LaDdha.rj
+
+DhaHa.rj
+RaJha.rj
+NnaTtha.rj
+LaTtha.rj
+SsaTtha.rj
+NaKaSsa.rj
+TtaCa.rj
+
+];
+
+@GroupU_3 = [ Nya.rj
+CaNya.rj
+NyaNya.rj
+RaNya.rj
+
+KaTa_alt_U_Uu.rj
+KhaTa_alt_U_Uu.rj
+KaTa_alt_U_Uu.rj
+KhaTa_alt_U_Uu.rj
+JaTa_alt_U_Uu.rj
+PaTa_alt_U_Uu.rj
+PhaTa_alt_U_Uu.rj
+BaTa_alt_U_Uu.rj
+MaTa_alt_Uu.rj
+NaTa_alt_Uu.rj
+LaTa_alt_Uu.rj
+RaTa_alt_U_Uu.rj
+SaTa_alt_U_Uu.rj.ss01
+SaTaRa_alt_U_Uu.rj.ss01
+
+KaLa.rj
+KhaLa.rj
+GaLa.rj
+GhaLa.rj
+NgaLa.rj
+CaLa.rj
+ChaLa.rj
+JaLa.rj
+JhaLa.rj
+NyaLa.rj
+TtaLa.rj
+TthaLa.rj
+DdaLa.rj
+DdhaLa.rj
+NnaLa.rj
+TaLa.rj.ss01
+ThaLa.rj
+DaLa.rj
+DhaLa.rj
+NaLa.rj
+PaLa.rj
+PhaLa.rj
+BaLa.rj
+MaLa.rj
+YaLa.rj
+VaLa.rj
+LaLa.rj
+ShaLa.rj
+SsaLa.rj
+SaLa.rj.ss01
+
+KaSha_alt_Uu.rj
+KhaSha_alt_Uu.rj
+GaSha_alt_Uu.rj
+NyaSha_alt_Uu.rj
+NaSha_alt_Uu.rj
+PaSha_alt_Uu.rj
+PhaSha_alt_Uu.rj
+BaSha_alt_Uu.rj
+MaSha_alt_Uu.rj
+RaSha_alt_Uu.rj
+LaSha_alt_Uu.rj
+ShaSha_alt_Uu.rj
+
+TaKa.rj
+TaTha.rj
+TaVa.rj
+
+KaSa_alt_Uu.rj
+KhaSa_alt_U_Uu.rj
+GaSa_alt_Uu.rj
+GhaSa_alt_Uu.rj
+NgaSa_alt_Uu.rj
+CaSa_alt_Uu.rj
+ChaSa_alt_Uu.rj
+JaSa_alt_Uu.rj
+JhaSa_alt_Uu.rj
+NyaSa_alt_Uu.rj
+TtaSa_alt_Uu.rj
+TthaSa_alt_Uu.rj
+DdaSa_alt_Uu.rj
+DdhaSa_alt_Uu.rj
+ThaSa_alt_Uu.rj
+DaSa_alt_Uu.rj
+DhaSa_alt_Uu.rj
+NaSa_alt_Uu.rj
+PaSa_alt_Uu.rj
+PhaSa_alt_Uu.rj
+BaSa_alt_Uu.rj
+MaSa_alt_Uu.rj
+YaSa_alt_Uu.rj
+RaSa_alt_Uu.rj
+LaSa_alt_Uu.rj
+
+KaTaTa_alt_U.rj
+KaThaNa.rj
+KaTaRa_alt_U_Uu.rj
+KaTaVa_alt_U_Uu.rj
+JaNyaLa.rj
+TaRaTaRa_alt_U_Uu.rj
+NaTaRa_alt_U_Uu.rj
+NaHaSa_alt_U_Uu.rj
+PaTaRa_alt_U_Uu.rj
+PaTaVa_alt_U_Uu.rj
+TaRaLa.rj
+NaMaLa.rj
+TtaTaRa_alt_U_Uu.rj
+NaKaLa.rj
+
+];
+
+@GroupU_4 = [ RaBha_alt_U_Uu.rj
+GaBha_alt_U_Uu.rj
+JaBha_alt_U_Uu.rj
+DaBha_alt_U_Uu.rj
+DdaBha_alt_U_Uu.rj
+
+NyaShaRa_alt_U_Uu.rj
+
+];
+
+@GroupU_5 = [ JaNya.rj
+KaKha.rj
+KhaKha.rj
+NgaKha.rj
+TaKha.rj
+NaKha.rj
+MaKha.rj
+RaKha.rj
+LaKha.rj
+SaKha.rj
+
+GaJaNya.rj
+DaDaVa.rj
+DaDhaVa.rj
+KaSsaVa.rj
+GaDhaVa.rj
+NgaKaTa_alt_U_Uu.rj
+NgaKaTaYa.rj
+NgaKaSsaVa.rj
+NgaHaVa.rj
+CaChaVa.rj
+JaJaVa.rj
+JaNyaVa.rj
+NyaKaSsaVa.rj
+NaDaVa.rj
+NaDhaVa.rj
+NaNaVa.rj
+NaSaTtaRa.rj
+MaPaVa.rj
+MaPhaVa.rj
+SsaTtaRa.rj
+SsaTtaVa.rj
+NaPaVa.rj
+RaJaNya.rj
+
+TaRaVa.rj
+NaTtaRa.rj
+MaHaVa.rj
+LaHaVa.rj
+JaNyaNa.rj
+NgaGhaRa.rj
+DdaGhaRa.rj
+RaDaVa.rj
+GaDaVa.rj
+NgaGaDhaVa.rj
+NyaChaVa.rj
+
+NgaGaRa.rj
+
+];
+
+@GroupU_6 = [ KaJha.rj
+JaJha.rj
+JhaJha.rj
+NyaJha.rj
+BaJha.rj
+RaJha.rj
+RaTtha.rj
+HaVa.rj
+
+KaSsaKaSsa.rj
+NyaKaSsa.rj
+MaKhaVa.rj
+MaBhaVa.rj
+
+JaJaNya.rj
+JaNyaRa.rj
+KaKaSsa.rj
+
+NgaKaRa.rj
+NgaKaVa.rj
+NyaJaVa.rj
+NyaJaNya.rj
+RaJaVa.rj
+TtaKaSsa.rj
+
+TtaTtha.rj
+TthaTtha.rj
+
+GaNyaJa.rj
+
+];
+
+@GroupU_7 = [ Bha_alt_U_Uu.rj
+Sha_alt_U_Uu.rj
+
+];
+
+@GroupU_8 = [ JaNya.rj
+
+KaSsaRa.rj
+KaRa.rj
+GaRa.rj
+GhaRa.rj
+CaRa.rj
+ChaRa.rj
+JhaRa.rj
+NyaRa.rj
+TthaRa.rj
+DdhaRa.rj
+NnaRa_alt_U_Uu.rj
+ThaRa.rj
+DaRa.rj
+NaRa.rj
+PaRa.rj
+PhaRa.rj
+BaRa.rj
+MaRa.rj
+YaRa.rj
+VaRa.rj
+SsaRa.rj
+
+DdaGaRa.rj
+DaGaRa.rj
+DaDaRa.rj
+DaDhaRa.rj
+DaBaRa.rj
+DaVaRa.rj
+BaDhaRa.rj
+
+NaKaRa.rj
+NaDaRa.rj
+NaDhaRa.rj
+NaPaRa.rj
+NaBaRa.rj
+MaPaRa.rj
+SsaKaRa.rj
+SsaPaRa.rj
+SaPaRa.rj
+GaPhaRa.rj
+RaDaRa.rj
+RaBaRa.rj
+
+GaDhaRa.rj
+NaDaDhaVa.rj
+NaGaRa.rj
+NaVaRa.rj
+RaVaRa.rj
+KaPaRa.rj
+
+];
+
+@GroupU_9 = [ Tta.rj 
+Jha.rj
+Ha.rj
+
+RaTta.rj
+RaHa.rj
+TtaRa.rj
+HaHa.rj
+
+];
+
+@GroupU_10 = [ Ga.rj
+Ma.rj
+Gha_alt_U_Uu.rj
+Da.rj
+RaDa.rj
+
+Ya.rj 
+NgaYa.rj
+JaYa.rj
+TtaYa.rj
+TthaYa.rj
+DdaYa.rj
+DdhaYa.rj
+NnaYa.rj
+TaYa.rj.ss01
+BhaYa.rj.ss01
+YaYa.rj
+LaYa.rj
+ShaYa.rj.ss01
+SaYa.rj.ss01
+HaYa.rj
+KaYa.rj
+KhaYa.rj
+GaYa.rj
+GhaYa.rj
+CaYa.rj
+ChaYa.rj
+JhaYa.rj
+NyaYa.rj
+DaYa.rj
+DhaYa.rj
+TaYa.rj
+ThaYa.rj
+DhaYa.rj
+NaYa.rj
+PaYa.rj
+PhaYa.rj
+BaYa.rj
+MaYa.rj
+VaYa.rj
+SsaYa.rj
+
+LaRa_alt_U_Uu.rj
+RaDhaYa.rj
+
+];
+
+@GroupU_11 = [ Ka.rj Ca.rj Cha.rj Dha.rj Ba.rj Va.rj Tha.rj 
+
+KaKa.rj
+NgaKa.rj
+JaKa.rj
+TtaKa.rj
+DdaKa.rj
+NaKa.rj
+MaKa.rj
+RaKa.rj
+LaKa.rj
+
+GaBa.rj
+JaBa.rj
+DaBa.rj
+NaBa.rj
+BaBa.rj
+MaBa.rj
+RaBa.rj
+LaBa.rj
+
+KaVa.rj
+KhaVa.rj
+GaVa.rj
+GhaVa.rj
+NgaVa.rj
+CaVa.rj
+ChaVa.rj
+JaVa.rj
+JhaVa.rj
+NyaVa.rj
+TtaVa.rj
+TthaVa.rj
+DdaVa.rj
+DdhaVa.rj
+DaVa.rj
+NnaVa.rj
+ThaVa.rj
+DhaVa.rj
+NaVa.rj
+PaVa.rj
+PhaVa.rj
+BaVa.rj
+MaVa.rj
+YaVa.rj
+RaVa.rj
+LaVa.rj
+VaVa.rj
+SsaVa.rj
+
+KaTha.rj
+ThaTha.rj
+NaTha.rj
+PhaTha.rj
+RaTha.rj
+LaTha.rj
+
+KaDa.rj
+GaDa.rj
+JaDa.rj
+DdaDa.rj
+DaDa.rj
+NaDa.rj
+BaDa.rj
+BhaDa.rj
+MaDa.rj
+LaDa.rj
+VaDa.rj
+SaDa.rj
+
+TtaPa.rj
+TtaSsa.rj
+
+DaDha.rj
+DhaDha.rj
+NaDha.rj
+RaDha.rj
+
+DaBhaRa_alt_U_uu.rj
+TaKaRa_alt_U_Uu.rj
+TaSaRa_alt_U_Uu.rj
+NaBhaRa_alt_U_Uu.rj
+SaKaRa_alt_U_Uu.rj
+KaTaTaRa_alt_U.rj
+
+RaKaSsa.rj
+NaDhaVa.rj
+
+];
+
+@GroupU_12 = [ #Nyha.rj 
+#Mha.rj
+
+GaGa.rj
+NgaGa.rj
+DaGa.rj
+NaGa.rj
+RaGa.rj
+LaGa.rj
+
+GaGha.rj
+GhaGha.rj
+NgaGha.rj
+DdaGha.rj
+DaGha.rj
+NaGha.rj
+BaGha.rj
+MaGha.rj
+RaGha.rj
+
+KhaCha.rj
+GaCha.rj
+NgaCha.rj
+CaCha.rj
+ChaCha.rj
+NyaCha.rj
+NaCha.rj
+PaCha.rj
+BaCha.rj
+RaCha.rj
+ShaCha.rj
+
+KaNna.rj
+GaNna.rj
+DdhaNna.rj
+NnaNna.rj
+BhaNna.rj
+MaNna.rj
+RaNna.rj
+SsaNna.rj
+
+GaDha.rj
+DaDha.rj
+BaDha.rj
+
+KaNa.rj
+KhaNa.rj
+GaNa.rj
+GhaNa.rj
+NgaNa.rj
+CaNa.rj
+ChaNa.rj
+JaNa.rj
+JhaNa.rj
+NyaNa.rj
+TtaNa.rj
+TthaNa.rj
+DdaNa.rj
+DdhaNa.rj
+NnaNa.rj
+TaNa.rj.ss01
+ThaNa.rj
+DaNa.rj
+DhaNa.rj
+NnaNa.rj
+NaNa.rj
+PaNa.rj
+PhaNa.rj
+BaNa.rj
+BhaNa.rj.ss01
+MaNa.rj
+YaNa.rj
+RaNa.rj
+LaNa.rj
+VaNa.rj
+ShaNa.rj.ss01
+SaNa.rj.ss01
+SsaNa.rj
+
+KaMa.rj
+KhaMa.rj
+GaMa.rj
+GhaMa.rj
+NgaMa.rj
+CaMa.rj
+ChaMa.rj
+JaMa.rj
+JhaMa.rj
+NyaMa.rj
+NnaMa.rj
+TtaMa.rj
+TthaMa.rj
+DdaMa.rj
+DdhaMa.rj
+DaMa.rj
+DhaMa.rj
+TaMa.rj
+ThaMa.rj
+NaMa.rj
+PaMa.rj
+PhaMa.rj
+BaMa.rj
+MaMa.rj
+YaMa.rj
+RaMa.rj
+LaMa.rj
+VaMa.rj
+SsaMa.rj
+ShaMa.rj.ss01
+SaMa.rj.ss01
+HaMa.rj
+
+GaBha.rj
+
+CaChaRa.rj
+NaTaYa.rj
+NaDaDha.rj
+BaDhaVa.rj
+MaBaVa.rj
+
+GaTaYa.rj
+RaDaDha.rj
+RaDhaMa.rj
+RaBhaYa.rj
+KaSsaNna.rj
+NaKaVa.rj
+RaCaCha.rj
+RaShaYa.rj
+RaTaSaNaYa.rj
+
+RaDhaNa.rj
+HaNna.rj
+RaLa.rj
+NyaHa.rj
+
+];
+
+@GroupU_13 = [ TaKa_alt_U_Uu.rj
+TaTa_alt_U.rj
+TaTha_alt_U_Uu.rj
+TaNa_alt_U_Uu.rj
+TaBha_alt_U_Uu.rj
+TaLa_alt_U_Uu.rj
+TaVa_alt_U_Uu.rj
+
+SaKa_alt_U_Uu.rj
+SaTa_alt_U.rj
+SaTha_alt_U_Uu.rj
+SaNa_alt_U_Uu.rj
+SaBa_alt_U_Uu.rj
+SaLa_alt_U_Uu.rj
+SaVa_alt_U_Uu.rj
+
+BhaBha_alt_U_Uu.rj
+BhaNa_alt_U_Uu.rj
+BhaVa_alt_U_Uu.rj
+
+TaLa_alt_U_Uu.rj
+BhaLa_alt_U_Uu.rj
+ShaLa_alt_U_Uu.rj
+SaLa_alt_U_Uu.rj
+
+ShaKa_alt_U_Uu.rj
+ShaTa_alt_U_Uu.rj
+ShaNa_alt_U_Uu.rj
+ShaBa_alt_U_Uu.rj
+ShaVa_alt_U_Uu.rj
+
+TaTaRa_alt_U_Uu.rj
+TaSaTa_alt_U.rj
+TaSaTha_alt_U.rj
+TaSaNa_alt_U_Uu.rj
+NaSaTa_alt_U.rj
+NaSaTha_alt_U_Uu.rj
+
+TaSaVa_alt_U_Uu.rj
+NaSaVa_alt_U_Uu.rj
+PaSaVa_alt_U_Uu.rj
+SaSaVa_alt_U_Uu.rj
+NaSaKa_alt_U_Uu.rj
+TaSaKa_alt_U_Uu.rj
+
+SaTaVa.rj
+NyaShaLa.rj
+TaKaVa.rj
+NaSaNa_alt_U_Uu.rj
+TtaTa_alt_U_Uu.rj
+TtaSha_alt_U_Uu.rj
+RaTaTa_alt_U.rj
+TaMa_alt_U.rj
+SaMa.rj
+SaYa.rj
+ShaMa_alt_U.rj
+ShaYa.rj
+TaSaTaRa_alt_U.rj
+BhaMa_alt_U.rj
+BhaYa_alt_U.rj
+TaYa_alt_U.rj
+SaTaRa_alt_U.rj
+NaSaTaRa_alt_U.rj
+
+DdaGa.rj
+RaNgaGa.rj
+
+];
+
+@GroupU_15 = [ #Nha.rj
+#Lha.rj
+
+HaNa.rj
+HaLa.rj
+TaPaLa.rj
+NaHaLa.rj
+NaHaVa.rj
+MaPaLa.rj
+NaTaSa_alt_U_Uu.rj
+MaHaLa.rj
+RaTaMa.rj
+RaTaYa.rj
+NgaHaLa.rj
+LaHaLa.rj
+KaSsaLa.rj
+NyaShaVa.rj
+TaTaVa.rj
+NaTaVaYa.rj
+NaTaVaYa.rj
+TaKaLa.rj
+TaSa_alt_U_Uu.rj
+BhaSa_alt_U.rj
+RaTaSa_alt_U_Uu.rj
+CaSaYa.rj
+TaSaYa.rj
+NaSaYa.rj
+PaSaYa.rj
+TaSaYa.rj
+RaTaSaYa.rj
+NaTaSaTa_alt_U.rj
+BaBhaYa.rj
+GaBhaYa.rj
+DaBhaYa.rj
+LaBhaYa.rj
+BhaYa.rj
+RaBhaYa.rj
+
+RaHaRa.rj
+
+TaKaVa_alt_U_Uu.rj
+SaKaVa_alt_U_Uu.rj
+
+JihvamuliyaKha.rj
+
+];
+
+@GroupU_16 = [ #Rha.rj
+HaRa.rj
+NaTaLa_alt_U.rj
+NaHaRa.rj
+SsaNnaVa.rj
+
+RaShaVa_alt_U.rj
+TaSaPha.rj
+NaSaPa.rj
+NaTaSaVa.rj
+TaSaPa.rj
+NgaKaTaVa.rj
+NgaTaVa.rj
+
+NgaKaSsa.rj
+TaKaSsa_alt_U_Uu.rj
+
+];
+
+@GroupU_17 = [ KaTaRaYa.rj
+KaNaYa.rj
+KaLaYa.rj
+KaRaYa.rj
+GhaNaYa.rj
+CaChaYa.rj
+DaGaYa.rj
+DaDaYa.rj
+DaDhaYa.rj
+DaRaYa.rj
+DaVaYa.rj
+DhaNaYa.rj
+DhaRaYa.rj
+NaNaYa.rj
+KaSsaMaYa.rj
+TaSaNaYa.rj
+NaTaRaYa.rj
+KaTaYa_alt_U.rj
+KaVaYa.rj
+KaSsaYa.rj
+GaNaYa.rj
+
+GaRaYa.rj
+NgaKaYa.rj
+NgaKhaYa.rj
+NgaGaYa.rj
+NgaGhaYa.rj
+NgaHaYa.rj
+JaGaYa.rj
+JaJaYa.rj
+JaNyaYa.rj
+NyaCaYa.rj
+NyaJaYa.rj
+DdaGaYa.rj
+NnaDdaYa.rj
+TaTaYa.rj
+TaNaYa.rj
+TaRaYa.rj
+NaDhaYa.rj
+TaMaYa.rj
+TaVaYa.rj
+TaSaMaYa.rj
+ThaVaYa.rj
+NaKhaYa.rj
+NaJaYa.rj
+NaThaYa.rj
+NaDaYa.rj
+NaVaYa.rj
+PaTaYa.rj
+PaTaRaYa.rj
+PaVaYa.rj
+MaPaYa.rj
+MaBaYa.rj
+MaNaYa.rj
+
+NaHaYa.rj
+LaMaYa.rj
+LaHaYa.rj
+SsaTtaYa.rj
+SsaTtaRaYa.rj
+SsaTthaYa.rj
+SsaNnaYa.rj
+ShaCaYa.rj
+ShaVaYa.rj
+SaKaYa.rj
+SaTaYa.rj
+SaTaYa.rj
+SaThaYa.rj
+SaTaRaYa.rj
+SaNaYa.rj
+SaMaYa.rj
+HaRaYa.rj
+HaVaYa.rj
+ShaRaYa.rj
+MaHaYa.rj
+RaGhaYa.rj
+RaThaYa.rj
+RaNaYa.rj
+
+NgaGaDhaYa.rj
+RaVaYa.rj
+NaMaYa.rj
+GaGhaYa.rj
+KaMaYa.rj
+NaDhaRaYa.rj
+TaKhaYa.rj
+LaKaYa.rj
+CaCaYa.rj
+
+GaJaYa.rj
+GaJaYa_alt_Aa.rj
+LaPaYa.rj
+NgaKaSsaYa.rj
+PaNaYa.rj
+RaCaYa.rj
+RaHaYa.rj
+RaJaYa.rj
+RaKaSsaYa.rj
+RaMaYa.rj
+RaGaYa.rj
+RaNnaYa.rj
+RaSsaYa.rj
+NgaGhaRaYa.rj
+NgaGhaRaYa.rj.ss01
+DaMaYa.rj
+GaVaYa.rj
+RaDaYa.rj
+ShaRaYa.rj
+KhaTaYa.rj
+RaDhaNaYa.rj
+
+RaYa.rj
+
+];
+
+@GroupU_19 = [ ChaCaMa.rj
+DdaGhaRa.rj
+DaDhaNa.rj
+KaSsaMa.rj
+NgaGhaRa.rj
+NaHaMa.rj
+MaHaMa.rj
+LaHaMa.rj
+NyaCaMa.rj
+KaSsaNa.rj
+JaNyaMa.rj
+
+NgaKaSsaNna.rj
+NaGhaNa.rj
+
+];
+
+@GroupU_20 = [ TaSaMa.rj
+NaSaMa.rj
+NaTaVa_alt_U_Uu.rj
+RaTaVa_alt_Uu.rj
+NaTaSaYa.rj
+
+TaPa_alt_U_Uu.rj
+TaPha_alt_U_Uu.rj
+TaSsa_alt_U_Uu.rj
+
+SaPa_alt_U.rj
+SaPha_alt_U.rj
+SaSa_alt_U_Uu.rj
+ShaPa_alt_U_Uu.rj
+
+
+];
+
+@GroupUu_1 = [ #Mha.rj
+
+GaGa.rj
+NgaGa.rj
+DdaGa.rj
+DaGa.rj
+NaGa.rj
+LaGa.rj
+
+NgaKha_alt_Uu.rj
+
+RaCa.rj
+RaNna.rj
+RaTa_alt_U_Uu.rj
+
+KaJha.rj
+JaJha.rj
+JhaJha.rj
+NyaJha.rj
+BaJha.rj
+
+NaTa_alt_Uu.rj
+MaTa_alt_Uu.rj
+LaTa_alt_Uu.rj
+SaTa_alt_U_Uu.rj.ss01
+SaTaRa_alt_U_Uu.rj.ss01
+
+KaNa.rj
+KhaNa.rj
+GaNa.rj
+GhaNa.rj
+NgaNa.rj
+CaNa.rj
+ChaNa.rj
+JaNa.rj
+JhaNa.rj
+NyaNa.rj
+TtaNa.rj
+TthaNa.rj
+DdaNa.rj
+DdhaNa.rj
+DaNa.rj
+DhaNa.rj
+NnaNa.rj
+TaNa_alt_U_Uu.rj
+ThaNa.rj
+NaNa.rj
+PaNa.rj
+PhaNa.rj
+BaNa.rj
+BhaNa_alt_U_Uu.rj
+MaNa.rj
+YaNa.rj
+RaNa.rj
+LaNa.rj
+VaNa.rj
+SsaNa.rj
+BhaNa.rj.ss01
+SaNa.rj.ss01
+ShaNa.rj.ss01
+TaNa.rj.ss01
+
+BhaBha_alt_U_Uu.rj
+BhaLa_alt_U_Uu.rj
+
+KaMa.rj
+KhaMa.rj
+GaMa.rj
+GhaMa.rj
+NgaMa.rj
+CaMa.rj
+ChaMa.rj
+JaMa.rj
+JhaMa.rj
+NyaMa.rj
+TtaMa.rj
+TthaMa.rj
+DdaMa.rj
+DdhaMa.rj
+NnaMa.rj
+TaMa.rj
+ThaMa.rj
+DaMa.rj
+DhaMa.rj
+NaMa.rj
+PaMa.rj
+PhaMa.rj
+BaMa.rj
+BhaMa.rj
+MaMa.rj
+YaMa.rj
+RaMa.rj
+LaMa.rj
+VaMa.rj
+ShaMa.rj
+SsaMa.rj
+SaMa.rj
+HaMa.rj
+BhaMa.rj.ss01
+SaMa.rj.ss01
+ShaMa.rj.ss01
+TaMa.rj.ss01
+
+KaYa.rj
+KhaYa.rj
+GaYa.rj
+GhaYa.rj
+CaYa.rj
+ChaYa.rj
+JaYa.rj
+JhaYa.rj
+NyaYa.rj
+TthaYa.rj
+DdhaYa.rj
+NnaYa.rj
+TaYa.rj
+ThaYa.rj
+DaYa.rj
+DhaYa.rj
+NaYa.rj
+PaYa.rj
+PhaYa.rj
+BaYa.rj
+BhaYa.rj
+MaYa.rj
+YaYa.rj
+RaYa.rj
+LaYa.rj
+VaYa.rj
+ShaYa.rj
+SsaYa.rj
+SaYa.rj
+HaYa.rj
+BhaYa.rj.ss01
+SaYa.rj.ss01
+ShaYa.rj.ss01
+TaYa.rj.ss01
+
+GaSa_alt_Uu.rj
+TaSa_alt_U_Uu.rj
+NaSa_alt_Uu.rj
+BhaSa_alt_Uu.rj
+MaSa_alt_Uu.rj
+YaSa_alt_Uu.rj
+SaSa_alt_U_Uu.rj
+
+GaDa.rj
+NaDa.rj
+BhaDa.rj
+MaDa.rj
+RaDa.rj
+LaDa.rj
+SaDa.rj
+
+KaLa_alt_Uu.rj
+KhaLa_alt_Uu.rj
+GaLa_alt_Uu.rj
+GhaLa_alt_Uu.rj
+CaLa_alt_Uu.rj
+ChaLa_alt_Uu.rj
+JaLa_alt_Uu.rj
+JhaLa_alt_Uu.rj
+NyaLa_alt_Uu.rj
+TtaLa_alt_Uu.rj
+TthaLa_alt_Uu.rj
+DdaLa_alt_U.rj
+DdhaLa_alt_Uu.rj
+NnaLa_alt_Uu.rj
+TaLa_alt_Uu.rj.ss01
+ThaLa_alt_Uu.rj
+DaLa_alt_Uu.rj
+DhaLa_alt_Uu.rj
+NaLa_alt_Uu.rj
+PaLa_alt_Uu.rj
+PhaLa_alt_Uu.rj
+BaLa_alt_Uu.rj
+BhaLa_alt_Uu.rj.ss01
+MaLa_alt_Uu.rj
+YaLa_alt_Uu.rj
+RaLa_alt_Uu.rj
+LaLa_alt_Uu.rj
+VaLa_alt_Uu.rj
+SsaLa_alt_Uu.rj
+SaLa_alt_Uu.rj.ss01
+ShaLa_alt_Uu.rj.ss01
+
+BhaSa_alt_Uu.rj.ss01
+SaSa_alt_Uu.rj.ss01
+TaSa_alt_Uu.rj.ss01
+TaSaRa_alt_Uu.rj.ss01
+SaRa_alt_Uu.rj
+NgaSa_alt_Uu.rj
+DaSa_alt_Uu.rj
+RaSa_alt_Uu.rj
+
+TaKa_alt_U_Uu.rj
+TaTa_alt_Uu.rj
+TaNa_alt_U_Uu.rj
+TaBha_alt_U_Uu.rj
+TaLa_alt_U_Uu.rj
+TaVa_alt_U_Uu.rj
+
+SaLa_alt_U_Uu.rj
+SaNa_alt_U_Uu.rj
+SaSa_alt_Uu.rj.ss01
+SaTa_alt_Uu.rj
+
+ShaLa_alt_U_Uu.rj
+ShaNa_alt_U_Uu.rj
+ShaTa_alt_U_Uu.rj
+
+KaSha_alt_Uu.rj
+KhaSha_alt_Uu.rj
+GaSha_alt_Uu.rj
+NyaSha_alt_Uu.rj
+NaSha_alt_Uu.rj
+PaSha_alt_Uu.rj
+PhaSha_alt_Uu.rj
+BaSha_alt_Uu.rj
+MaSha_alt_Uu.rj
+RaSha_alt_Uu.rj
+LaSha_alt_Uu.rj
+ShaSha_alt_Uu.rj
+
+GaBha_alt_U_Uu.rj
+JaBha_alt_U_Uu.rj
+DdaBha_alt_U_Uu.rj
+NaBha_alt_U_Uu.rj
+BaBha_alt_U_Uu.rj
+MaBha_alt_U_Uu.rj
+RaBha_alt_U_Uu.rj
+LaBha_alt_U_Uu.rj
+DaBha_alt_U_Uu.rj
+
+RaKha.rj
+
+KaTaTa_alt_Uu.rj
+
+KaThaNa.rj
+DaDhaNa.rj
+
+DaBhaRa_alt_U_uu.rj
+
+KaTaRa_alt_U_Uu.rj
+KaTaVa_alt_U_Uu.rj
+
+ChaCaMa.rj
+KaSsaMa.rj
+TaSaMa.rj
+
+LaHaMa.rj
+NaHaMa.rj
+
+TaKaSsa_alt_U_Uu.rj
+
+TaSaTa_alt_Uu.rj
+TaSaNa_alt_U_Uu.rj
+
+NaTaLa_alt_Uu.rj
+
+NaSaTa_alt_Uu.rj
+
+NaHaRa.rj
+NaHaSa_alt_U_Uu.rj
+PaTaRa_alt_U_Uu.rj
+
+TaRaYa.rj
+TaNaYa.rj
+NaDhaYa.rj
+RaKaSsa.rj
+RaJaNya.rj
+TaRaLa_alt_Uu.rj
+NaTaSa_alt_U_Uu.rj
+RaDhaMa.rj
+RaDhaYa.rj
+KaSsaNa.rj
+JaNyaNa.rj
+
+HaHa.rj
+
+JaJaNya.rj
+NaKaSsa.rj
+
+NaSaMa.rj
+NaSaNa_alt_U_Uu.rj
+NaTaSaVa_alt_Uu.rj
+NyaJaNya.rj
+RaJaVa.rj
+RaNgaGa.rj
+RaNgaGa.rj.ss01
+
+TtaPa.rj
+TaSaKa_alt_U_Uu.rj
+RaDhaNa.rj
+NaGhaNa.rj
+TtaTaRa_alt_U_Uu.rj
+TaTaRa_alt_U_Uu.rj.ss01
+SaTaRa_alt_U_Uu.rj.ss01
+TaKaSsa.rj.ss01
+
+SaKha_alt_Uu.rj
+SaTaRa_alt_Uu.rj
+
+];
+
+@GroupUu_2 = [ #Rha.rj
+
+Tha.rj
+KaSsa.rj
+
+KaKa.rj
+NgaKa.rj
+JaKa.rj
+TtaKa.rj
+DdaKa.rj
+NaKa.rj
+MaKa.rj
+RaKa.rj
+LaKa.rj
+SsaKa.rj
+SaKa.rj
+SaKa.rj.ss01
+ShaKa.rj.ss01
+TaKa.rj.ss01
+
+GaBa.rj
+JaBa.rj
+DaBa.rj
+NaBa.rj
+BaBa.rj
+MaBa.rj
+RaBa.rj
+LaBa.rj
+SaBa.rj.ss01
+ShaBa.rj.ss01
+ShaVa_alt_U_Uu.rj
+
+KaVa.rj
+KhaVa.rj
+GaVa.rj
+GhaVa.rj
+NgaVa.rj
+CaVa.rj
+ChaVa.rj
+JaVa.rj
+JhaVa.rj
+NyaVa.rj
+TtaVa.rj
+TthaVa.rj
+DdaVa.rj
+DdhaVa.rj
+DaVa.rj
+NnaVa.rj
+ThaVa.rj
+DhaVa.rj
+NaVa.rj
+PaVa.rj
+PhaVa.rj
+BaVa.rj
+MaVa.rj
+YaVa.rj
+RaVa.rj
+LaVa.rj
+VaVa.rj
+SsaVa.rj
+
+KaCa.rj
+CaCa.rj
+NyaCa.rj
+NaCa.rj
+PaCa.rj
+MaCa.rj
+LaCa.rj
+ShaCa.rj
+
+KaTha.rj
+ThaTha.rj
+NaTha.rj
+PhaTha.rj
+RaTha.rj
+LaTha.rj
+SaTha.rj.ss01
+TaTha.rj.ss01
+
+GaDha.rj
+DaDha.rj
+DhaDha.rj
+BaDha.rj
+
+KaPa.rj
+TaPa.rj
+NaPa.rj
+PaPa.rj
+PhaPa.rj
+MaPa.rj
+RaPa.rj
+LaPa.rj
+SsaPa.rj
+SaPa.rj
+SaPa.rj.ss01
+ShaPa.rj.ss01
+TaPa.rj.ss01
+
+KaPha.rj
+GaPha.rj
+TaPha.rj
+NaPha.rj
+PaPha.rj
+PhaPha.rj
+MaPha.rj
+RaPha.rj
+LaPha.rj
+SsaPha.rj
+SaPha.rj
+SaPha.rj.ss01
+TaPha.rj.ss01
+TaPha_alt_U_Uu.rj
+
+KhaCha.rj
+GaCha.rj
+NgaCha.rj
+CaCha.rj
+ChaCha.rj
+NyaCha.rj
+NaCha.rj
+PaCha.rj
+BaCha.rj
+RaCha.rj
+ShaCha.rj
+
+KaRa.rj
+KhaRa_alt_U_Uu.rj
+GaRa.rj
+GhaRa.rj
+NgaRa.rj
+CaRa.rj
+ChaRa.rj
+JaRa.rj
+JhaRa.rj
+NyaRa.rj
+TtaRa.rj
+TthaRa.rj
+DdaRa.rj
+DdhaRa.rj
+NnaRa_alt_U_Uu.rj
+ThaRa.rj
+DaRa.rj
+NaRa.rj
+PaRa.rj
+PhaRa.rj
+BaRa.rj
+MaRa.rj
+YaRa.rj
+LaRa_alt_U_Uu.rj
+VaRa.rj
+SsaRa.rj
+HaRa.rj
+
+TaTha_alt_U_Uu.rj
+
+BhaVa_alt_U_Uu.rj
+
+SaBa_alt_U_Uu.rj
+SaKa_alt_U_Uu.rj
+SaTha_alt_U_Uu.rj
+SaVa_alt_U_Uu.rj
+ShaPa_alt_U_Uu.rj
+
+TtaSsa.rj
+RaSsa.rj
+SsaSsa.rj
+
+DhaHa.rj
+NaDha.rj
+GaGha_alt_Uu.rj
+KaSsaRa.rj
+
+GhaGha_alt_Uu.rj
+
+DdaGaRa.rj
+DaGaRa.rj
+NgaGaRa.rj
+KaSsaVa.rj
+DaDhaVa.rj
+GaDhaVa.rj
+NgaKaSsaVa.rj
+NgaHaVa.rj
+CaChaVa.rj
+JaJaVa.rj
+JaNyaVa.rj
+NyaKaSsaVa.rj
+NnaDdaRa.rj
+TaKaRa_alt_U_Uu.rj
+GaPhaRa.rj
+TaPaRa.rj
+SaPaRa.rj
+NaPaRa.rj
+MaPaRa.rj
+SsaPaRa.rj
+TaSaTha_alt_U.rj
+TaSaRa_alt_U_Uu.rj
+TaSaVa_alt_U_Uu.rj
+NaTaVa_alt_U_Uu.rj
+NaDaDha.rj
+NaDaYa.rj
+NaDaRa.rj
+NaDaVa.rj
+NaDhaVa.rj
+NaDhaRa.rj
+NaNaVa.rj
+NaPaVa.rj
+NaSaTha_alt_U_Uu.rj
+NaSaVa_alt_U_Uu.rj
+NaHaVa.rj
+PaTaVa_alt_U_Uu.rj
+PaSaVa_alt_U_Uu.rj
+BaDhaVa.rj
+MaKhaVa.rj
+MaPaVa.rj
+MaPhaVa.rj
+MaBaVa.rj
+MaBhaVa.rj
+SsaTtaVa.rj
+SsaNnaVa.rj
+SaKaRa_alt_U_Uu.rj
+SaKaVa_alt_U_Uu.rj
+TaKaVa_alt_U_Uu.rj
+SaSaVa_alt_U_Uu.rj
+NaDhaVa.rj
+NaSaKa_alt_U_Uu.rj
+MaHaVa.rj
+RaDaDha.rj
+RaDaRa.rj
+RaHaRa.rj
+LaHaVa.rj
+
+JaNyaRa.rj
+RaDaVa.rj
+RaDhaVa.rj
+KaPaRa.rj
+
+TaSaPha.rj
+NaSaPa.rj
+TaSaPa.rj
+GaDaVa.rj
+NaDaDhaVa.rj
+NaGaRa.rj
+NaKaVa.rj
+
+NaSsa.rj
+NyaJaVa.rj
+RaCaCha.rj
+TaSsa.rj
+NgaGaDhaVa.rj
+NyaChaVa.rj
+
+DhaRa.rj
+RaDhaRa.rj
+
+NgaKaRa.rj
+NgaKaVa.rj
+
+];
+
+@GroupUu_3 = [ #Nha.rj
+
+KaKha.rj
+KhaKha_alt_Uu.rj
+TaKha.rj.ss01
+TaKha_alt_Uu.rj
+NaKha_alt_Uu.rj
+MaKha_alt_Uu.rj
+LaKha_alt_Uu.rj
+HaVa.rj
+
+KaTa_alt_U_Uu.rj
+KhaTa_alt_U_Uu.rj
+JaTa_alt_U_Uu.rj
+PaTa_alt_U_Uu.rj
+PhaTa_alt_U_Uu.rj
+BaTa_alt_U_Uu.rj
+RaTa_alt_U_Uu.rj
+
+NgaYa.rj
+TtaYa.rj
+DdaYa.rj
+
+HaLa_alt_Uu.rj
+
+ShaKa.rj.ss01
+ShaTa_alt_U_Uu.rj.ss01
+ShaKa_alt_U_Uu.rj
+ShaBa_alt_U_Uu.rj
+
+NaNaYa.rj
+KaTaYa.rj
+KaSsaYa.rj
+NgaKaTa_alt_U_Uu.rj
+NgaKaTaYa.rj
+NgaKaYa.rj
+NgaKhaYa.rj
+JaNyaLa_alt_Uu.rj
+TaPaLa_alt_Uu.rj
+TaRaTaRa_alt_U_Uu.rj
+NaBhaRa_alt_U_Uu.rj
+NaHaLa_alt_Uu.rj
+MaPaLa_alt_U_Uu.rj
+SaTaVa.rj
+KaTaTaRa_alt_Uu.rj
+NgaHaLa_alt_Uu.rj
+NyaShaRa_alt_U_Uu.rj
+MaHaLa_alt_Uu.rj
+RaTaVa.rj
+LaHaLa_alt_Uu.rj
+
+NgaGaDhaYa.rj
+NgaKaSsaNna_alt_Uu.rj
+
+NyaShaVa.rj
+TaTaVa.rj
+NaKaLa_alt_Uu.rj
+NaMaLa_alt_Uu.rj
+
+NgaKaTaVa_alt_Uu.rj
+NgaTaVa_alt_Uu.rj
+HaNa.rj
+MaBhaRa_alt_U_Uu.rj
+
+];
+
+@GroupUu_4 = [ #Nyha.rj
+
+KaNna.rj
+DdhaNna.rj
+SsaNna.rj
+HaNna_alt_Uu.rj
+NyaHa.rj
+
+];
+
+@GroupUu_5 = [ Tta.rj
+Nya.rj
+Jha.rj
+RaJha.rj
+
+];
+
+@GroupUu_6 = [ Gha_alt_U_Uu.rj
+NgaGha_alt_Uu.rj
+DdaGha_alt_Uu.rj
+MaGha_alt_Uu.rj
+BaGha_alt_Uu.rj
+DaGha_alt_Uu.rj
+NaGha_alt_Uu.rj
+RaGha_alt_Uu.rj
+
+KaDa.rj
+JaDa.rj
+DdaDa.rj
+DaDa.rj
+BaDa.rj
+VaDa.rj
+
+CaNya.rj
+NyaNya.rj
+
+TtaTtha.rj
+TthaTtha.rj
+NnaTtha.rj
+RaTtha.rj
+LaTtha.rj
+SsaTtha.rj
+
+RaDha.rj
+RaHa.rj
+
+KaSsaKaSsa.rj
+GaJaNya.rj
+CaChaRa.rj
+DdaGhaRa.rj
+DaDaRa.rj
+DaDaVa.rj
+DaDhaRa.rj
+DaBaRa.rj
+DaVaRa.rj
+BaDhaRa.rj
+NgaKaSsa.rj
+NgaGhaRa.rj
+NyaKaSsa.rj
+NaKaRa.rj
+NaBaRa.rj
+NaSaTtaRa.rj
+SsaKaRa.rj
+SsaTtaRa.rj
+TaRaVa.rj
+NaTtaRa.rj
+JaNya.rj
+KaSsaRa.rj
+KaRa.rj
+GaRa.rj
+GhaRa.rj
+CaRa.rj
+ChaRa.rj
+JhaRa.rj
+NyaRa.rj
+TthaRa.rj
+DdhaRa.rj
+NnaRa_alt_U_Uu.rj
+ThaRa.rj
+DaRa.rj
+NaRa.rj
+PaRa.rj
+PhaRa.rj
+BaRa.rj
+MaRa.rj
+YaRa.rj
+VaRa.rj
+SsaRa.rj
+
+DdaGaRa.rj
+DaGaRa.rj
+DaDaRa.rj
+DaDhaRa.rj
+DaBaRa.rj
+DaVaRa.rj
+BaDhaRa.rj
+NgaGaRa.rj
+NaKaRa.rj
+NaDaRa.rj
+NaDhaRa.rj
+NaPaRa.rj
+NaBaRa.rj
+MaPaRa.rj
+SsaKaRa.rj
+SsaPaRa.rj
+GaPhaRa.rj
+RaDaRa.rj
+RaBaRa.rj
+GaDhaRa.rj
+KaKaSsa.rj
+
+NaVaRa.rj
+RaDaDa.rj
+TtaCa.rj
+RaVaRa.rj
+TtaKaSsa.rj
+
+];
+
+@GroupUu_7 = [ GaNna.rj
+NnaNna.rj
+BhaNna.rj
+MaNna.rj
+
+];
+
+@GroupUu_8 = [ KaSa_alt_Uu.rj
+KhaSa_alt_U_Uu.rj
+GhaSa_alt_Uu.rj
+CaSa_alt_Uu.rj
+ChaSa_alt_Uu.rj
+JaSa_alt_Uu.rj
+JhaSa_alt_Uu.rj
+NyaSa_alt_Uu.rj
+TtaSa_alt_Uu.rj
+TthaSa_alt_Uu.rj
+DdaSa_alt_Uu.rj
+DdhaSa_alt_Uu.rj
+ThaSa_alt_Uu.rj
+DhaSa_alt_Uu.rj
+PaSa_alt_Uu.rj
+PhaSa_alt_Uu.rj
+BaSa_alt_Uu.rj
+YaSa_alt_Uu.rj
+LaSa_alt_Uu.rj
+
+NgaLa_alt_Uu.rj
+MaHaMa.rj
+
+KaVaYa.rj
+KaTaRaYa.rj
+KaNaYa.rj
+KaRaYa.rj
+KaLaYa.rj
+GhaNaYa.rj
+CaChaYa.rj
+CaSaYa.rj
+DaGaYa.rj
+DaDaYa.rj
+DaDhaYa.rj
+DaRaYa.rj
+DaVaYa.rj
+DhaNaYa.rj
+DhaRaYa.rj
+KaSsaMaYa.rj
+TaSaNaYa.rj
+NaTaRaYa.rj
+GaNaYa.rj
+GaRaYa.rj
+GaRaYa.rj
+NgaGaYa.rj
+NgaGhaYa.rj
+NgaHaYa.rj
+JaGaYa.rj
+JaJaYa.rj
+JaNyaYa.rj
+NyaCaYa.rj
+NyaJaYa.rj
+NnaDdaYa.rj
+TaTaYa.rj
+TaMaYa.rj
+TaVaYa.rj
+TaSaMaYa.rj
+ThaVaYa.rj
+NaKhaYa.rj
+NaThaYa.rj
+NaJaYa.rj
+NaTaYa.rj
+NaHaYa.rj
+PaTaYa.rj
+PaTaRaYa.rj
+PaVaYa.rj
+MaNaYa.rj
+MaPaYa.rj
+MaBaYa.rj
+LaMaYa.rj
+LaHaYa.rj
+SsaTtaYa.rj
+SsaTtaRaYa.rj
+SsaTthaYa.rj
+SsaNnaYa.rj
+ShaCaYa.rj
+ShaVaYa.rj
+SaKaYa.rj
+SaTaYa.rj
+SaThaYa.rj
+SaTaRaYa.rj
+SaNaYa.rj
+SaMaYa.rj
+HaRaYa.rj
+HaVaYa.rj
+GaTaYa.rj
+NyaCaMa.rj
+DdaGaYa.rj
+TaSaYa.rj
+ShaRaYa.rj
+MaHaYa.rj
+RaGhaYa.rj
+RaTaMa.rj
+RaTaYa.rj
+RaThaYa.rj
+RaNaYa.rj
+RaBhaYa.rj
+KaSsaNna_alt_Uu.rj
+JaNyaMa.rj
+KaSsaLa_alt_Uu.rj
+
+KhaTaYa.rj
+NaVaYa.rj
+RaVaYa.rj
+
+NyaCaYa.rj
+TaSaMaYa.rj
+TaSaNaYa.rj
+LaMaYa.rj
+SsaNnaYa.rj
+ShaCaYa.rj
+CaCaYa.rj
+NaDhaRaYa.rj
+RaCaYa.rj
+RaMaYa.rj
+RaNnaYa.rj
+RaSsaYa.rj
+NaMaYa.rj
+GaGhaYa.rj
+GaJaYa.rj
+
+CaSaYa.rj
+TaSaYa.rj
+NaSaYa.rj
+PaSaYa.rj
+TaSaYa.rj
+RaTaSaYa.rj
+KaMaYa.rj
+LaPaYa.rj
+RaTaSaNaYa.rj
+TaKhaYa.rj
+RaShaYa.rj
+RaHaYa.rj
+RaJaYa.rj
+RaGaYa.rj
+
+LaKaYa.rj
+TaKaVa.rj
+RaTaSa_alt_U_Uu.rj
+NaTaSaYa.rj
+NaTaVaYa.rj
+NgaKaSsaYa.rj
+PaNaYa.rj
+NyaShaLa_alt_Uu.rj
+RaKaSsaYa.rj
+TtaSha_alt_U_Uu.rj
+TtaTa_alt_U_Uu.rj
+RaTaTa_alt_Uu.rj
+TaKaLa_alt_Uu.rj
+NgaGhaRaYa.rj
+NgaGhaRaYa.rj.ss01
+DaMaYa.rj
+GaVaYa.rj
+NaTaSaTa_alt_Uu.rj
+
+BaBhaYa.rj
+GaBhaYa.rj
+LaBhaYa.rj
+DaBhaYa.rj
+RaDaYa.rj
+RaDhaNaYa.rj
+RaShaVa.rj
+TaTaRa_alt_U_Uu.rj
+
+
+];
+
+@GroupRu_1 = [ Tta.rj
+Ttha.rj
+Ha.rj
+SsaTta.rj
+SsaTtha.rj
+
+];
+
+@GroupRu_2 = [ Ja.rj
+Nya.rj
+JaJa.rj
+
+];
+
+@GroupRu_3 = [ Nga.rj
+Dda.rj
+Ddha.rj
+
+
+];
+
+@Ru_Ruu_Group = [ Ka.rj
+Kha.rj
+Ga.rj
+Gha.rj
+Ca.rj
+Cha.rj
+Jha.rj
+Nna.rj
+Ta.rj
+Tha.rj
+Da.rj
+Dha.rj
+Na.rj
+Pa.rj
+Pha.rj
+Ba.rj
+Bha.rj
+Ma.rj
+Ya.rj
+Ra.rj
+La.rj
+Va.rj
+Sha.rj
+Ssa.rj
+Sa.rj
+
+KaKa.rj
+KaTa.rj
+NgaKa.rj
+TaKa.rj
+TaTa.rj
+TaSa.rj
+DaDa.rj
+DaDha.rj
+DaBha.rj
+DaVa.rj
+DaVaYa.rj
+NaTa.rj
+NaDa.rj
+NaMa.rj
+PaTa.rj
+BaDha.rj
+MaPa.rj
+MaMa.rj
+RaTa.rj
+RaVa.rj
+RaDa.rj
+VaYa.rj
+SsaKa.rj
+SaKa.rj
+SaTa.rj
+SaPa.rj
+SaMa.rj
+
+];
+
+@Ru_Ruu_AltGroup = [ Ka_alt_Ru.rj
+Kha_alt_Ru.rj
+Ga_alt_Ru.rj
+Gha_alt_Ru.rj
+Ca_alt_Ru.rj
+Cha_alt_Ru.rj
+Jha_alt_Ru.rj
+Nna_alt_Ru.rj
+Ta_alt_Ru.rj
+Tha_alt_Ru.rj
+Da_alt_Ru.rj
+Dha_alt_Ru.rj
+Na_alt_Ru.rj
+Pa_alt_Ru.rj
+Pha_alt_Ru.rj
+Ba_alt_Ru.rj
+Bha_alt_Ru.rj
+Ma_alt_Ru.rj
+Ya_alt_Ru.rj
+Ra_alt_Ru.rj
+La_alt_Ru.rj
+Va_alt_Ru.rj
+Sha_alt_Ru.rj
+Ssa_alt_Ru.rj
+Sa_alt_Ru.rj
+
+KaKa_alt_Ru.rj
+KaTa_alt_Ru.rj
+NgaKa_alt_Ru.rj
+TaKa_alt_Ru.rj
+TaTa_alt_Ru.rj
+TaSa_alt_Ru.rj
+DaDa_alt_Ru.rj
+DaDha_alt_Ru.rj
+DaBha_alt_Ru.rj
+DaVa_alt_Ru.rj
+DaVaYa_alt_Ru.rj
+NaTa_alt_Ru.rj
+NaDa_alt_Ru.rj
+NaMa_alt_Ru.rj
+PaTa_alt_Ru.rj
+BaDha_alt_Ru.rj
+MaPa_alt_Ru.rj
+MaMa_alt_Ru.rj
+RaTa_alt_Ru.rj
+RaVa_alt_Ru.rj
+RaDa_alt_Ru.rj
+VaYa_alt_Ru.rj
+SsaKa_alt_Ru.rj
+SaKa_alt_Ru.rj
+SaTa_alt_Ru.rj
+SaPa_alt_Ru.rj
+SaMa_alt_Ru.rj
+
+];
+
+@GroupMatraU_Uu_Ra = [ TaRa.rj
+BhaRa.rj
+ShaRa.rj
+RaTaRa.rj
+RaBhaRa.rj
+
+];
+
+# Prefix: Languagesystems
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem dev2 dflt;
+languagesystem deva dflt;
+#languagesystem neva dflt;
+
+
+# Prefix: AdditionalLookups
+#additional lookups
+#(to be deleted after shifting to Ranjana Unicode)
+
+lookup Reorder_Dha_MatraEalt1b {
+     sub Dha.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by Dha.rj;
+ } Reorder_Dha_MatraEalt1b;
+
+lookup Reorder_Kha_MatraEalt1 {
+     sub Kha.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by Kha.rj;
+ } Reorder_Kha_MatraEalt1;
+
+lookup Reorder_Ga_MatraEalt2 {
+     sub Ga.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Ga.rj;
+ } Reorder_Ga_MatraEalt2;
+
+lookup Reorder_Nya_MatraEalt2 {
+     sub Nya.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Nya.rj;
+ } Reorder_Nya_MatraEalt2;
+
+lookup Reorder_Tha_MatraEalt2 {
+     sub Tha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Tha.rj;
+ } Reorder_Tha_MatraEalt2;
+
+lookup Reorder_Ttha_MatraEalt2 {
+     sub Ttha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Ttha.rj;
+ } Reorder_Ttha_MatraEalt2;
+
+lookup Reorder_Nna_MatraEalt2 {
+     sub Nna.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Nna.rj;
+ } Reorder_Nna_MatraEalt2;
+
+lookup Reorder_Sha_MatraEalt2 {
+     sub Sha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by Sha.rj;
+ } Reorder_Sha_MatraEalt2;
+
+
+#Kha conjuncts-----------------------------------------------
+lookup Reorder_KhaKha_MatraEalt3 {
+     sub KhaKha.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by KhaKha.rj;
+ } Reorder_KhaKha_MatraEalt3;
+
+lookup Reorder_KhaCha_MatraEalt4 {
+     sub KhaCha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by KhaCha.rj;
+ } Reorder_KhaCha_MatraEalt4;
+
+lookup Reorder_KhaTa_MatraEalt4 {
+     sub KhaTa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by KhaTa.rj;
+ } Reorder_KhaTa_MatraEalt4;
+
+lookup Reorder_KhaNa_MatraEalt4 {
+     sub KhaNa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by KhaNa.rj;
+ } Reorder_KhaNa_MatraEalt4;
+
+lookup Reorder_KhaMa_MatraEalt2 {
+     sub KhaMa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by KhaMa.rj;
+ } Reorder_KhaMa_MatraEalt2;
+
+lookup Reorder_KhaYa_MatraEalt2 {
+     sub KhaYa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by KhaYa.rj;
+ } Reorder_KhaYa_MatraEalt2;
+
+lookup Reorder_KhaRa_MatraEalt1 {
+     sub KhaRa.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by KhaRa.rj;
+ } Reorder_KhaRa_MatraEalt1;
+
+lookup Reorder_KhaLa_MatraEalt4 {
+     sub KhaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by KhaLa.rj;
+ } Reorder_KhaLa_MatraEalt4;
+
+lookup Reorder_KhaVa_MatraEalt2 {
+     sub KhaVa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by KhaVa.rj;
+ } Reorder_KhaVa_MatraEalt2;
+
+lookup Reorder_KhaSha_MatraEalt4 {
+     sub KhaSha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by KhaSha.rj;
+ } Reorder_KhaSha_MatraEalt4;
+
+lookup Reorder_KhaSa_MatraEalt2 {
+     sub KhaSa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by KhaSa.rj;
+ } Reorder_KhaSa_MatraEalt2;
+
+#Ga conjuncts-----------------------------------------------
+lookup Reorder_GaGa_MatraEalt2 {
+     sub GaGa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaGa.rj;
+ } Reorder_GaGa_MatraEalt2;
+
+lookup Reorder_GaGha_MatraEalt2 {
+     sub GaGha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaGha.rj;
+ } Reorder_GaGha_MatraEalt2;
+
+lookup Reorder_GaGhaYa_MatraEalt3 {
+     sub GaGhaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaGhaYa.rj;
+ } Reorder_GaGhaYa_MatraEalt3;
+
+lookup Reorder_GaCha_MatraEalt4 {
+     sub GaCha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaCha.rj;
+ } Reorder_GaCha_MatraEalt4;
+
+lookup Reorder_GaJa_MatraEalt4 {
+     sub GaJa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaJa.rj;
+ } Reorder_GaJa_MatraEalt4;
+
+lookup Reorder_GaJa_alt_MatraEalt4 {
+     sub GaJa_alt_Aa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaJa_alt_Aa.rj;
+ } Reorder_GaJa_alt_MatraEalt4;
+
+lookup Reorder_GaJaYa_MatraEalt3 {
+     sub GaJaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaJaYa.rj;
+ } Reorder_GaJaYa_MatraEalt3;
+
+lookup Reorder_GaJaYa_alt_MatraEalt3 {
+     sub GaJaYa_alt_Aa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaJaYa_alt_Aa.rj;
+ } Reorder_GaJaYa_alt_MatraEalt3;
+
+lookup Reorder_GaNna_MatraEalt4 {
+     sub GaNna.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaNna.rj;
+ } Reorder_GaNna_MatraEalt4;
+
+lookup Reorder_GaDa_MatraEalt4 {
+     sub GaDa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaDa.rj;
+ } Reorder_GaDa_MatraEalt4;
+
+lookup Reorder_GaDaVa_MatraEalt4 {
+     sub GaDaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaDaVa.rj;
+ } Reorder_GaDaVa_MatraEalt4;
+
+lookup Reorder_GaDha_MatraEalt4 {
+     sub GaDha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaDha.rj;
+ } Reorder_GaDha_MatraEalt4;
+
+lookup Reorder_GaDhaRa_MatraEalt3 {
+     sub GaDhaRa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaDhaRa.rj;
+ } Reorder_GaDhaRa_MatraEalt3;
+
+lookup Reorder_GaNa_MatraEalt4 {
+     sub GaNa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaNa.rj;
+ } Reorder_GaNa_MatraEalt4;
+
+lookup Reorder_GaPha_MatraEalt3 {
+     sub GaPha.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaPha.rj;
+ } Reorder_GaPha_MatraEalt3;
+
+lookup Reorder_GaBa_MatraEalt3 {
+     sub GaBa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaBa.rj;
+ } Reorder_GaBa_MatraEalt3;
+
+lookup Reorder_GaBha_MatraEalt4 {
+     sub GaBha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaBha.rj;
+ } Reorder_GaBha_MatraEalt4;
+
+lookup Reorder_GaMa_MatraEalt2 {
+     sub GaMa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaMa.rj;
+ } Reorder_GaMa_MatraEalt2;
+
+lookup Reorder_GaYa_MatraEalt2 {
+     sub GaYa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaYa.rj;
+ } Reorder_GaYa_MatraEalt2;
+
+lookup Reorder_GaRa_MatraEalt2 {
+     sub GaRa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaRa.rj;
+ } Reorder_GaRa_MatraEalt2;
+
+lookup Reorder_GaLa_MatraEalt4 {
+     sub GaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaLa.rj;
+ } Reorder_GaLa_MatraEalt4;
+
+lookup Reorder_GaVa_MatraEalt3 {
+    sub GaVa.rj by matraE_alt3.rj;
+    sub matraE_alt3.rj by GaVa.rj;
+ } Reorder_GaVa_MatraEalt3;
+
+lookup Reorder_GaVaYa_MatraEalt4 {
+     sub GaVaYa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaVaYa.rj;
+ } Reorder_GaVaYa_MatraEalt4;
+
+lookup Reorder_GaSha_MatraEalt4 {
+     sub GaSha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaSha.rj;
+ } Reorder_GaSha_MatraEalt4;
+
+lookup Reorder_GaSa_MatraEalt2 {
+     sub GaSa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by GaSa.rj;
+ } Reorder_GaSa_MatraEalt2;
+
+lookup Reorder_GaTaYa_MatraEalt4 {
+     sub GaTaYa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaTaYa.rj;
+ } Reorder_GaTaYa_MatraEalt4;
+
+lookup Reorder_GaPhaRa_MatraEalt3 {
+    sub GaPhaRa.rj by matraE_alt3.rj;
+    sub matraE_alt3.rj by GaPhaRa.rj;
+ } Reorder_GaPhaRa_MatraEalt3;
+
+#Nya conjuncts-----------------------------------------------
+lookup Reorder_NyaCa_MatraEalt1 {
+     sub NyaCa.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by NyaCa.rj;
+ } Reorder_NyaCa_MatraEalt1;
+
+lookup Reorder_NyaChaVa_MatraEalt4 {
+     sub NyaChaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaChaVa.rj;
+ } Reorder_NyaChaVa_MatraEalt4;
+
+lookup Reorder_NyaCha_MatraEalt4 {
+     sub NyaCha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaCha.rj;
+ } Reorder_NyaCha_MatraEalt4;
+
+lookup Reorder_NyaJa_MatraEalt4 {
+     sub NyaJa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaJa.rj;
+ } Reorder_NyaJa_MatraEalt4;
+
+lookup Reorder_NyaJaNya_MatraEalt4 {
+     sub NyaJaNya.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaJaNya.rj;
+ } Reorder_NyaJaNya_MatraEalt4;
+
+lookup Reorder_NyaJaVa_MatraEalt4 {
+     sub NyaJaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaJaVa.rj;
+ } Reorder_NyaJaVa_MatraEalt4;
+
+lookup Reorder_NyaJha_MatraEalt2 {
+     sub NyaJha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NyaJha.rj;
+ } Reorder_NyaJha_MatraEalt2;
+
+lookup Reorder_NyaNya_MatraEalt4 {
+     sub NyaNya.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaNya.rj;
+ } Reorder_NyaNya_MatraEalt4;
+
+lookup Reorder_NyaNa_MatraEalt4 {
+     sub NyaNa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaNa.rj;
+ } Reorder_NyaNa_MatraEalt4;
+
+lookup Reorder_NyaMa_MatraEalt2 {
+     sub NyaMa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NyaMa.rj;
+ } Reorder_NyaMa_MatraEalt2;
+
+lookup Reorder_NyaYa_MatraEalt2 {
+     sub NyaYa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NyaYa.rj;
+ } Reorder_NyaYa_MatraEalt2;
+
+lookup Reorder_NyaLa_MatraEalt4 {
+     sub NyaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaLa.rj;
+ } Reorder_NyaLa_MatraEalt4;
+
+lookup Reorder_NyaRa_MatraEalt1 {
+     sub NyaRa.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by NyaRa.rj;
+ } Reorder_NyaRa_MatraEalt1;
+
+lookup Reorder_NyaVa_MatraEalt4 {
+     sub NyaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaVa.rj;
+ } Reorder_NyaVa_MatraEalt4;
+
+lookup Reorder_NyaSha_MatraEalt4 {
+     sub NyaSha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaSha.rj;
+ } Reorder_NyaSha_MatraEalt4;
+
+lookup Reorder_NyaSa_MatraEalt3 {
+     sub NyaSa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NyaSa.rj;
+ } Reorder_NyaSa_MatraEalt3;
+
+lookup Reorder_NyaCaMa_MatraEalt3 {
+     sub NyaCaMa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NyaCaMa.rj;
+ } Reorder_NyaCaMa_MatraEalt3;
+
+lookup Reorder_NyaShaRa_MatraEalt4 {
+     sub NyaShaRa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaShaRa.rj;
+ } Reorder_NyaShaRa_MatraEalt4;
+
+lookup Reorder_NyaShaLa_MatraEalt4 {
+     sub NyaShaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaShaLa.rj;
+ } Reorder_NyaShaLa_MatraEalt4;
+
+lookup Reorder_NyaShaVa_MatraEalt4 {
+     sub NyaShaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaShaVa.rj;
+ } Reorder_NyaShaVa_MatraEalt4;
+
+#Ttha conjuncts-----------------------------------------------
+lookup Reorder_TthaTtha_MatraEalt2 {
+     sub TthaTtha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by TthaTtha.rj;
+ } Reorder_TthaTtha_MatraEalt2;
+
+lookup Reorder_TthaNa_MatraEalt4 {
+     sub TthaNa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by TthaNa.rj;
+ } Reorder_TthaNa_MatraEalt4;
+
+lookup Reorder_TthaMa_MatraEalt3 {
+     sub TthaMa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by TthaMa.rj;
+ } Reorder_TthaMa_MatraEalt3;
+
+lookup Reorder_TthaLa_MatraEalt4 {
+     sub TthaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by TthaLa.rj;
+ } Reorder_TthaLa_MatraEalt4;
+
+lookup Reorder_TthaYa_MatraEalt3 {
+     sub TthaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by TthaYa.rj;
+ } Reorder_TthaYa_MatraEalt3;
+
+lookup Reorder_TthaRa_MatraEalt2 {
+     sub TthaRa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by TthaRa.rj;
+ } Reorder_TthaRa_MatraEalt2;
+
+lookup Reorder_TthaVa_MatraEalt1 {
+     sub TthaVa.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by TthaVa.rj;
+ } Reorder_TthaVa_MatraEalt1;
+
+lookup Reorder_TthaSa_MatraEalt3 {
+     sub TthaSa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by TthaSa.rj;
+ } Reorder_TthaSa_MatraEalt3;
+
+#Nna conjuncts-----------------------------------------------
+lookup Reorder_NnaTta_MatraEalt2 {
+     sub NnaTta.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaTta.rj;
+ } Reorder_NnaTta_MatraEalt2;
+
+lookup Reorder_NnaTtha_MatraEalt3 {
+     sub NnaTtha.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NnaTtha.rj;
+ } Reorder_NnaTtha_MatraEalt3;
+
+lookup Reorder_NnaNa_MatraEalt2 {
+     sub NnaNa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaNa.rj;
+ } Reorder_NnaNa_MatraEalt2;
+
+lookup Reorder_NnaDda_MatraEalt3 {
+     sub NnaDda.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NnaDda.rj;
+ } Reorder_NnaDda_MatraEalt3;
+
+lookup Reorder_NnaDdha_MatraEalt2 {
+     sub NnaDdha.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaDdha.rj;
+ } Reorder_NnaDdha_MatraEalt2;
+
+lookup Reorder_NnaNna_MatraEalt2 {
+     sub NnaNna.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaNna.rj;
+ } Reorder_NnaNna_MatraEalt2;
+
+lookup Reorder_NnaMa_MatraEalt2 {
+     sub NnaMa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaMa.rj;
+ } Reorder_NnaMa_MatraEalt2;
+
+lookup Reorder_NnaYa_MatraEalt2 {
+     sub NnaYa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaYa.rj;
+ } Reorder_NnaYa_MatraEalt2;
+
+lookup Reorder_NnaRa_MatraEalt2 {
+     sub NnaRa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaRa.rj;
+ } Reorder_NnaRa_MatraEalt2;
+
+lookup Reorder_NnaLa_MatraEalt4 {
+     sub NnaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NnaLa.rj;
+ } Reorder_NnaLa_MatraEalt4;
+
+lookup Reorder_NnaVa_MatraEalt2 {
+     sub NnaVa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by NnaVa.rj;
+ } Reorder_NnaVa_MatraEalt2;
+
+#Tha conjuncts-----------------------------------------------
+lookup Reorder_ThaTha_MatraEalt1 {
+     sub ThaTha.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by ThaTha.rj;
+ } Reorder_ThaTha_MatraEalt1;
+
+lookup Reorder_ThaNa_MatraEalt4 {
+     sub ThaNa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ThaNa.rj;
+ } Reorder_ThaNa_MatraEalt4;
+
+lookup Reorder_ThaMa_MatraEalt3 {
+     sub ThaMa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ThaMa.rj;
+ } Reorder_ThaMa_MatraEalt3;
+
+lookup Reorder_ThaYa_MatraEalt3 {
+     sub ThaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ThaYa.rj;
+ } Reorder_ThaYa_MatraEalt3;
+
+lookup Reorder_ThaRa_MatraEalt4 {
+     sub ThaRa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ThaRa.rj;
+ } Reorder_ThaRa_MatraEalt4;
+
+lookup Reorder_ThaLa_MatraEalt4 {
+     sub ThaLa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ThaLa.rj;
+ } Reorder_ThaLa_MatraEalt4;
+
+lookup Reorder_ThaVa_MatraEalt4 {
+     sub ThaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ThaVa.rj;
+ } Reorder_ThaVa_MatraEalt4;
+
+lookup Reorder_ThaSa_MatraEalt3 {
+     sub ThaSa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ThaSa.rj;
+ } Reorder_ThaSa_MatraEalt3;
+
+#Dha conjuncts-----------------------------------------------
+lookup Reorder_DhaDha_MatraEalt2b {
+     sub DhaDha.rj by matraE_alt2b.rj;
+     sub matraE_alt2b.rj by DhaDha.rj;
+ } Reorder_DhaDha_MatraEalt2b;
+
+lookup Reorder_DhaNa_MatraEalt2b {
+     sub DhaNa.rj by matraE_alt2b.rj;
+     sub matraE_alt2b.rj by DhaNa.rj;
+ } Reorder_DhaNa_MatraEalt2b;
+
+lookup Reorder_DhaLa_MatraEalt2b {
+     sub DhaLa.rj by matraE_alt2b.rj;
+     sub matraE_alt2b.rj by DhaLa.rj;
+ } Reorder_DhaLa_MatraEalt2b;
+
+lookup Reorder_DhaSa_MatraEalt1b {
+     sub DhaSa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaSa.rj;
+ } Reorder_DhaSa_MatraEalt1b;
+
+lookup Reorder_DhaHa_MatraEalt1b {
+     sub DhaHa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaHa.rj;
+ } Reorder_DhaHa_MatraEalt1b;
+
+lookup Reorder_DhaMa_MatraEalt1b {
+     sub DhaMa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaMa.rj;
+ } Reorder_DhaMa_MatraEalt1b;
+
+lookup Reorder_DhaYa_MatraEalt1b {
+     sub DhaYa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaYa.rj;
+ } Reorder_DhaYa_MatraEalt1b;
+
+lookup Reorder_DhaRa_MatraEalt1b {
+     sub DhaRa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaRa.rj;
+ } Reorder_DhaRa_MatraEalt1b;
+
+lookup Reorder_DhaVa_MatraEalt1b {
+     sub DhaVa.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by DhaVa.rj;
+ } Reorder_DhaVa_MatraEalt1b;
+
+lookup Reorder_NaDha_MatraEalt4b {
+     sub NaDha.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by NaDha.rj;
+ } Reorder_NaDha_MatraEalt4b;
+
+lookup Reorder_NaDhaYa_MatraEalt4b {
+     sub NaDhaYa.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by NaDhaYa.rj;
+ } Reorder_NaDhaYa_MatraEalt4b;
+
+lookup Reorder_NaDhaRa_MatraEalt4b {
+     sub NaDhaRa.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by NaDhaRa.rj;
+ } Reorder_NaDhaRa_MatraEalt4b;
+
+lookup Reorder_RaDhaNa_MatraEalt5b {
+     sub RaDhaNa.rj by matraE_alt5b.rj;
+     sub matraE_alt5b.rj by RaDhaNa.rj;
+ } Reorder_RaDhaNa_MatraEalt5b;
+
+lookup Reorder_NaDhaRaYa_MatraEalt5b {
+     sub NaDhaRaYa.rj by matraE_alt5b.rj;
+     sub matraE_alt5b.rj by NaDhaRaYa.rj;
+ } Reorder_NaDhaRaYa_MatraEalt5b;
+
+lookup Reorder_NaDhaVa_MatraEalt4b {
+     sub NaDhaVa.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by NaDhaVa.rj;
+ } Reorder_NaDhaVa_MatraEalt4b;
+
+#Sha conjuncts-----------------------------------------------
+lookup Reorder_ShaKa_MatraEalt2 {
+     sub ShaKa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaKa.rj;
+ } Reorder_ShaKa_MatraEalt2;
+
+lookup Reorder_ShaKa_alt_MatraEalt2 {
+     sub ShaKa_alt_Aa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaKa_alt_Aa.rj;
+ } Reorder_ShaKa_alt_MatraEalt2;
+
+lookup Reorder_ShaCa_MatraEalt2 {
+     sub ShaCa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaCa.rj;
+ } Reorder_ShaCa_MatraEalt2;
+
+lookup Reorder_ShaCha_MatraEalt4 {
+     sub ShaCha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ShaCha.rj;
+ } Reorder_ShaCha_MatraEalt4;
+
+lookup Reorder_ShaTta_MatraEalt2 {
+     sub ShaTta.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaTta.rj;
+ } Reorder_ShaTta_MatraEalt2;
+
+lookup Reorder_ShaTa_MatraEalt2 {
+     sub ShaTa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaTa.rj;
+ } Reorder_ShaTa_MatraEalt2;
+
+lookup Reorder_ShaNa_MatraEalt2 {
+     sub ShaNa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaNa.rj;
+ } Reorder_ShaNa_MatraEalt2;
+
+lookup Reorder_ShaPa_MatraEalt2 {
+     sub ShaPa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaPa.rj;
+ } Reorder_ShaPa_MatraEalt2;
+
+lookup Reorder_ShaBa_MatraEalt2 {
+     sub ShaBa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaBa.rj;
+ } Reorder_ShaBa_MatraEalt2;
+
+lookup Reorder_ShaMa_MatraEalt2 {
+     sub ShaMa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaMa.rj;
+ } Reorder_ShaMa_MatraEalt2;
+
+lookup Reorder_ShaYa_MatraEalt2 {
+     sub ShaYa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaYa.rj;
+ } Reorder_ShaYa_MatraEalt2;
+
+lookup Reorder_ShaRa_MatraEalt2 {
+     sub ShaRa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaRa.rj;
+ } Reorder_ShaRa_MatraEalt2;
+
+lookup Reorder_ShaLa_MatraEalt2 {
+     sub ShaLa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaLa.rj;
+ } Reorder_ShaLa_MatraEalt2;
+
+lookup Reorder_ShaVa_MatraEalt2 {
+     sub ShaVa.rj by matraE_alt2.rj;
+     sub matraE_alt2.rj by ShaVa.rj;
+ } Reorder_ShaVa_MatraEalt2;
+
+lookup Reorder_ShaSha_MatraEalt4 {
+     sub ShaSha.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ShaSha.rj;
+ } Reorder_ShaSha_MatraEalt4;
+
+lookup Reorder_ShaRaYa_MatraEalt3 {
+     sub ShaRaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ShaRaYa.rj;
+ } Reorder_ShaRaYa_MatraEalt3;
+
+
+lookup Reorder_RaDha_MatraEalt1b {
+     sub RaDha.rj by matraE_alt1b.rj;
+     sub matraE_alt1b.rj by RaDha.rj;
+ } Reorder_RaDha_MatraEalt1b;
+
+lookup Reorder_RaDhaRa_MatraEalt4b {
+     sub RaDhaRa.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by RaDhaRa.rj;
+ } Reorder_RaDhaRa_MatraEalt4b;
+
+lookup Reorder_RaDhaMa_MatraEalt5b {
+     sub RaDhaMa.rj by matraE_alt5b.rj;
+     sub matraE_alt5b.rj by RaDhaMa.rj;
+ } Reorder_RaDhaMa_MatraEalt5b;
+
+lookup Reorder_RaDhaYa_MatraEalt5b {
+     sub RaDhaYa.rj by matraE_alt5b.rj;
+     sub matraE_alt5b.rj by RaDhaYa.rj;
+ } Reorder_RaDhaYa_MatraEalt5b;
+
+lookup Reorder_RaDhaVa_MatraEalt4b {
+     sub RaDhaVa.rj by matraE_alt4b.rj;
+     sub matraE_alt4b.rj by RaDhaVa.rj;
+ } Reorder_RaDhaVa_MatraEalt4b;
+
+lookup Reorder_RaDhaNaYa_matraE_alt5b {
+sub RaDhaNaYa.rj by matraE_alt5b.rj;
+sub matraE_alt5b.rj by RaDhaNaYa.rj;
+}Reorder_RaDhaNaYa_matraE_alt5b;
+
+
+#3 letter conjuncts-----------------------------------------------
+lookup Reorder_GaJaNya_MatraEalt3 {
+     sub GaJaNya.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaJaNya.rj;
+ } Reorder_GaJaNya_MatraEalt3;
+
+lookup Reorder_GaJaNya_alt_MatraEalt3 {
+     sub GaJaNya_alt_Aa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaJaNya_alt_Aa.rj;
+ } Reorder_GaJaNya_alt_MatraEalt3;
+
+lookup Reorder_GaNyaJa_MatraEalt4 {
+     sub GaNyaJa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaNyaJa.rj;
+ } Reorder_GaNyaJa_MatraEalt4;
+
+
+lookup Reorder_DhaNaYa_MatraEalt3b {
+     sub DhaNaYa.rj by matraE_alt3b.rj;
+     sub matraE_alt3b.rj by DhaNaYa.rj;
+ } Reorder_DhaNaYa_MatraEalt3b;
+
+lookup Reorder_DhaRaYa_MatraEalt3b {
+     sub DhaRaYa.rj by matraE_alt3b.rj;
+     sub matraE_alt3b.rj by DhaRaYa.rj;
+ } Reorder_DhaRaYa_MatraEalt3b;
+
+lookup Reorder_GaDhaVa_MatraEalt4 {
+     sub GaDhaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaDhaVa.rj;
+ } Reorder_GaDhaVa_MatraEalt4;
+
+lookup Reorder_GaNaYa_MatraEalt3 {
+     sub GaNaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaNaYa.rj;
+ } Reorder_GaNaYa_MatraEalt3;
+
+lookup Reorder_GaBhaYa_MatraEalt4 {
+     sub GaBhaYa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by GaBhaYa.rj;
+ } Reorder_GaBhaYa_MatraEalt4;
+
+lookup Reorder_GaRaYa_MatraEalt3 {
+     sub GaRaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by GaRaYa.rj;
+ } Reorder_GaRaYa_MatraEalt3;
+
+lookup Reorder_NyaKaSsa_MatraEalt1 {
+     sub NyaKaSsa.rj by matraE_alt1.rj;
+     sub matraE_alt1.rj by NyaKaSsa.rj;
+ } Reorder_NyaKaSsa_MatraEalt1;
+
+lookup Reorder_NyaKaSsaVa_MatraEalt4 {
+     sub NyaKaSsaVa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaKaSsaVa.rj;
+ } Reorder_NyaKaSsaVa_MatraEalt4;
+
+lookup Reorder_NyaCaYa_MatraEalt4 {
+     sub NyaCaYa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by NyaCaYa.rj;
+ } Reorder_NyaCaYa_MatraEalt4;
+
+lookup Reorder_NyaJaYa_MatraEalt3 {
+     sub NyaJaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NyaJaYa.rj;
+ } Reorder_NyaJaYa_MatraEalt3;
+
+lookup Reorder_NnaDdaYa_MatraEalt3 {
+     sub NnaDdaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NnaDdaYa.rj;
+ } Reorder_NnaDdaYa_MatraEalt3;
+
+lookup Reorder_NnaDdaRa_MatraEalt3 {
+     sub NnaDdaRa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by NnaDdaRa.rj;
+ } Reorder_NnaDdaRa_MatraEalt3;
+
+lookup Reorder_ShaCaYa_MatraEalt3 {
+     sub ShaCaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ShaCaYa.rj;
+ } Reorder_ShaCaYa_MatraEalt3;
+
+lookup Reorder_ShaVaYa_MatraEalt3 {
+     sub ShaVaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by ShaVaYa.rj;
+ } Reorder_ShaVaYa_MatraEalt3;
+
+lookup Reorder_KhaTaYa_matraE_alt3{
+     sub KhaTaYa.rj by matraE_alt3.rj;
+     sub matraE_alt3.rj by KhaTaYa.rj;
+ } Reorder_KhaTaYa_matraE_alt3;
+
+lookup Reorder_ThaVaYa_matraE_alt4{
+     sub ThaVaYa.rj by matraE_alt4.rj;
+     sub matraE_alt4.rj by ThaVaYa.rj;
+ } Reorder_ThaVaYa_matraE_alt4;
+
+#for Stylistic Set
+lookup Reorder_NaDha_SS_MatraE {
+    sub matraE_alt4b.rj by NaDha.rj.ss01;
+	sub NaDha.rj.ss01 by matraE_1.rj;
+ } Reorder_NaDha_SS_MatraE;
+
+lookup Reorder_NaDhaRa_SS_MatraE {
+    sub matraE_alt4b.rj by NaDhaRa.rj.ss01;
+	sub NaDhaRa.rj.ss01 by matraE_1.rj;
+ } Reorder_NaDhaRa_SS_MatraE;
+
+lookup Reorder_NaDhaYa_SS_MatraE {
+    sub matraE_alt4b.rj by NaDhaYa.rj.ss01;
+	sub NaDhaYa.rj.ss01 by matraE_1.rj;
+ } Reorder_NaDhaYa_SS_MatraE;
+
+lookup Reorder_NaDhaVa_SS_MatraE {
+    sub matraE_alt4b.rj by NaDhaVa.rj.ss01;
+	sub NaDhaVa.rj.ss01 by matraE_1.rj;
+ } Reorder_NaDhaVa_SS_MatraE;
+
+lookup Reorder_NaDhaRaYa_SS_MatraE {
+    sub matraE_alt5b.rj by NaDhaRaYa.rj.ss01;
+	sub NaDhaRaYa.rj.ss01 by matraE_1.rj;
+ } Reorder_NaDhaRaYa_SS_MatraE;
+
+
+feature aalt {
+# automatic
+feature akhn;
+feature rclt;
+feature rkrf;
+feature half;
+feature cjct;
+feature pres;
+feature abvs;
+feature psts;
+feature blws;
+feature salt;
+feature ss02;
+feature ss03;
+feature ss04;
+
+} aalt;
+
+feature akhn {
+lookup akhn {
+sub Ka.rj Halant.rj Ssa.rj by KaSsa.rj;
+sub Ja.rj Halant.rj Nya.rj by JaNya.rj;
+} akhn;
+
+lookup rclt {
+sub Jihvamuliya.rj Ka.rj by JihvamuliyaKa.rj;
+sub Jihvamuliya.rj Kha.rj by JihvamuliyaKha.rj;
+sub Upadhmaniya.rj Pa.rj by UpadhmaniyaPa.rj;
+sub Upadhmaniya.rj Pha.rj by UpadhmaniyaPha.rj;
+} rclt;
+
+
+} akhn;
+
+feature rclt {
+lookup rclt;
+} rclt;
+
+feature rkrf {
+lookup rkrf2 {
+sub KaSsa.rj Halant.rj Ra.rj by KaSsaRa.rj;
+sub JaNya.rj Halant.rj Ra.rj by JaNyaRa.rj;
+} rkrf2;
+
+lookup rkrf1 {
+sub	Ka.rj	Halant.rj	Ra.rj	by	KaRa.rj	;
+sub	Kha.rj	Halant.rj	Ra.rj	by	KhaRa.rj;
+sub	Ga.rj	Halant.rj	Ra.rj	by	GaRa.rj	;
+sub	Gha.rj	Halant.rj	Ra.rj	by	GhaRa.rj;
+sub	Nga.rj	Halant.rj	Ra.rj	by	NgaRa.rj;
+sub	Ca.rj	Halant.rj	Ra.rj	by	CaRa.rj	;
+sub	Cha.rj	Halant.rj	Ra.rj	by	ChaRa.rj;
+sub	Ja.rj	Halant.rj	Ra.rj	by	JaRa.rj	;
+sub	Jha.rj	Halant.rj	Ra.rj	by	JhaRa.rj	;
+sub	Nya.rj	Halant.rj	Ra.rj	by	NyaRa.rj	;
+sub	Tta.rj	Halant.rj	Ra.rj	by	TtaRa.rj	;
+sub	Ttha.rj	Halant.rj	Ra.rj	by	TthaRa.rj	;
+sub	Dda.rj	Halant.rj	Ra.rj	by	DdaRa.rj	;
+sub	Ddha.rj	Halant.rj	Ra.rj	by	DdhaRa.rj;
+sub	Nna.rj	Halant.rj	Ra.rj	by	NnaRa.rj;
+sub	Ta.rj	Halant.rj	Ra.rj	by	TaRa.rj	;
+sub	Tha.rj	Halant.rj	Ra.rj	by	ThaRa.rj;
+sub	Da.rj	Halant.rj	Ra.rj	by	DaRa.rj	;
+sub	Dha.rj	Halant.rj	Ra.rj	by	DhaRa.rj	;
+sub	Na.rj	Halant.rj	Ra.rj	by	NaRa.rj	;
+sub	Pa.rj	Halant.rj	Ra.rj	by	PaRa.rj	;
+sub	Pha.rj	Halant.rj	Ra.rj	by	PhaRa.rj;
+sub	Ba.rj	Halant.rj	Ra.rj	by	BaRa.rj	;
+sub	Bha.rj	Halant.rj	Ra.rj	by	BhaRa.rj;
+sub	Ma.rj	Halant.rj	Ra.rj	by	MaRa.rj	;
+sub	Ya.rj	Halant.rj	Ra.rj	by	YaRa.rj	;
+sub	La.rj	Halant.rj	Ra.rj	by	LaRa.rj	;
+sub	Va.rj	Halant.rj	Ra.rj	by	VaRa.rj	;
+sub	Sha.rj	Halant.rj	Ra.rj	by	ShaRa.rj;
+sub	Ssa.rj	Halant.rj	Ra.rj	by	SsaRa.rj;
+sub	Sa.rj	Halant.rj	Ra.rj	by	SaRa.rj	;
+sub	Ha.rj	Halant.rj	Ra.rj	by	HaRa.rj	;
+} rkrf1;
+
+} rkrf;
+
+feature half {
+#lookup half_newa {
+#	sub Lha.rj Halant.rj by LhaHalant.rj;
+#	sub Mha.rj Halant.rj by MhaHalant.rj;
+#	sub Ngha.rj Halant.rj by NghaHalant.rj;
+#	sub Nha.rj Halant.rj by NhaHalant.rj;
+#	sub Rha.rj Halant.rj by HaRaHalant.rj;
+#} half_newa;
+
+lookup half_rakar {
+	sub GaRa.rj Halant.rj by GaRaHalant.rj;
+	sub TaRa.rj Halant.rj by TaRaHalant.rj;
+	sub TtaRa.rj Halant.rj by TtaRaHalant.rj;
+	sub DaRa.rj Halant.rj by DaRaHalant.rj;
+	sub DhaRa.rj Halant.rj by DhaRaHalant.rj;
+	sub ShaRa.rj Halant.rj by ShaRaHalant.rj;
+	sub HaRa.rj Halant.rj by HaRaHalant.rj;
+} half_rakar;
+
+lookup half {
+sub Ka.rj Halant.rj by KaHalant.rj;
+	sub Kha.rj Halant.rj by KhaHalant.rj;
+	sub Ga.rj Halant.rj by GaHalant.rj;
+	sub Gha.rj Halant.rj by GhaHalant.rj;
+	sub Ca.rj Halant.rj by CaHalant.rj;
+	sub Ja.rj Halant.rj by JaHalant.rj;
+	sub Jha.rj Halant.rj by JhaHalant.rj;
+	sub Nya.rj Halant.rj by NyaHalant.rj;
+	sub Nna.rj Halant.rj by NnaHalant.rj;
+	sub Ta.rj Halant.rj by TaHalant.rj;
+	sub Tha.rj Halant.rj by ThaHalant.rj;
+	sub Dha.rj Halant.rj by DhaHalant.rj;
+	sub Na.rj Halant.rj by NaHalant.rj;
+	sub Pa.rj Halant.rj by PaHalant.rj;
+	sub Pha.rj Halant.rj by PhaHalant.rj;
+	sub Ba.rj Halant.rj by BaHalant.rj;
+	sub Bha.rj Halant.rj by BhaHalant.rj;
+	sub Ma.rj Halant.rj by MaHalant.rj;
+	sub Ya.rj Halant.rj by YaHalant.rj;
+	sub Ra.rj Halant.rj by RaHalant.rj;
+	sub La.rj Halant.rj by LaHalant.rj;
+	sub Va.rj Halant.rj by VaHalant.rj;
+	sub Sha.rj Halant.rj by ShaHalant.rj;
+	sub Ssa.rj Halant.rj by SsaHalant.rj;
+	sub Sa.rj Halant.rj by SaHalant.rj;
+	sub Ha.rj Halant.rj by HaHalant.rj;
+
+
+	sub Nga.rj Halant.rj by NgaHalant.rj;
+	sub Cha.rj Halant.rj by ChaHalant.rj;
+	sub Tta.rj Halant.rj by TtaHalant.rj;
+	sub Ttha.rj Halant.rj by TthaHalant.rj;
+	sub Dda.rj Halant.rj by DdaHalant.rj;
+	sub Ddha.rj Halant.rj by DdhaHalant.rj;
+	sub Da.rj Halant.rj by DaHalant.rj;
+	sub KaSsa.rj Halant.rj by KaSsaHalant.rj;
+	sub JaNya.rj Halant.rj by JaNyaHalant.rj;
+} half;
+
+} half;
+
+feature cjct {
+lookup pres5 { # Newa conjuncts
+#sub	NghaHalant.rj Ya.rj by NgaHaYa.rj;
+#sub	NghaHalant.rj La.rj by NgaHaLa.rj;
+#sub	NghaHalant.rj Va.rj by NgaHaVa.rj;
+
+#sub	NhaHalant.rj Ma.rj by NaHaMa.rj;
+#sub	NhaHalant.rj Ya.rj by NaHaYa.rj;
+#sub	NhaHalant.rj Ra.rj by NaHaRa.rj;
+#sub	NhaHalant.rj La.rj by NaHaLa.rj;
+#sub	NhaHalant.rj Va.rj by NaHaVa.rj;
+#sub	NhaHalant.rj Sa.rj by NaHaSa.rj;
+
+#sub	MhaHalant.rj Ma.rj by MaHaMa.rj;
+#sub	MhaHalant.rj Ya.rj by MaHaYa.rj;
+#sub	MhaHalant.rj La.rj by MaHaLa.rj;
+#sub	MhaHalant.rj Va.rj by MaHaVa.rj;
+
+#sub	HaRaHalant.rj Ya.rj by HaRaYa.rj;
+
+#sub	LhaHalant.rj Ma.rj by LaHaMa.rj;
+#sub	LhaHalant.rj Ya.rj by LaHaYa.rj;
+#sub	LhaHalant.rj La.rj by LaHaLa.rj;
+#sub	LhaHalant.rj Va.rj by LaHaVa.rj;
+} pres5;
+
+
+lookup pres4 { # Four-letter conjuncts
+sub	KaHalant.rj		TaHalant.rj				TaRa.rj		by	KaTaTaRa.rj	;
+sub	KaHalant.rj		TaRaHalant.rj Ya.rj				by	KaTaRaYa.rj	;
+sub	KaSsaHalant.rj	KaSsa.rj							by	KaSsaKaSsa.rj;
+sub	KaSsaHalant.rj	MaHalant.rj	Ya.rj					by	KaSsaMaYa.rj;
+sub	TaHalant.rj		SaHalant.rj	NaHalant.rj	Ya.rj		by	TaSaNaYa.rj	;
+sub	NaHalant.rj		TaRaHalant.rj	Ya.rj			by	NaTaRaYa.rj	;
+sub	NaHalant.rj		SaHalant.rj	TtaRa.rj				by	NaSaTtaRa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	TaHalant.rj	Ya.rj		by	NgaKaTaYa.rj	;
+sub	NgaHalant.rj	KaSsaHalant.rj	Va.rj				by	NgaKaSsaVa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	TaHalant.rj	Ya.rj		by	NgaKaTaYa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	SsaHalant.rj	Va.rj	by	NgaKaSsaVa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	TaHalant.rj		Ya.rj	by	NgaKaTaYa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	SsaHalant.rj	Va.rj	by	NgaKaSsaVa.rj	;
+sub NgaHalant.rj	KaHalant.rj	SsaHalant.rj	Nna.rj	by NgaKaSsaNna.rj;
+sub NgaHalant.rj	KaSsaHalant.rj	Nna.rj				by NgaKaSsaNna.rj;
+sub NgaHalant.rj	KaSsaHalant.rj	Ya.rj				by NgaKaSsaYa.rj;
+sub NgaHalant.rj	GaHalant.rj	DhaHalant.rj	Ya.rj	by NgaGaDhaYa.rj;
+sub NgaHalant.rj	GhaRa.rj	Halant.rj	Ya.rj		by NgaGhaRaYa.rj;
+sub	NyaHalant.rj	KaSsaHalant.rj	Va.rj			by	NyaKaSsaVa.rj;
+sub NyaHalant.rj	JaNya.rj						by	NyaJaNya.rj;
+sub	TaRaHalant.rj	TaRa.rj						by	TaRaTaRa.rj	;
+sub	TaHalant.rj	SaHalant.rj	TaRa.rj					by	TaSaTaRa.rj	;
+sub	TaHalant.rj	SaHalant.rj	MaHalant.rj	Ya.rj		by	TaSaMaYa.rj	;
+sub NgaHalant.rj	GaDhaVa.rj						by	NgaGaDhaVa.rj;
+sub	NgaHalant.rj	KaTaVa.rj						by	NgaKaTaVa.rj;
+sub	NaHalant.rj	TaHalant.rj	VaHalant.rj	Ya.rj		by	NaTaVaYa.rj;
+sub	NaHalant.rj	TaHalant.rj	SaHalant.rj	Ta.rj		by	NaTaSaTa.rj;
+sub	NaHalant.rj	TaHalant.rj	SaHalant.rj	Va.rj		by	NaTaSaVa.rj;
+sub	NaHalant.rj	SaHalant.rj	TtaHalant.rj	Ra.rj	by	NaSaTtaRa.rj;
+sub	NaHalant.rj	DaHalant.rj	DhaHalant.rj	Va.rj	by	NaDaDhaVa.rj;
+sub	NaHalant.rj	TaHalant.rj	SaHalant.rj	Ya.rj		by	NaTaSaYa.rj;
+sub	NaHalant.rj	DhaRaHalant.rj	Ya.rj		by	NaDhaRaYa.rj;
+sub	NaHalant.rj	SaHalant.rj	TaRa.rj					by	NaSaTaRa.rj;
+sub	PaHalant.rj	TaRaHalant.rj	Ya.rj						by	PaTaRaYa.rj	;
+sub	SsaHalant.rj	TtaRaHalant.rj	Ya.rj	by	SsaTtaRaYa.rj	;
+sub	SaHalant.rj	TaRaHalant.rj	Ya.rj	by	SaTaRaYa.rj	;
+} pres4;
+
+lookup pres3 { # Three-letter conjuncts
+sub	KaHalant.rj	TaHalant.rj	Ta.rj	by	KaTaTa.rj	;
+sub	KaHalant.rj	TaHalant.rj	Ya.rj	by	KaTaYa.rj	;
+sub	KaHalant.rj	TaRa.rj				by	KaTaRa.rj	;
+sub	KaHalant.rj	PaRa.rj				by	KaPaRa.rj;
+sub	KaHalant.rj	TaHalant.rj	Va.rj	by	KaTaVa.rj	;
+sub	KaHalant.rj	VaHalant.rj	Ya.rj	by	KaVaYa.rj	;
+sub KaSsaHalant.rj	Nna.rj	by	KaSsaNna.rj;
+sub KaSsaHalant.rj	Na.rj	by	KaSsaNa.rj;
+sub	KaSsaHalant.rj	Ma.rj	by	KaSsaMa.rj	;
+sub	KaSsaHalant.rj	Ya.rj	by	KaSsaYa.rj	;
+sub	KaSsaHalant.rj	La.rj	by	KaSsaLa.rj	;
+sub	KaSsaHalant.rj	Va.rj	by	KaSsaVa.rj	;
+sub	KaHalant.rj	ThaHalant.rj	Na.rj	by	KaThaNa.rj	;
+sub	KaHalant.rj	NaHalant.rj	Ya.rj	by	KaNaYa.rj	;
+sub	KaHalant.rj	LaHalant.rj	Ya.rj	by	KaLaYa.rj	;
+sub	KaHalant.rj	KaSsa.rj			by	KaKaSsa.rj	;
+sub	KaHalant.rj	MaHalant.rj	Ya.rj	by	KaMaYa.rj	;
+sub	KaRa.rj		Halant.rj	Ya.rj	by	KaRaYa.rj	;
+sub KhaHalant.rj	TaHalant.rj	Ya.rj	by KhaTaYa.rj;
+sub GaHalant.rj	GhaHalant.rj	Ya.rj	by	GaGhaYa.rj	;
+sub	GaHalant.rj	JaNya.rj				by	GaJaNya.rj	;
+sub GaHalant.rj	JaHalant.rj	Ya.rj		by	GaJaYa.rj;
+sub	GaHalant.rj	NyaHalant.rj	Ja.rj	by	GaNyaJa.rj	;
+sub GaHalant.rj	DaHalant.rj		Va.rj	by	GaDaVa.rj	;
+sub	GaHalant.rj	DhaHalant.rj	Va.rj	by	GaDhaVa.rj	;
+sub GaHalant.rj	DhaRa.rj				by	GaDhaRa.rj	;
+sub	GaHalant.rj	TaHalant.rj	Ya.rj		by	GaTaYa.rj	;
+sub	GaHalant.rj	NaHalant.rj	Ya.rj		by	GaNaYa.rj	;
+sub	GaHalant.rj	PhaRa.rj				by	GaPhaRa.rj	;
+sub	GaHalant.rj	BhaHalant.rj	Ya.rj	by	GaBhaYa.rj	;
+sub	GaRaHalant.rj Ya.rj				by	GaRaYa.rj	;
+sub	GaHalant.rj	VaYa.rj					by	GaVaYa.rj;
+sub	GhaHalant.rj	NaHalant.rj	Ya.rj	by	GhaNaYa.rj	;
+sub	CaHalant.rj	ChaHalant.rj	Ya.rj	by	CaChaYa.rj	;
+sub	CaHalant.rj	ChaHalant.rj	Ra.rj	by	CaChaRa.rj	;
+sub	CaHalant.rj	SaHalant.rj	Ya.rj		by	CaSaYa.rj	;
+sub	ChaHalant.rj	CaHalant.rj	Ma.rj	by	ChaCaMa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	Ta.rj	by	NgaKaTa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	Ya.rj	by	NgaKaYa.rj	;
+sub	NgaHalant.rj	KaRa.rj				by	NgaKaRa.rj	;
+sub	NgaHalant.rj	KaHalant.rj	Va.rj	by	NgaKaVa.rj	;
+sub	NgaHalant.rj	KhaHalant.rj	Ya.rj	by	NgaKhaYa.rj	;
+sub	NgaHalant.rj	KaSsa.rj			by	NgaKaSsa.rj	;
+sub	NgaHalant.rj	GaHalant.rj	Ya.rj	by	NgaGaYa.rj	;
+sub	NgaHalant.rj	GaRa.rj				by	NgaGaRa.rj	;
+sub	NgaHalant.rj	GhaHalant.rj	Ya.rj	by	NgaGhaYa.rj	;
+sub	NgaHalant.rj	GhaRa.rj			by	NgaGhaRa.rj	;
+sub	NgaHalant.rj	TaVa.rj				by	NgaTaVa.rj;
+sub	NgaHalant.rj	HaHalant.rj	Ya.rj	by	NgaHaYa.rj	;
+sub	NgaHalant.rj	HaHalant.rj	Va.rj	by	NgaHaVa.rj	;
+sub	NgaHalant.rj	HaHalant.rj	La.rj	by	NgaHaLa.rj	;
+sub	CaHalant.rj	ChaHalant.rj	Va.rj	by	CaChaVa.rj	;
+sub	CaHalant.rj	ChaRa.rj					by	CaChaRa.rj	;
+sub CaHalant.rj	CaHalant.rj	Ya.rj			by CaCaYa.rj;
+sub	JaHalant.rj	GaHalant.rj	Ya.rj	by	JaGaYa.rj	;
+sub	JaHalant.rj					JaNya.rj	by	JaJaNya.rj	;
+sub	JaHalant.rj	JaHalant.rj	Ya.rj	by	JaJaYa.rj	;
+sub	JaHalant.rj	JaHalant.rj	Va.rj	by	JaJaVa.rj	;
+sub	JaNyaHalant.rj	Na.rj	by	JaNyaNa.rj	;
+sub	JaNyaHalant.rj	Ma.rj	by	JaNyaMa.rj	;
+sub	JaNyaHalant.rj	Ya.rj	by	JaNyaYa.rj	;
+sub	JaNyaHalant.rj	La.rj	by	JaNyaLa.rj	;
+sub	JaNyaHalant.rj	Va.rj	by	JaNyaVa.rj	;
+sub	NyaHalant.rj	KaSsa.rj			by	NyaKaSsa.rj	;
+sub	NyaHalant.rj	CaHalant.rj	Ma.rj	by	NyaCaMa.rj	;
+sub	NyaHalant.rj	CaHalant.rj	Ya.rj	by	NyaCaYa.rj	;
+sub	NyaHalant.rj	ChaVa.rj			by	NyaChaVa.rj	;
+sub	NyaHalant.rj	JaHalant.rj	Ya.rj	by	NyaJaYa.rj	;
+sub	NyaHalant.rj	JaHalant.rj	Va.rj	by	NyaJaVa.rj	;
+sub	NyaHalant.rj	ShaRa.rj			by	NyaShaRa.rj	;
+sub	NyaHalant.rj	ShaHalant.rj	La.rj	by	NyaShaLa.rj	;
+sub	NyaHalant.rj	ShaHalant.rj	Va.rj	by	NyaShaVa.rj	;
+sub	TtaHalant.rj	KaSsa.rj			by	TtaKaSsa.rj;
+sub	TtaHalant.rj	TaRa.rj			by	TtaTaRa.rj;
+sub DdaHalant.rj	GaHalant.rj	Ya.rj	by	DdaGaYa.rj;
+sub DdaHalant.rj	GaRa.rj			by DdaGaRa.rj	;
+sub DdaHalant.rj	GhaRa.rj		by DdaGhaRa.rj	;
+sub	NnaHalant.rj	DdaHalant.rj	Ya.rj	by	NnaDdaYa.rj	;
+sub	NnaHalant.rj	DdaRa.rj		by	NnaDdaRa.rj	;
+sub	TaHalant.rj	KaVa.rj				by	TaKaVa.rj;
+sub	TaHalant.rj	KaRa.rj				by	TaKaRa.rj	;
+sub	TaHalant.rj	KhaHalant.rj	Ya.rj	by	TaKhaYa.rj;
+sub	TaHalant.rj	KaHalant.rj	La.rj	by	TaKaLa.rj	;
+sub	TaHalant.rj	KaSsa.rj			by	TaKaSsa.rj	;
+sub	TaHalant.rj	TaHalant.rj	Ya.rj	by	TaTaYa.rj	;
+sub	TaHalant.rj	TaRa.rj				by	TaTaRa.rj	;
+sub	TaHalant.rj	TaHalant.rj	Va.rj	by	TaTaVa.rj	;
+sub	TaHalant.rj	NaHalant.rj	Ya.rj	by	TaNaYa.rj	;
+sub	TaHalant.rj	PaRa.rj				by	TaPaRa.rj	;
+sub	TaHalant.rj	PaHalant.rj	La.rj	by	TaPaLa.rj	;
+sub	TaHalant.rj	MaHalant.rj	Ya.rj	by	TaMaYa.rj	;
+sub	TaRaHalant.rj	Ya.rj		by	TaRaYa.rj	;
+sub	TaRaHalant.rj	La.rj		by	TaRaLa.rj	;
+sub	TaRaHalant.rj	Va.rj		by	TaRaVa.rj	;
+sub	TaHalant.rj	VaHalant.rj	Ya.rj	by	TaVaYa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Ka.rj	by	TaSaKa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Ta.rj	by	TaSaTa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Tha.rj	by	TaSaTha.rj	;
+sub	TaHalant.rj	SaHalant.rj	Na.rj	by	TaSaNa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Pa.rj	by	TaSaPa.rj	;
+sub TaHalant.rj	SaHalant.rj	Pha.rj	by TaSaPha.rj	;
+sub	TaHalant.rj	SaHalant.rj	Ma.rj	by	TaSaMa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Ya.rj	by	TaSaYa.rj	;
+sub	TaHalant.rj	SaRa.rj						by	TaSaRa.rj	;
+sub	TaHalant.rj	SaHalant.rj	Va.rj	by	TaSaVa.rj	;
+sub	ThaHalant.rj	VaHalant.rj	Ya.rj	by	ThaVaYa.rj	;
+sub	DaHalant.rj	GaHalant.rj	Ya.rj	by	DaGaYa.rj	;
+sub	DaHalant.rj	GaRa.rj						by	DaGaRa.rj	;
+sub	DaHalant.rj	DaHalant.rj	Ya.rj	by	DaDaYa.rj	;
+sub	DaHalant.rj	DaRa.rj						by	DaDaRa.rj	;
+sub	DaHalant.rj	DaHalant.rj	Va.rj	by	DaDaVa.rj	;
+sub	DaHalant.rj	DhaHalant.rj	Na.rj	by	DaDhaNa.rj	;
+sub	DaHalant.rj	DhaHalant.rj	Ya.rj	by	DaDhaYa.rj	;
+sub	DaHalant.rj	DhaRa.rj				by	DaDhaRa.rj	;
+sub	DaHalant.rj	DhaHalant.rj	Va.rj	by	DaDhaVa.rj	;
+sub	DaHalant.rj	MaYa.rj		by	DaMaYa.rj	;
+sub	DaHalant.rj	BaRa.rj					by	DaBaRa.rj	;
+sub	DaHalant.rj	BhaHalant.rj	Ya.rj	by	DaBhaYa.rj	;
+sub	DaHalant.rj	BhaRa.rj				by	DaBhaRa.rj	;
+sub	DaRaHalant.rj	Ya.rj			by	DaRaYa.rj	;
+sub	DaHalant.rj	VaHalant.rj	Ya.rj		by	DaVaYa.rj	;
+sub	DaHalant.rj	VaRa.rj					by	DaVaRa.rj	;
+sub	DhaHalant.rj	NaHalant.rj	Ya.rj	by	DhaNaYa.rj	;
+sub	DhaRaHalant.rj	Ya.rj	by	DhaRaYa.rj	;
+sub	NaHalant.rj	KaRa.rj					by	NaKaRa.rj	;
+sub NaHalant.rj	KaHalant.rj	La.rj		by	NaKaLa.rj;
+sub NaHalant.rj	KaHalant.rj	Va.rj		by	NaKaVa.rj;
+sub	NaHalant.rj	KhaHalant.rj	Ya.rj	by	NaKhaYa.rj	;
+sub NaHalant.rj 	GaRa.rj				by NaGaRa.rj;
+sub NaHalant.rj	GhaHalant.rj	Na.rj	by	NaGhaNa.rj;
+sub	NaHalant.rj	JaHalant.rj	Ya.rj		by	NaJaYa.rj	;
+sub	NaHalant.rj	TtaRa.rj				by	NaTtaRa.rj	;
+sub	NaHalant.rj	TaHalant.rj	Ya.rj		by	NaTaYa.rj	;
+sub	NaHalant.rj	TaRa.rj					by	NaTaRa.rj	;
+sub	NaHalant.rj	TaHalant.rj	La.rj	by	NaTaLa.rj	;
+sub	NaHalant.rj	TaHalant.rj	Va.rj	by	NaTaVa.rj	;
+sub	NaHalant.rj	TaHalant.rj	Sa.rj	by	NaTaSa.rj	;
+sub	NaHalant.rj	ThaHalant.rj	Ya.rj	by	NaThaYa.rj	;
+sub	NaHalant.rj	DaHalant.rj	Dha.rj	by	NaDaDha.rj	;
+sub	NaHalant.rj	DaHalant.rj	Ya.rj	by	NaDaYa.rj	;
+sub	NaHalant.rj	DaRa.rj				by	NaDaRa.rj	;
+sub	NaHalant.rj	DaHalant.rj	Va.rj	by	NaDaVa.rj	;
+sub	NaHalant.rj	DhaHalant.rj	Ya.rj	by	NaDhaYa.rj	;
+sub	NaHalant.rj	DhaRa.rj				by	NaDhaRa.rj	;
+sub	NaHalant.rj	DhaHalant.rj	Va.rj	by	NaDhaVa.rj	;
+sub	NaHalant.rj	NaHalant.rj	Va.rj	by	NaNaVa.rj	;
+sub	NaHalant.rj	NaHalant.rj	Ya.rj	by	NaNaYa.rj	;
+sub	NaHalant.rj	PaRa.rj						by	NaPaRa.rj	;
+sub	NaHalant.rj	PaHalant.rj	Va.rj	by	NaPaVa.rj	;
+sub	NaHalant.rj	BaRa.rj				by	NaBaRa.rj	;
+sub	NaHalant.rj	BhaRa.rj			by	NaBhaRa.rj	;
+sub	NaHalant.rj	MaHalant.rj	La.rj	by	NaMaLa.rj	;
+sub	NaHalant.rj	VaHalant.rj	Ya.rj	by	NaVaYa.rj	;
+sub	NaHalant.rj	VaRa.rj				by	NaVaRa.rj	;
+sub NaHalant.rj	MaYa.rj				by	NaMaYa.rj	;
+sub NaHalant.rj	SsaHalant.rj	Tta.rj			by	NaSsaTta.rj;
+sub NaHalant.rj	SaHalant.rj	Ma.rj	by	NaSaMa.rj;
+sub	NaHalant.rj	SaHalant.rj	Ka.rj	by	NaSaKa.rj	;
+sub	NaHalant.rj	SaHalant.rj	Ta.rj	by	NaSaTa.rj	;
+sub	NaHalant.rj	SaHalant.rj	Tha.rj	by	NaSaTha.rj	;
+sub	NaHalant.rj	SaHalant.rj	Na.rj	by	NaSaNa.rj	;
+sub	NaHalant.rj	SaHalant.rj	Pa.rj	by	NaSaPa.rj	;
+sub	NaHalant.rj	SaHalant.rj	Tta.rj	by	NaSaTta.rj	;
+sub NaHalant.rj	SaHalant.rj	Ya.rj	by	NaSaYa.rj	;
+sub	NaHalant.rj	SaHalant.rj	Va.rj	by	NaSaVa.rj	;
+sub	NaHalant.rj	HaHalant.rj	Ma.rj	by	NaHaMa.rj	;
+sub	NaHalant.rj	HaHalant.rj	Ya.rj	by	NaHaYa.rj	;
+sub	NaHalant.rj	HaRa.rj				by	NaHaRa.rj	;
+sub	NaHalant.rj	HaHalant.rj	La.rj	by	NaHaLa.rj	;
+sub	NaHalant.rj	HaHalant.rj	Va.rj	by	NaHaVa.rj	;
+sub	NaHalant.rj	HaHalant.rj	Sa.rj	by	NaHaSa.rj	;
+sub NaHalant.rj	KaSsa.rj			by	NaKaSsa.rj;
+sub	PaHalant.rj	TaHalant.rj	Ya.rj	by	PaTaYa.rj	;
+sub	PaHalant.rj	TaRa.rj						by	PaTaRa.rj	;
+sub	PaHalant.rj	TaHalant.rj	Va.rj	by	PaTaVa.rj	;
+sub	PaHalant.rj	NaHalant.rj	Ya.rj	by	PaNaYa.rj	;
+sub	PaHalant.rj	VaHalant.rj	Ya.rj	by	PaVaYa.rj	;
+sub	PaHalant.rj	SaHalant.rj	Va.rj	by	PaSaVa.rj	;
+sub	PaHalant.rj	SaHalant.rj	Ya.rj	by	PaSaYa.rj	;
+sub	BaHalant.rj	DhaRa.rj					by	BaDhaRa.rj	;
+sub	BaHalant.rj	DhaHalant.rj	Va.rj	by	BaDhaVa.rj	;
+sub	BaHalant.rj	BhaHalant.rj	Ya.rj	by	BaBhaYa.rj	;
+sub	MaHalant.rj	KhaHalant.rj	Va.rj	by	MaKhaVa.rj	;
+sub	MaHalant.rj	NaHalant.rj	Ya.rj	by	MaNaYa.rj	;
+sub	MaHalant.rj	PaHalant.rj	Ya.rj	by	MaPaYa.rj	;
+sub	MaHalant.rj	PaRa.rj						by	MaPaRa.rj	;
+sub	MaHalant.rj	PaHalant.rj	La.rj	by	MaPaLa.rj	;
+sub	MaHalant.rj	PaHalant.rj	Va.rj	by	MaPaVa.rj	;
+sub	MaHalant.rj	PhaHalant.rj	Va.rj	by	MaPhaVa.rj	;
+sub	MaHalant.rj	BaHalant.rj	Ya.rj	by	MaBaYa.rj	;
+sub	MaHalant.rj	BaHalant.rj	Va.rj	by	MaBaVa.rj	;
+sub	MaHalant.rj	BhaHalant.rj	Va.rj	by	MaBhaVa.rj	;
+sub MaHalant.rj	BhaRa.rj			by	MaBhaRa.rj	;
+sub	MaHalant.rj	HaHalant.rj	Ma.rj	by	MaHaMa.rj	;
+sub	MaHalant.rj	HaHalant.rj	Ya.rj	by	MaHaYa.rj	;
+sub	MaHalant.rj	HaHalant.rj	La.rj	by	MaHaLa.rj	;
+sub	MaHalant.rj	HaHalant.rj	Va.rj	by	MaHaVa.rj	;
+sub RaHalant.rj	BaRa.rj	by RaBaRa.rj;
+sub RaHalant.rj	DaHalant.rj		Va.rj	by	RaDaVa.rj;
+sub RaHalant.rj	DhaHalant.rj	Va.rj	by	RaDhaVa.rj;
+sub RaHalant.rj	ShaHalant.rj	Va.rj	by	RaShaVa.rj;
+sub RaHalant.rj	VaHalant.rj	Ya.rj	by	RaVaYa.rj;
+sub LaHalant.rj	KaYa.rj				by	LaKaYa.rj;
+sub	LaHalant.rj	BhaHalant.rj	Ya.rj	by	LaBhaYa.rj	;
+sub	LaHalant.rj	MaHalant.rj	Ya.rj	by	LaMaYa.rj	;
+sub LaHalant.rj	PaHalant.rj	Ya.rj	by LaPaYa.rj;
+sub	LaHalant.rj	HaHalant.rj	Ma.rj	by	LaHaMa.rj	;
+sub	LaHalant.rj	HaHalant.rj	Ya.rj	by	LaHaYa.rj	;
+sub	LaHalant.rj	HaHalant.rj	La.rj	by	LaHaLa.rj	;
+sub	LaHalant.rj	HaHalant.rj	Va.rj	by	LaHaVa.rj	;
+sub	SsaHalant.rj	KaRa.rj					by	SsaKaRa.rj	;
+sub	SsaHalant.rj	TtaHalant.rj	Ya.rj	by	SsaTtaYa.rj	;
+sub	SsaHalant.rj	TtaRa.rj				by	SsaTtaRa.rj	;
+sub	SsaHalant.rj	TtaHalant.rj	Va.rj	by	SsaTtaVa.rj	;
+sub	SsaHalant.rj	TthaHalant.rj	Ya.rj	by	SsaTthaYa.rj	;
+sub	SsaHalant.rj	NnaHalant.rj	Ya.rj	by	SsaNnaYa.rj	;
+sub	SsaHalant.rj	NnaHalant.rj	Va.rj	by	SsaNnaVa.rj	;
+sub	SsaHalant.rj	PaRa.rj					by	SsaPaRa.rj	;
+sub	ShaHalant.rj	CaHalant.rj	Ya.rj	by	ShaCaYa.rj	;
+sub ShaRaHalant.rj	Ya.rj		by ShaRaYa.rj	;
+sub	ShaHalant.rj	VaHalant.rj	Ya.rj	by	ShaVaYa.rj	;
+sub	SaHalant.rj	KaHalant.rj	Ya.rj	by	SaKaYa.rj	;
+sub	SaHalant.rj	KaRa.rj				by	SaKaRa.rj	;
+sub	SaHalant.rj	KaHalant.rj	Va.rj	by	SaKaVa.rj	;
+sub	SaHalant.rj	TaHalant.rj	Ya.rj	by	SaTaYa.rj	;
+sub	SaHalant.rj	TaRa.rj				by	SaTaRa.rj	;
+sub	SaHalant.rj	TaHalant.rj	Va.rj	by	SaTaVa.rj	;
+sub	SaHalant.rj	ThaHalant.rj	Ya.rj	by	SaThaYa.rj	;
+sub	SaHalant.rj	NaHalant.rj	Ya.rj	by	SaNaYa.rj	;
+sub	SaHalant.rj	PaRa.rj				by	SaPaRa.rj;
+sub	SaHalant.rj	SaHalant.rj	Va.rj	by	SaSaVa.rj	;
+sub	SaHalant.rj	MaHalant.rj	Ya.rj	by	SaMaYa.rj	;
+sub	HaRaHalant.rj	Ya.rj		by	HaRaYa.rj	;
+sub	HaHalant.rj	VaHalant.rj	Ya.rj	by	HaVaYa.rj	;
+} pres3;
+	
+lookup pres2 { # Two-letter conjuncts
+sub	KaHalant.rj	Ka.rj	by	KaKa.rj	;
+sub	KaHalant.rj	Kha.rj	by	KaKha.rj	;
+sub	KaHalant.rj	Ca.rj	by	KaCa.rj	;
+sub	KaHalant.rj	Ja.rj	by	KaJa.rj	;
+sub	KaHalant.rj	Jha.rj	by	KaJha.rj	;
+sub	KaHalant.rj	Tta.rj	by	KaTta.rj	;
+sub	KaHalant.rj	Nna.rj	by	KaNna.rj	;
+sub	KaHalant.rj	Ta.rj	by	KaTa.rj	;
+sub	KaHalant.rj	Tha.rj	by	KaTha.rj	;
+sub	KaHalant.rj	Da.rj	by	KaDa.rj	;
+sub	KaHalant.rj	Na.rj	by	KaNa.rj	;
+sub	KaHalant.rj	Pa.rj	by	KaPa.rj	;
+sub	KaHalant.rj	Pha.rj	by	KaPha.rj	;
+sub	KaHalant.rj	Ma.rj	by	KaMa.rj	;
+sub	KaHalant.rj	Ya.rj	by	KaYa.rj	;
+sub	KaHalant.rj	La.rj	by	KaLa.rj	;
+sub	KaHalant.rj	Va.rj	by	KaVa.rj	;
+sub	KaHalant.rj	Sha.rj	by	KaSha.rj	;
+sub	KaHalant.rj	Sa.rj	by	KaSa.rj	;
+sub	KhaHalant.rj	Kha.rj	by	KhaKha.rj	;
+sub	KhaHalant.rj	Cha.rj	by	KhaCha.rj	;
+sub	KhaHalant.rj	Ta.rj	by	KhaTa.rj	;
+sub	KhaHalant.rj	Na.rj	by	KhaNa.rj	;
+sub	KhaHalant.rj	Ma.rj	by	KhaMa.rj	;
+sub	KhaHalant.rj	Ya.rj	by	KhaYa.rj	;
+sub	KhaHalant.rj	La.rj	by	KhaLa.rj	;
+sub	KhaHalant.rj	Va.rj	by	KhaVa.rj	;
+sub	KhaHalant.rj	Sha.rj	by	KhaSha.rj	;
+sub	KhaHalant.rj	Sa.rj	by	KhaSa.rj	;
+sub	GaHalant.rj	Ga.rj	by	GaGa.rj	;
+sub	GaHalant.rj	Gha.rj	by	GaGha.rj	;
+sub	GaHalant.rj	Cha.rj	by	GaCha.rj	;
+sub	GaHalant.rj	Ja.rj	by	GaJa.rj	;
+sub	GaHalant.rj	Nna.rj	by	GaNna.rj	;
+sub	GaHalant.rj	Da.rj	by	GaDa.rj	;
+sub	GaHalant.rj	Dha.rj	by	GaDha.rj	;
+sub	GaHalant.rj	Na.rj	by	GaNa.rj	;
+sub GaHalant.rj	Pha.rj	by	GaPha.rj;
+sub	GaHalant.rj	Ba.rj	by	GaBa.rj	;
+sub	GaHalant.rj	Bha.rj	by	GaBha.rj	;
+sub	GaHalant.rj	Ma.rj	by	GaMa.rj	;
+sub	GaHalant.rj	Ya.rj	by	GaYa.rj	;
+sub	GaHalant.rj	La.rj	by	GaLa.rj	;
+sub	GaHalant.rj	Va.rj	by	GaVa.rj	;
+sub	GaHalant.rj	Sha.rj	by	GaSha.rj;
+sub	GaHalant.rj	Sa.rj	by	GaSa.rj	;
+sub	GhaHalant.rj	Gha.rj	by	GhaGha.rj	;
+sub	GhaHalant.rj	Na.rj	by	GhaNa.rj	;
+sub	GhaHalant.rj	La.rj	by	GhaLa.rj	;
+sub	GhaHalant.rj	Va.rj	by	GhaVa.rj	;
+sub	GhaHalant.rj	Sa.rj	by	GhaSa.rj	;
+sub	GhaHalant.rj	Ma.rj	by	GhaMa.rj	;
+sub	GhaHalant.rj	Ya.rj	by	GhaYa.rj	;
+sub	NgaHalant.rj	Ka.rj	by	NgaKa.rj	;
+sub	NgaHalant.rj	Kha.rj	by	NgaKha.rj	;
+sub	NgaHalant.rj	Ga.rj	by	NgaGa.rj	;
+sub	NgaHalant.rj	Gha.rj	by	NgaGha.rj	;
+sub	NgaHalant.rj	Nga.rj	by	NgaNga.rj	;
+sub	NgaHalant.rj	Cha.rj	by	NgaCha.rj	;
+sub	NgaHalant.rj	Na.rj	by	NgaNa.rj	;
+sub	NgaHalant.rj	Ma.rj	by	NgaMa.rj	;
+sub	NgaHalant.rj	Ya.rj	by	NgaYa.rj	;												
+sub	NgaHalant.rj	La.rj	by	NgaLa.rj	;
+sub	NgaHalant.rj	Va.rj	by	NgaVa.rj	;
+sub	NgaHalant.rj	Sa.rj	by	NgaSa.rj	;
+sub	NgaHalant.rj	Ha.rj	by	HaNga.rj	;
+sub	CaHalant.rj	Ca.rj	by	CaCa.rj	;
+sub	CaHalant.rj	Cha.rj	by	CaCha.rj	;
+sub	CaHalant.rj	Nya.rj	by	CaNya.rj	;
+sub	CaHalant.rj	Na.rj	by	CaNa.rj	;
+sub	CaHalant.rj	Ma.rj	by	CaMa.rj	;
+sub	CaHalant.rj	Ya.rj	by	CaYa.rj	;
+sub	CaHalant.rj	La.rj	by	CaLa.rj	;
+sub	CaHalant.rj	Va.rj	by	CaVa.rj	;
+sub	CaHalant.rj	Sa.rj	by	CaSa.rj	;
+sub	ChaHalant.rj	Cha.rj	by	ChaCha.rj	;
+sub ChaHalant.rj	Na.rj	by	ChaNa.rj;
+sub	ChaHalant.rj	Ma.rj	by	ChaMa.rj	;
+sub	ChaHalant.rj	Ya.rj	by	ChaYa.rj	;
+sub	ChaHalant.rj	La.rj	by	ChaLa.rj	;
+sub	ChaHalant.rj	Va.rj	by	ChaVa.rj	;
+sub	ChaHalant.rj	Sa.rj	by	ChaSa.rj	;
+sub	JaHalant.rj	Ka.rj	by	JaKa.rj	;
+sub	JaHalant.rj	Ja.rj	by	JaJa.rj	;
+sub	JaHalant.rj	Jha.rj	by	JaJha.rj	;
+sub	JaHalant.rj	Tta.rj	by	JaTta.rj	;
+sub	JaHalant.rj	Dda.rj	by	JaDda.rj	;
+sub	JaHalant.rj	Ta.rj	by	JaTa.rj	;
+sub	JaHalant.rj	Da.rj	by	JaDa.rj	;
+sub	JaHalant.rj	Na.rj	by	JaNa.rj	;
+sub	JaHalant.rj	Ba.rj	by	JaBa.rj	;
+sub	JaHalant.rj	Bha.rj	by	JaBha.rj	;
+sub	JaHalant.rj	Ma.rj	by	JaMa.rj	;
+sub	JaHalant.rj	Ya.rj	by	JaYa.rj	;
+sub	JaHalant.rj	La.rj	by	JaLa.rj	;
+sub	JaHalant.rj	Va.rj	by	JaVa.rj	;
+sub	JaHalant.rj	Sa.rj	by	JaSa.rj	;
+sub	JhaHalant.rj	Jha.rj	by	JhaJha.rj	;
+sub	JhaHalant.rj	Na.rj	by	JhaNa.rj	;
+sub	JhaHalant.rj	Ma.rj	by	JhaMa.rj	;
+sub	JhaHalant.rj	Ya.rj	by	JhaYa.rj	;
+sub	JhaHalant.rj	La.rj	by	JhaLa.rj	;
+sub	JhaHalant.rj	Sa.rj	by	JhaSa.rj	;
+sub	JhaHalant.rj	Va.rj	by	JhaVa.rj	;
+sub	NyaHalant.rj	Ca.rj	by	NyaCa.rj	;
+sub	NyaHalant.rj	Cha.rj	by	NyaCha.rj	;
+sub	NyaHalant.rj	Ja.rj	by	NyaJa.rj	;
+sub	NyaHalant.rj	Jha.rj	by	NyaJha.rj	;
+sub	NyaHalant.rj	Nya.rj	by	NyaNya.rj	;
+sub NyaHalant.rj	Na.rj	by NyaNa.rj;
+sub	NyaHalant.rj	Ma.rj	by	NyaMa.rj	;
+sub	NyaHalant.rj	Ya.rj	by	NyaYa.rj	;
+sub NyaHalant.rj	La.rj	by	NyaLa.rj;
+sub	NyaHalant.rj	Va.rj	by	NyaVa.rj	;
+sub	NyaHalant.rj	Sha.rj	by	NyaSha.rj	;
+sub	NyaHalant.rj	Sa.rj	by	NyaSa.rj	;
+sub	NyaHalant.rj	Ha.rj	by	NyaHa.rj	;
+sub	TtaHalant.rj	Ka.rj	by	TtaKa.rj	;
+sub	TtaHalant.rj	Ca.rj	by	TtaCa.rj	;
+sub	TtaHalant.rj	Tta.rj	by	TtaTta.rj	;
+sub	TtaHalant.rj	Ta.rj	by	TtaTa.rj	;
+sub	TtaHalant.rj	Ttha.rj	by	TtaTtha.rj	;
+sub	TtaHalant.rj	Na.rj	by	TtaNa.rj	;
+sub	TtaHalant.rj	Pa.rj	by	TtaPa.rj	;
+sub	TtaHalant.rj	Ma.rj	by	TtaMa.rj	;
+sub	TtaHalant.rj	Ya.rj	by	TtaYa.rj	;												
+sub	TtaHalant.rj	La.rj	by	TtaLa.rj	;
+sub	TtaHalant.rj	Va.rj	by	TtaVa.rj	;
+sub	TtaHalant.rj	Ssa.rj	by	TtaSsa.rj	;
+sub	TtaHalant.rj	Sha.rj	by	TtaSha.rj	;
+sub	TtaHalant.rj	Sa.rj	by	TtaSa.rj	;
+sub	TthaHalant.rj	Ttha.rj	by	TthaTtha.rj	;
+sub	TthaHalant.rj	Na.rj	by	TthaNa.rj	;
+sub	TthaHalant.rj	Ma.rj	by	TthaMa.rj	;
+sub	TthaHalant.rj	Ya.rj	by	TthaYa.rj	;
+sub	TthaHalant.rj	La.rj	by	TthaLa.rj	;
+sub	TthaHalant.rj	Va.rj	by	TthaVa.rj	;
+sub	TthaHalant.rj	Sa.rj	by	TthaSa.rj	;
+sub	DdaHalant.rj	Ka.rj	by	DdaKa.rj	;
+sub	DdaHalant.rj	Ga.rj	by	DdaGa.rj	;
+sub	DdaHalant.rj	Gha.rj	by	DdaGha.rj	;
+sub	DdaHalant.rj	Dda.rj	by	DdaDda.rj	;
+sub	DdaHalant.rj	Ddha.rj	by	DdaDdha.rj	;
+sub	DdaHalant.rj	Da.rj	by	DdaDa.rj	;
+sub	DdaHalant.rj	Na.rj	by	DdaNa.rj	;
+sub	DdaHalant.rj	Bha.rj	by	DdaBha.rj	;
+sub	DdaHalant.rj	Ma.rj	by	DdaMa.rj	;
+sub	DdaHalant.rj	Ya.rj	by	DdaYa.rj	;
+sub	DdaHalant.rj	La.rj	by	DdaLa.rj	;
+sub	DdaHalant.rj	Va.rj	by	DdaVa.rj	;
+sub	DdaHalant.rj	Sa.rj	by	DdaSa.rj	;
+sub	DdhaHalant.rj	Ddha.rj	by	DdhaDdha.rj	;
+sub	DdhaHalant.rj	Nna.rj	by	DdhaNna.rj	;
+sub	DdhaHalant.rj	Na.rj	by	DdhaNa.rj	;
+sub	DdhaHalant.rj	Ma.rj	by	DdhaMa.rj	;
+sub	DdhaHalant.rj	Ya.rj	by	DdhaYa.rj	;
+sub	DdhaHalant.rj	La.rj	by	DdhaLa.rj	;
+sub	DdhaHalant.rj	Va.rj	by	DdhaVa.rj	;
+sub	DdhaHalant.rj	Sa.rj	by	DdhaSa.rj	;
+sub	NnaHalant.rj	Tta.rj	by	NnaTta.rj	;
+sub	NnaHalant.rj	Ttha.rj	by	NnaTtha.rj	;
+sub	NnaHalant.rj	Na.rj	by	NnaNa.rj	;
+sub	NnaHalant.rj	Dda.rj	by	NnaDda.rj	;
+sub	NnaHalant.rj	Ddha.rj	by	NnaDdha.rj	;
+sub	NnaHalant.rj	Nna.rj	by	NnaNna.rj	;
+sub	NnaHalant.rj	Ma.rj	by	NnaMa.rj	;
+sub	NnaHalant.rj	Ya.rj	by	NnaYa.rj	;
+sub	NnaHalant.rj	La.rj	by	NnaLa.rj	;
+sub	NnaHalant.rj	Va.rj	by	NnaVa.rj	;
+sub	NnaHalant.rj	Ha.rj	by	HaNna.rj	;
+sub	TaHalant.rj	Ka.rj	by	TaKa.rj	;
+sub	TaHalant.rj	Kha.rj	by	TaKha.rj	;
+sub	TaHalant.rj	Ja.rj	by	TaJa.rj	;
+sub	TaHalant.rj	Ta.rj	by	TaTa.rj	;
+sub	TaHalant.rj	Tha.rj	by	TaTha.rj	;
+sub	TaHalant.rj	Na.rj	by	TaNa.rj	;
+sub	TaHalant.rj	Pa.rj	by	TaPa.rj	;
+sub	TaHalant.rj	Pha.rj	by	TaPha.rj	;
+sub	TaHalant.rj	Bha.rj	by	TaBha.rj	;
+sub	TaHalant.rj	Ma.rj	by	TaMa.rj	;
+sub	TaHalant.rj	Ya.rj	by	TaYa.rj	;
+sub	TaHalant.rj	La.rj	by	TaLa.rj	;
+sub	TaHalant.rj	Va.rj	by	TaVa.rj	;
+sub	TaHalant.rj	Ssa.rj	by	TaSsa.rj	;
+sub	TaHalant.rj	Sa.rj	by	TaSa.rj	;
+sub	ThaHalant.rj	Tha.rj	by	ThaTha.rj	;
+sub	ThaHalant.rj	Na.rj	by	ThaNa.rj	;
+sub	ThaHalant.rj	Ma.rj	by	ThaMa.rj	;
+sub	ThaHalant.rj	Ya.rj	by	ThaYa.rj	;
+sub	ThaHalant.rj	La.rj	by	ThaLa.rj	;
+sub	ThaHalant.rj	Va.rj	by	ThaVa.rj	;
+sub	ThaHalant.rj	Sa.rj	by	ThaSa.rj	;
+sub	DaHalant.rj	Ga.rj	by	DaGa.rj	;
+sub	DaHalant.rj	Gha.rj	by	DaGha.rj	;
+sub	DaHalant.rj	Da.rj	by	DaDa.rj	;
+sub	DaHalant.rj	Dha.rj	by	DaDha.rj	;
+sub	DaHalant.rj	Na.rj	by	DaNa.rj	;
+sub	DaHalant.rj	Ba.rj	by	DaBa.rj	;
+sub	DaHalant.rj	Bha.rj	by	DaBha.rj	;
+sub	DaHalant.rj	Ma.rj	by	DaMa.rj	;
+sub	DaHalant.rj	Ya.rj	by	DaYa.rj	;
+sub	DaHalant.rj	La.rj	by	DaLa.rj	;
+sub	DaHalant.rj	Va.rj	by	DaVa.rj	;
+sub	DaHalant.rj	Sa.rj	by	DaSa.rj	;
+sub	DhaHalant.rj	Dha.rj	by	DhaDha.rj	;
+sub	DhaHalant.rj	Na.rj	by	DhaNa.rj	;
+sub	DhaHalant.rj	La.rj	by	DhaLa.rj	;
+sub	DhaHalant.rj	Sa.rj	by	DhaSa.rj	;
+sub	DhaHalant.rj	Ha.rj	by	DhaHa.rj	;
+sub	DhaHalant.rj	Ma.rj	by	DhaMa.rj	;
+sub	DhaHalant.rj	Ya.rj	by	DhaYa.rj	;
+sub	DhaHalant.rj	Va.rj	by	DhaVa.rj	;
+sub	NaHalant.rj	Ka.rj	by	NaKa.rj	;
+sub	NaHalant.rj	Kha.rj	by	NaKha.rj	;
+sub	NaHalant.rj	Ga.rj	by	NaGa.rj	;
+sub	NaHalant.rj	Gha.rj	by	NaGha.rj	;
+sub	NaHalant.rj	Ca.rj	by	NaCa.rj	;
+sub	NaHalant.rj	Cha.rj	by	NaCha.rj	;
+sub	NaHalant.rj	Ja.rj	by	NaJa.rj	;
+sub	NaHalant.rj	Tta.rj	by	NaTta.rj	;
+sub	NaHalant.rj	Dda.rj	by	NaDda.rj	;
+sub	NaHalant.rj	Ta.rj	by	NaTa.rj	;
+sub	NaHalant.rj	Tha.rj	by	NaTha.rj	;
+sub	NaHalant.rj	Da.rj	by	NaDa.rj	;
+sub	NaHalant.rj	Dha.rj	by	NaDha.rj	;
+sub	NaHalant.rj	Na.rj	by	NaNa.rj	;
+sub	NaHalant.rj	Pa.rj	by	NaPa.rj	;
+sub	NaHalant.rj	Pha.rj	by	NaPha.rj	;
+sub	NaHalant.rj	Ba.rj	by	NaBa.rj	;
+sub	NaHalant.rj	Bha.rj	by	NaBha.rj	;
+sub	NaHalant.rj	Ma.rj	by	NaMa.rj	;
+sub	NaHalant.rj	Ya.rj	by	NaYa.rj	;
+sub	NaHalant.rj	La.rj	by	NaLa.rj	;
+sub	NaHalant.rj	Va.rj	by	NaVa.rj	;
+sub	NaHalant.rj	Ssa.rj	by	NaSsa.rj;
+sub	NaHalant.rj	Sha.rj	by	NaSha.rj;
+sub	NaHalant.rj	Sa.rj	by	NaSa.rj	;
+sub	NaHalant.rj	Ha.rj	by	HaNa.rj	;
+sub	PaHalant.rj	Ca.rj	by	PaCa.rj	;
+sub	PaHalant.rj	Cha.rj	by	PaCha.rj	;
+sub	PaHalant.rj	Tta.rj	by	PaTta.rj	;
+sub	PaHalant.rj	Ta.rj	by	PaTa.rj	;
+sub	PaHalant.rj	Na.rj	by	PaNa.rj	;
+sub	PaHalant.rj	Pa.rj	by	PaPa.rj	;
+sub	PaHalant.rj	Pha.rj	by	PaPha.rj	;
+sub	PaHalant.rj	Ma.rj	by	PaMa.rj	;
+sub	PaHalant.rj	Ya.rj	by	PaYa.rj	;
+sub	PaHalant.rj	La.rj	by	PaLa.rj	;
+sub	PaHalant.rj	Va.rj	by	PaVa.rj	;
+sub	PaHalant.rj	Sha.rj	by	PaSha.rj	;
+sub	PaHalant.rj	Sa.rj	by	PaSa.rj	;
+sub	PhaHalant.rj	Ja.rj	by	PhaJa.rj	;
+sub	PhaHalant.rj	Tta.rj	by	PhaTta.rj	;
+sub	PhaHalant.rj	Ta.rj	by	PhaTa.rj	;
+sub	PhaHalant.rj	Na.rj	by	PhaNa.rj	;
+sub	PhaHalant.rj	Tha.rj	by	PhaTha.rj	;
+sub	PhaHalant.rj	Pa.rj	by	PhaPa.rj	;
+sub	PhaHalant.rj	Pha.rj	by	PhaPha.rj	;
+sub	PhaHalant.rj	Ma.rj	by	PhaMa.rj	;
+sub	PhaHalant.rj	Ya.rj	by	PhaYa.rj	;
+sub	PhaHalant.rj	La.rj	by	PhaLa.rj	;
+sub	PhaHalant.rj	Va.rj	by	PhaVa.rj	;
+sub	PhaHalant.rj	Sha.rj	by	PhaSha.rj	;
+sub	PhaHalant.rj	Sa.rj	by	PhaSa.rj	;
+sub	BaHalant.rj	Gha.rj	by	BaGha.rj	;
+sub	BaHalant.rj	Cha.rj	by	BaCha.rj	;
+sub	BaHalant.rj	Ja.rj	by	BaJa.rj	;
+sub	BaHalant.rj	Jha.rj	by	BaJha.rj	;
+sub	BaHalant.rj	Tta.rj	by	BaTta.rj	;
+sub	BaHalant.rj	Dda.rj	by	BaDda.rj	;
+sub	BaHalant.rj	Ta.rj	by	BaTa.rj	;
+sub	BaHalant.rj	Da.rj	by	BaDa.rj	;
+sub	BaHalant.rj	Dha.rj	by	BaDha.rj	;
+sub	BaHalant.rj	Na.rj	by	BaNa.rj	;
+sub	BaHalant.rj	Ba.rj	by	BaBa.rj	;
+sub	BaHalant.rj	Bha.rj	by	BaBha.rj	;
+sub	BaHalant.rj	Ma.rj	by	BaMa.rj	;
+sub	BaHalant.rj	Ya.rj	by	BaYa.rj	;
+sub	BaHalant.rj	La.rj	by	BaLa.rj	;
+sub	BaHalant.rj	Va.rj	by	BaVa.rj	;
+sub	BaHalant.rj	Sha.rj	by	BaSha.rj	;
+sub	BaHalant.rj	Sa.rj	by	BaSa.rj	;
+sub	BhaHalant.rj	Nna.rj	by	BhaNna.rj	;
+sub	BhaHalant.rj	Da.rj	by	BhaDa.rj	;
+sub	BhaHalant.rj	Na.rj	by	BhaNa.rj	;
+sub	BhaHalant.rj	Bha.rj	by	BhaBha.rj	;
+sub	BhaHalant.rj	Ma.rj	by	BhaMa.rj	;
+sub	BhaHalant.rj	Ya.rj	by	BhaYa.rj	;
+sub	BhaHalant.rj	La.rj	by	BhaLa.rj	;
+sub	BhaHalant.rj	Va.rj	by	BhaVa.rj	;
+sub	BhaHalant.rj	Sa.rj	by	BhaSa.rj	;
+sub	MaHalant.rj	Ka.rj	by	MaKa.rj	;
+sub	MaHalant.rj	Kha.rj	by	MaKha.rj	;
+sub	MaHalant.rj	Gha.rj	by	MaGha.rj	;
+sub	MaHalant.rj	Ca.rj	by	MaCa.rj	;
+sub	MaHalant.rj	Nna.rj	by	MaNna.rj	;
+sub	MaHalant.rj	Ta.rj	by	MaTa.rj	;
+sub	MaHalant.rj	Da.rj	by	MaDa.rj	;
+sub	MaHalant.rj	Na.rj	by	MaNa.rj	;
+sub	MaHalant.rj	Pa.rj	by	MaPa.rj	;
+sub	MaHalant.rj	Pha.rj	by	MaPha.rj	;
+sub	MaHalant.rj	Ba.rj	by	MaBa.rj	;
+sub	MaHalant.rj	Bha.rj	by	MaBha.rj	;
+sub	MaHalant.rj	Ma.rj	by	MaMa.rj	;
+sub	MaHalant.rj	Ya.rj	by	MaYa.rj	;
+sub	MaHalant.rj	La.rj	by	MaLa.rj	;
+sub	MaHalant.rj	Va.rj	by	MaVa.rj	;
+sub	MaHalant.rj	Sha.rj	by	MaSha.rj	;
+sub	MaHalant.rj	Sa.rj	by	MaSa.rj	;
+sub	MaHalant.rj	Ha.rj	by	HaMa.rj	;
+sub	YaHalant.rj	Na.rj	by	YaNa.rj	;
+sub	YaHalant.rj	Ma.rj	by	YaMa.rj	;
+sub	YaHalant.rj	Ya.rj	by	YaYa.rj	;
+sub	YaHalant.rj	La.rj	by	YaLa.rj	;
+sub	YaHalant.rj	Va.rj	by	YaVa.rj	;
+sub	YaHalant.rj	Sa.rj	by	YaSa.rj	;
+sub	YaHalant.rj	Ha.rj	by	HaYa.rj	;
+sub	LaHalant.rj	Ka.rj	by	LaKa.rj	;
+sub	LaHalant.rj	Kha.rj	by	LaKha.rj;
+sub	LaHalant.rj	Ga.rj	by	LaGa.rj	;
+sub	LaHalant.rj	Ca.rj	by	LaCa.rj	;
+sub	LaHalant.rj	Ja.rj	by	LaJa.rj	;
+sub	LaHalant.rj	Tta.rj	by	LaTta.rj;
+sub	LaHalant.rj	Ttha.rj	by	LaTtha.rj	;
+sub	LaHalant.rj	Dda.rj	by	LaDda.rj	;
+sub	LaHalant.rj	Ddha.rj	by	LaDdha.rj	;
+sub	LaHalant.rj	Ta.rj	by	LaTa.rj	;
+sub	LaHalant.rj	Tha.rj	by	LaTha.rj	;
+sub	LaHalant.rj	Na.rj	by	LaNa.rj	;
+sub	LaHalant.rj	Da.rj	by	LaDa.rj	;
+sub	LaHalant.rj	Pa.rj	by	LaPa.rj	;
+sub	LaHalant.rj	Pha.rj	by	LaPha.rj	;
+sub	LaHalant.rj	Ba.rj	by	LaBa.rj	;
+sub	LaHalant.rj	Bha.rj	by	LaBha.rj	;
+sub	LaHalant.rj	Ma.rj	by	LaMa.rj	;
+sub	LaHalant.rj	Ya.rj	by	LaYa.rj	;
+sub	LaHalant.rj	La.rj	by	LaLa.rj	;
+sub	LaHalant.rj	Va.rj	by	LaVa.rj	;
+sub	LaHalant.rj	Sha.rj	by	LaSha.rj	;
+sub	LaHalant.rj	Sa.rj	by	LaSa.rj	;
+sub	LaHalant.rj	Ha.rj	by	HaLa.rj	;
+sub	VaHalant.rj	Dda.rj	by	VaDda.rj	;
+sub	VaHalant.rj	Da.rj	by	VaDa.rj	;
+sub	VaHalant.rj	Na.rj	by	VaNa.rj	;
+sub	VaHalant.rj	Ma.rj	by	VaMa.rj	;
+sub	VaHalant.rj	Ya.rj	by	VaYa.rj	;
+sub	VaHalant.rj	La.rj	by	VaLa.rj	;
+sub	VaHalant.rj	Va.rj	by	VaVa.rj	;
+sub	VaHalant.rj	Ha.rj	by	HaVa.rj	;
+sub	ShaHalant.rj	Ka.rj	by	ShaKa.rj	;
+sub	ShaHalant.rj	Ca.rj	by	ShaCa.rj	;
+sub	ShaHalant.rj	Cha.rj	by	ShaCha.rj	;
+sub	ShaHalant.rj	Tta.rj	by	ShaTta.rj	;
+sub	ShaHalant.rj	Ta.rj	by	ShaTa.rj	;
+sub	ShaHalant.rj	Na.rj	by	ShaNa.rj	;
+sub	ShaHalant.rj	Pa.rj	by	ShaPa.rj	;
+sub	ShaHalant.rj	Ba.rj	by	ShaBa.rj	;
+sub	ShaHalant.rj	Ma.rj	by	ShaMa.rj	;
+sub	ShaHalant.rj	Ya.rj	by	ShaYa.rj	;
+sub	ShaHalant.rj	La.rj	by	ShaLa.rj	;
+sub	ShaHalant.rj	Va.rj	by	ShaVa.rj	;
+sub	ShaHalant.rj	Sha.rj	by	ShaSha.rj	;
+sub	SsaHalant.rj	Ka.rj	by	SsaKa.rj	;
+sub	SsaHalant.rj	Tta.rj	by	SsaTta.rj	;
+sub	SsaHalant.rj	Ttha.rj	by	SsaTtha.rj	;
+sub	SsaHalant.rj	Nna.rj	by	SsaNna.rj	;
+sub	SsaHalant.rj	Na.rj	by	SsaNa.rj	;
+sub	SsaHalant.rj	Pa.rj	by	SsaPa.rj	;
+sub	SsaHalant.rj	Pha.rj	by	SsaPha.rj	;
+sub	SsaHalant.rj	Ma.rj	by	SsaMa.rj	;
+sub	SsaHalant.rj	Ya.rj	by	SsaYa.rj	;
+sub	SsaHalant.rj	La.rj	by	SsaLa.rj	;
+sub	SsaHalant.rj	Va.rj	by	SsaVa.rj	;
+sub	SsaHalant.rj	Ssa.rj	by	SsaSsa.rj	;
+sub	SaHalant.rj	Ka.rj	by	SaKa.rj	;
+sub	SaHalant.rj	Kha.rj	by	SaKha.rj	;
+sub	SaHalant.rj	Ja.rj	by	SaJa.rj	;
+sub	SaHalant.rj	Tta.rj	by	SaTta.rj	;
+sub	SaHalant.rj	Ta.rj	by	SaTa.rj	;
+sub	SaHalant.rj	Tha.rj	by	SaTha.rj	;
+sub	SaHalant.rj	Da.rj	by	SaDa.rj	;
+sub	SaHalant.rj	Na.rj	by	SaNa.rj	;
+sub	SaHalant.rj	Pa.rj	by	SaPa.rj	;
+sub	SaHalant.rj	Pha.rj	by	SaPha.rj	;
+sub	SaHalant.rj	Ba.rj	by	SaBa.rj	;
+sub	SaHalant.rj	Ma.rj	by	SaMa.rj	;
+sub	SaHalant.rj	Ya.rj	by	SaYa.rj	;
+sub	SaHalant.rj	La.rj	by	SaLa.rj	;
+sub	SaHalant.rj	Va.rj	by	SaVa.rj	;
+sub	SaHalant.rj	Sa.rj	by	SaSa.rj	;
+sub HaHalant.rj	Nga.rj	by	HaNga.rj	;
+sub	HaHalant.rj	Nna.rj	by	HaNna.rj;
+sub	HaHalant.rj	Na.rj	by	HaNa.rj	;
+sub	HaHalant.rj	Ma.rj	by	HaMa.rj	;
+sub	HaHalant.rj	Ya.rj	by	HaYa.rj	;
+sub	HaHalant.rj	La.rj	by	HaLa.rj	;
+sub	HaHalant.rj	Va.rj	by	HaVa.rj	;
+sub	HaHalant.rj	Ha.rj	by	HaHa.rj	;
+} pres2;
+
+lookup reph { #reph characters
+sub RaHalant.rj	DhaNaYa.rj	by	RaDhaNaYa.rj;
+sub	RaHalant.rj	TaSaYa.rj	by	RaTaSaYa.rj	;
+sub RaHalant.rj	TaSaNaYa.rj	by 	RaTaSaNaYa.rj;
+sub RaHalant.rj	KaSsaYa.rj	by 	RaKaSsaYa.rj;
+
+sub RaHalant.rj	KaSsa.rj	by 	RaKaSsa.rj;
+sub RaHalant.rj	JaNya.rj	by 	RaJaNya.rj;
+sub RaHalant.rj	GaYa.rj		by 	RaGaYa.rj;
+sub RaHalant.rj	GhaYa.rj	by 	RaGhaYa.rj;
+sub RaHalant.rj	NgaGa.rj	by 	RaNgaGa.rj;
+sub RaHalant.rj	CaCha.rj	by 	RaCaCha.rj;
+sub RaHalant.rj	CaYa.rj		by 	RaCaYa.rj;
+sub RaHalant.rj	JaYa.rj		by 	RaJaYa.rj;
+sub RaHalant.rj	JaVa.rj		by 	RaJaVa.rj;
+sub RaHalant.rj	NnaYa.rj	by 	RaNnaYa.rj;
+sub RaHalant.rj	TaTa.rj		by 	RaTaTa.rj;
+sub RaHalant.rj	TaMa.rj		by 	RaTaMa.rj;
+sub RaHalant.rj	TaYa.rj		by 	RaTaYa.rj;
+sub RaHalant.rj	TaRa.rj		by 	RaTaRa.rj;
+sub RaHalant.rj	TaVa.rj		by 	RaTaVa.rj;
+sub RaHalant.rj	TaSa.rj		by 	RaTaSa.rj;
+sub RaHalant.rj	ThaYa.rj	by 	RaThaYa.rj;
+sub RaHalant.rj	NaYa.rj		by 	RaNaYa.rj;
+sub RaHalant.rj	DaDa.rj		by 	RaDaDa.rj;
+sub RaHalant.rj	DaDha.rj	by 	RaDaDha.rj;
+sub RaHalant.rj	DaYa.rj		by 	RaDaYa.rj;
+sub RaHalant.rj	DaRa.rj		by 	RaDaRa.rj;
+sub RaHalant.rj	DhaNa.rj	by 	RaDhaNa.rj;
+sub RaHalant.rj	DhaMa.rj	by 	RaDhaMa.rj;
+sub RaHalant.rj	DhaYa.rj	by 	RaDhaYa.rj;
+sub RaHalant.rj	DhaRa.rj	by 	RaDhaRa.rj;
+sub RaHalant.rj	BhaYa.rj	by 	RaBhaYa.rj;
+sub RaHalant.rj	MaYa.rj		by 	RaMaYa.rj;
+sub RaHalant.rj	BhaRa.rj	by 	RaBhaRa.rj;
+sub RaHalant.rj	VaRa.rj		by 	RaVaRa.rj;
+sub RaHalant.rj	ShaYa.rj	by 	RaShaYa.rj;
+sub RaHalant.rj	SsaTta.rj	by 	RaSsaTta.rj;
+sub RaHalant.rj	SsaYa.rj	by 	RaSsaYa.rj;
+sub RaHalant.rj	HaYa.rj		by 	RaHaYa.rj;
+sub RaHalant.rj	HaRa.rj		by 	RaHaRa.rj;
+
+sub RaHalant.rj	Ka.rj	by 	RaKa.rj;
+sub RaHalant.rj	Kha.rj	by 	RaKha.rj;
+sub RaHalant.rj	Ga.rj	by 	RaGa.rj;
+sub RaHalant.rj	Gha.rj	by 	RaGha.rj;
+sub RaHalant.rj	Nga.rj	by 	RaNga.rj;
+sub RaHalant.rj	Ca.rj	by 	RaCa.rj;
+sub RaHalant.rj	Cha.rj	by 	RaCha.rj;
+sub RaHalant.rj	Ja.rj	by 	RaJa.rj;
+sub RaHalant.rj	Jha.rj	by 	RaJha.rj;
+sub RaHalant.rj	Nya.rj	by 	RaNya.rj;
+sub RaHalant.rj	Tta.rj	by 	RaTta.rj;
+sub RaHalant.rj	Ttha.rj	by 	RaTtha.rj;
+sub RaHalant.rj	Dda.rj	by 	RaDda.rj;
+sub RaHalant.rj	Ddha.rj	by 	RaDdha.rj;
+sub RaHalant.rj	Nna.rj	by 	RaNna.rj;
+sub RaHalant.rj	Ta.rj	by 	RaTa.rj;
+sub RaHalant.rj	Tha.rj	by 	RaTha.rj;
+sub RaHalant.rj	Da.rj	by 	RaDa.rj;
+sub RaHalant.rj	Dha.rj	by	RaDha.rj;
+sub RaHalant.rj	Na.rj	by	RaNa.rj;
+sub RaHalant.rj	Pa.rj	by	RaPa.rj;
+sub RaHalant.rj	Pha.rj	by	RaPha.rj;
+sub RaHalant.rj	Ba.rj	by	RaBa.rj;
+sub RaHalant.rj	Bha.rj	by 	RaBha.rj;
+sub RaHalant.rj	Ma.rj	by	RaMa.rj;
+sub RaHalant.rj	Ya.rj	by 	RaYa.rj;
+sub RaHalant.rj	Ra.rj	by 	RaRa.rj;
+sub RaHalant.rj	La.rj	by 	RaLa.rj;
+sub RaHalant.rj	Va.rj	by	RaVa.rj;
+sub RaHalant.rj	Sha.rj	by 	RaSha.rj;
+sub RaHalant.rj	Ssa.rj	by 	RaSsa.rj;
+sub RaHalant.rj	Sa.rj	by 	RaSa.rj;
+sub RaHalant.rj	Ha.rj	by 	RaHa.rj;
+} reph;
+
+} cjct;
+
+feature pres {
+lookup pres1 { 
+sub matraI.rj' [NaDha.rj NaDhaYa.rj NaDhaRa.rj NaDhaVa.rj NaDhaRaYa.rj] by matraI_alt1.rj;
+} pres1;
+
+lookup pres5;
+lookup pres4;
+lookup pres3;
+lookup pres2;
+lookup reph;
+
+} pres;
+
+feature abvs {
+lookup abvs3 {
+#Ii+Bindu
+sub [matraIi.rj matraIi_alt1a.rj matraIi_alt1c.rj matraIi_alt2a.rj matraIi_alt2b.rj matraIi_alt2c.rj matraIi_alt2d.rj matraIi_alt2e.rj matraIi_alt2f.rj]	Bindu.rj'	by Bindu_alt.rj;
+sub [matraIi.rj matraIi_alt1a.rj matraIi_alt1c.rj matraIi_alt2a.rj matraIi_alt2b.rj matraIi_alt2c.rj matraIi_alt2d.rj matraIi_alt2e.rj matraIi_alt2f.rj]	Chandrabindu.rj'	by Chandrabindu_alt.rj;
+} abvs3;
+
+lookup abvs4 {
+#Ai+Bindu Au+Bindu
+sub [vowelAi.rj vowelAu.rj matraAi.rj matraAu.rj]	Bindu.rj'	by Bindu_alt.rj;
+sub [vowelAi.rj vowelAu.rj matraAi.rj matraAu.rj]	Chandrabindu.rj'	by Chandrabindu_alt.rj;
+sub [matraAi_LengthMark.rj matraAi_LengthMark_2.rj	matraAi_LengthMark_3.rj]	Bindu.rj'	by Bindu_alt.rj;
+sub [matraAu_LengthMark.rj matraAu_LengthMark_alt1.rj matraAu_LengthMark_alt1a.rj matraAu_LengthMark_alt1c.rj matraAu_LengthMark_alt1d.rj matraAu_LengthMark_alt2a.rj matraAu_LengthMark_alt2b.rj matraAu_LengthMark_alt2c.rj matraAu_LengthMark_alt2d.rj matraAu_LengthMark_alt2e.rj matraAu_LengthMark_alt2f.rj]	Bindu.rj'	by Bindu_alt.rj;
+} abvs4;
+
+} abvs;
+
+feature psts {
+lookup psts0 { #MatraAi/O/Au split
+# (will not be required/ to be deleted after shifting to Ranjana Unicode)
+	sub matraAi.rj by matraE.rj matraAi_LengthMark.rj;
+	sub matraO.rj by matraE.rj matraA.rj;
+	sub matraAu.rj by matraE.rj matraAu_LengthMark.rj;
+} psts0;
+
+# -------------------------------------------------------------------------
+# Handsdown characters and conjuncts (Ka. Ja. etc.)
+
+lookup psts1c {#Alt forms of Ka/Ja for MatraO/Au
+sub @HandsdownLetters2f' matraE.rj @MatraADefault by @HandsdownLetters2f_alt;
+sub @HandsdownLetters2e' matraE.rj @MatraADefault by @HandsdownLetters2e_alt;
+sub @HandsdownLetters2d' matraE.rj @MatraADefault by @HandsdownLetters2d_alt;
+sub @HandsdownLetters2c' matraE.rj @MatraADefault by @HandsdownLetters2c_alt;
+sub @HandsdownLetters2b' matraE.rj @MatraADefault by @HandsdownLetters2b_alt;
+sub @HandsdownLetters2a' matraE.rj @MatraADefault by @HandsdownLetters2a_alt;
+} psts1c;
+
+lookup psts1d {# Alt forms of MatraO/Au for Ka/Ja
+sub @HandsdownLetters2f_alt matraE.rj @MatraADefault' by @MatraAlt2f;
+sub @HandsdownLetters2e_alt matraE.rj @MatraADefault' by @MatraAlt2e;
+sub @HandsdownLetters2d_alt matraE.rj @MatraADefault' by @MatraAlt2d;
+sub @HandsdownLetters2c_alt matraE.rj @MatraADefault' by @MatraAlt2c;
+sub @HandsdownLetters2b_alt matraE.rj @MatraADefault' by @MatraAlt2b;
+sub @HandsdownLetters2a_alt matraE.rj @MatraADefault' by @MatraAlt2a;
+} psts1d;
+
+lookup psts1a {#Alt forms of Ka/Ja for MatraA/Ii
+sub @HandsdownLetters2f' @MatraADefault by @HandsdownLetters2f_alt;
+sub @HandsdownLetters2e' @MatraADefault by @HandsdownLetters2e_alt;
+sub @HandsdownLetters2d' @MatraADefault by @HandsdownLetters2d_alt;
+sub @HandsdownLetters2c' @MatraADefault by @HandsdownLetters2c_alt;
+sub @HandsdownLetters2b' @MatraADefault by @HandsdownLetters2b_alt;
+sub @HandsdownLetters2a' @MatraADefault by @HandsdownLetters2a_alt;
+} psts1a;
+
+lookup psts1b {# Alt forms of MatraA/Ii for Ka/Ja
+sub @HandsdownLetters2f_alt @MatraADefault' by @MatraAlt2f;
+sub @HandsdownLetters2e_alt @MatraADefault' by @MatraAlt2e;
+sub @HandsdownLetters2d_alt @MatraADefault' by @MatraAlt2d;
+sub @HandsdownLetters2c_alt @MatraADefault' by @MatraAlt2c;
+sub @HandsdownLetters2b_alt @MatraADefault' by @MatraAlt2b;
+sub @HandsdownLetters2a_alt @MatraADefault' by @MatraAlt2a;
+} psts1b;
+
+
+# -------------------------------------------------------------------------
+# Headless characters and conjuncts (Kha, Ga, Nya, Tha, Dha, Sha, etc)
+
+lookup psts2a { #Alt form of MatraA for Headless Letters
+sub @HeadlessLetters1a' @MatraADefault by @HeadlessLetters1a_alt;
+sub @HeadlessLetters1c' @MatraADefault by @HeadlessLetters1c_alt;
+sub @HeadlessLetters1d' @MatraADefault by @HeadlessLetters1d_alt;
+}psts2a;
+
+lookup psts2b { #Alt form of MatraO/Au for Headless Letters
+sub @HeadlessLetters1		@MatraADefault' by @MatraAlt1;
+sub @HeadlessLetters1b		@MatraADefault' by @MatraAlt1;
+sub @HeadlessLetters1a_alt		@MatraADefault' by @MatraAlt1a;
+sub @HeadlessLetters1c_alt	@MatraADefault' by @MatraAlt1c;
+sub @HeadlessLetters1d_alt	@MatraADefault' by @MatraAlt1d;
+
+
+sub @HeadlessLetters1 matraE.rj matraAu_LengthMark.rj' by matraAu_LengthMark_alt1.rj;
+sub @HeadlessLetters1b matraE.rj matraAu_LengthMark.rj' by matraAu_LengthMark_alt1.rj;
+
+	sub @Group2_Ai [matraE.rj matraE_1.rj matraE_2.rj matraE_alt1.rj matraE_alt2.rj matraE_alt1b.rj matraE_alt2b.rj matraE_alt3.rj matraE_alt4.rj]	matraAi_LengthMark.rj' by matraAi_LengthMark_2.rj;
+
+	sub @Group3_Ai	[matraE.rj matraE_1.rj matraE_2.rj matraE_alt1.rj matraE_alt2.rj matraE_alt1b.rj matraE_alt2b.rj matraE_alt3.rj matraE_alt4.rj] matraAi_LengthMark.rj' by matraAi_LengthMark_3.rj;
+}psts2b;
+
+lookup psts2c {
+# (move to 'pres' after shifting to Ranjana Unicode)
+sub @HeadlessLetters1a' matraE.rj @MatraADefault by @HeadlessLetters1a_alt;
+sub @HeadlessLetters1c' matraE.rj @MatraADefault by @HeadlessLetters1c_alt;
+sub @HeadlessLetters1d' matraE.rj @MatraADefault by @HeadlessLetters1d_alt;
+} psts2c;
+
+lookup psts2d {
+# (move to 'pres' after shifting to Ranjana Unicode)
+sub @HeadlessLetters1		matraE.rj @MatraADefault' by @MatraAlt1;
+sub @HeadlessLetters1b		matraE.rj @MatraADefault' by @MatraAlt1;
+sub @HeadlessLetters1a_alt	matraE.rj @MatraADefault' by @MatraAlt1a;
+sub @HeadlessLetters1c_alt	matraE.rj @MatraADefault' by @MatraAlt1c;
+sub @HeadlessLetters1d_alt	matraE.rj @MatraADefault' by @MatraAlt1d;
+} psts2d;
+
+
+lookup psts2e { #Alt form of MatraE for Headless Letters
+# (move to 'pres' after shifting to Ranjana Unicode)
+	sub @HeadlessE_1 matraE.rj' by matraE_alt1.rj;
+	sub @HeadlessE_2 matraE.rj' by matraE_alt2.rj;
+	sub @HeadlessE_3 matraE.rj' by matraE_alt3.rj;
+	sub @HeadlessE_4 matraE.rj' by matraE_alt4.rj;
+	sub @HeadlessE_1b matraE.rj' by matraE_alt1b.rj;
+	sub @HeadlessE_2b matraE.rj' by matraE_alt2b.rj;
+	sub @HeadlessE_3b matraE.rj' by matraE_alt3b.rj;
+	sub @HeadlessE_4b matraE.rj' by matraE_alt4b.rj;
+	sub @HeadlessE_5b matraE.rj' by matraE_alt5b.rj;
+} psts2e;
+
+lookup psts2f { #Alt E matra top
+# (move to 'pres' after shifting to Ranjana Unicode)
+	sub @GroupE_alt1 matraE.rj' by matraE_1.rj;
+	sub @GroupE_alt2 matraE.rj' by matraE_2.rj;
+} psts2f;
+
+# -------------------------------------------------------------------------
+sub RaRa.rj matraU.rj by RaRa_U.rj;
+sub RaRa.rj matraUu.rj by RaRa_Uu.rj;
+sub [DhaRa.rj RaDhaRa.rj]  matraU.rj' by matraU_DhaRa.rj;
+sub [DhaRa.rj RaDhaRa.rj]  matraUu.rj' by matraUu_DhaRa.rj;
+sub @GroupMatraU_Uu_Ra matraU.rj' by matraU_Ra.rj;
+sub @GroupMatraU_Uu_Ra matraUu.rj' by matraUu_Ra.rj;
+
+# -------------------------------------------------------------------------
+# MatraE for Headless characters and conjuncts (Kha, Ga, Nya, Tha, Dha, Sha, etc)
+# (to be deleted after shifting to Ranjana Unicode)
+
+lookup psts3 { #Reorder MatraE for Headless Letters
+	sub Kha.rj' lookup Reorder_Kha_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_Kha_MatraEalt1 ;
+
+	sub Ga.rj' lookup Reorder_Ga_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Ga_MatraEalt2 ;
+
+	sub Nya.rj' lookup Reorder_Nya_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Nya_MatraEalt2 ;
+
+	sub Tha.rj' lookup Reorder_Tha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Tha_MatraEalt2 ;
+
+	sub Ttha.rj' lookup Reorder_Ttha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Ttha_MatraEalt2 ;
+
+	sub Nna.rj' lookup Reorder_Nna_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Nna_MatraEalt2 ;
+
+	sub Dha.rj' lookup Reorder_Dha_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_Dha_MatraEalt1b ;
+
+	sub Sha.rj' lookup Reorder_Sha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_Sha_MatraEalt2 ;
+
+#conjuncts------------------------------------------------------------------------------------------------------------------
+	sub KhaKha.rj' lookup Reorder_KhaKha_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_KhaKha_MatraEalt3 ;
+
+	sub KhaCha.rj' lookup Reorder_KhaCha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_KhaCha_MatraEalt4 ;
+
+	sub KhaTa.rj' lookup Reorder_KhaTa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_KhaTa_MatraEalt4 ;
+
+	sub KhaNa.rj' lookup Reorder_KhaNa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_KhaNa_MatraEalt4 ;
+
+	sub KhaMa.rj' lookup Reorder_KhaMa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_KhaMa_MatraEalt2 ;
+
+	sub KhaYa.rj' lookup Reorder_KhaYa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_KhaYa_MatraEalt2 ;
+
+	sub KhaRa.rj' lookup Reorder_KhaRa_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_KhaRa_MatraEalt1 ;
+
+	sub KhaLa.rj' lookup Reorder_KhaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_KhaLa_MatraEalt4 ;
+
+	sub KhaVa.rj' lookup Reorder_KhaVa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_KhaVa_MatraEalt2 ;
+
+	sub KhaSha.rj' lookup Reorder_KhaSha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_KhaSha_MatraEalt4 ;
+
+	sub KhaSa.rj' lookup Reorder_KhaSa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_KhaSa_MatraEalt2 ;
+#Ga ------------------------------------------------------------------------------------------------------------------
+	sub GaGa.rj' lookup Reorder_GaGa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaGa_MatraEalt2 ;
+
+	sub GaGha.rj' lookup Reorder_GaGha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaGha_MatraEalt2 ;
+
+	sub GaGhaYa.rj' lookup Reorder_GaGhaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaGhaYa_MatraEalt3 ;
+
+	sub GaCha.rj' lookup Reorder_GaCha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaCha_MatraEalt4 ;
+
+	sub GaJa.rj' lookup Reorder_GaJa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaJa_MatraEalt4 ;
+
+	sub GaJa_alt_Aa.rj' lookup Reorder_GaJa_alt_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaJa_alt_MatraEalt4 ;
+
+	sub GaJaYa.rj' lookup Reorder_GaJaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaJaYa_MatraEalt3 ;
+
+	sub GaJaYa_alt_Aa.rj' lookup Reorder_GaJaYa_alt_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaJaYa_alt_MatraEalt3 ;
+
+	sub GaNna.rj' lookup Reorder_GaNna_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaNna_MatraEalt4 ;
+
+	sub GaDa.rj' lookup Reorder_GaDa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaDa_MatraEalt4 ;
+
+	sub GaDaVa.rj' lookup Reorder_GaDaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaDaVa_MatraEalt4 ;
+
+	sub GaDha.rj' lookup Reorder_GaDha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaDha_MatraEalt4 ;
+
+	sub GaDhaRa.rj' lookup Reorder_GaDhaRa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaDhaRa_MatraEalt3 ;
+
+	sub GaNa.rj' lookup Reorder_GaNa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaNa_MatraEalt4 ;
+
+	sub GaPha.rj' lookup Reorder_GaPha_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaPha_MatraEalt3 ;
+
+	sub GaBa.rj' lookup Reorder_GaBa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaBa_MatraEalt3 ;
+
+	sub GaBha.rj' lookup Reorder_GaBha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaBha_MatraEalt4 ;
+
+	sub GaMa.rj' lookup Reorder_GaMa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaMa_MatraEalt2 ;
+
+	sub GaYa.rj' lookup Reorder_GaYa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaYa_MatraEalt2 ;
+
+	sub GaRa.rj' lookup Reorder_GaRa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaRa_MatraEalt2 ;
+
+	sub GaLa.rj' lookup Reorder_GaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaLa_MatraEalt4 ;
+
+	sub GaVa.rj' lookup Reorder_GaVa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaVa_MatraEalt3 ;
+
+	sub GaVaYa.rj' lookup Reorder_GaVaYa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaVaYa_MatraEalt4 ;
+
+	sub GaSha.rj' lookup Reorder_GaSha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaSha_MatraEalt4 ;
+
+	sub GaSa.rj' lookup Reorder_GaSa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_GaSa_MatraEalt2 ;
+
+	sub GaTaYa.rj' lookup Reorder_GaTaYa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaTaYa_MatraEalt4 ;
+
+	sub GaPhaRa.rj' lookup Reorder_GaPhaRa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaPhaRa_MatraEalt3 ;
+
+#Nya ------------------------------------------------------------------------------------------------------------------
+	sub NyaCa.rj' lookup Reorder_NyaCa_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_NyaCa_MatraEalt1 ;
+
+	sub NyaCha.rj' lookup Reorder_NyaCha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaCha_MatraEalt4 ;
+
+	sub NyaChaVa.rj' lookup Reorder_NyaChaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaChaVa_MatraEalt4 ;
+
+
+	sub NyaJa.rj' lookup Reorder_NyaJa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaJa_MatraEalt4 ;
+
+	sub NyaJaNya.rj' lookup Reorder_NyaJaNya_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaJaNya_MatraEalt4 ;
+
+	sub NyaJaVa.rj' lookup Reorder_NyaJaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaJaVa_MatraEalt4 ;
+
+	sub NyaJha.rj' lookup Reorder_NyaJha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NyaJha_MatraEalt2 ;
+
+	sub NyaNya.rj' lookup Reorder_NyaNya_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaNya_MatraEalt4 ;
+
+	sub NyaNa.rj' lookup Reorder_NyaNa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaNa_MatraEalt4 ;
+
+	sub NyaMa.rj' lookup Reorder_NyaMa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NyaMa_MatraEalt2 ;
+
+	sub NyaYa.rj' lookup Reorder_NyaYa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NyaYa_MatraEalt2 ;
+
+	sub NyaRa.rj' lookup Reorder_NyaRa_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_NyaRa_MatraEalt1 ;
+
+	sub NyaLa.rj' lookup Reorder_NyaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaLa_MatraEalt4 ;
+
+	sub NyaVa.rj' lookup Reorder_NyaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaVa_MatraEalt4 ;
+
+	sub NyaSha.rj' lookup Reorder_NyaSha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaSha_MatraEalt4 ;
+
+	sub NyaSa.rj' lookup Reorder_NyaSa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_NyaSa_MatraEalt3 ;
+
+	sub NyaCaMa.rj' lookup Reorder_NyaCaMa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_NyaCaMa_MatraEalt3 ;
+
+	sub NyaShaRa.rj' lookup Reorder_NyaShaRa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaShaRa_MatraEalt4 ;
+
+	sub NyaShaLa.rj' lookup Reorder_NyaShaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaShaLa_MatraEalt4 ;
+
+	sub NyaShaVa.rj' lookup Reorder_NyaShaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaShaVa_MatraEalt4 ;
+
+#Ttha ------------------------------------------------------------------------------------------------------------------
+	sub TthaTtha.rj' lookup Reorder_TthaTtha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_TthaTtha_MatraEalt2 ;
+
+	sub TthaNa.rj' lookup Reorder_TthaNa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_TthaNa_MatraEalt4 ;
+
+	sub TthaMa.rj' lookup Reorder_TthaMa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_TthaMa_MatraEalt3 ;
+
+	sub TthaLa.rj' lookup Reorder_TthaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_TthaLa_MatraEalt4 ;
+
+	sub TthaYa.rj' lookup Reorder_TthaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_TthaYa_MatraEalt3 ;
+
+	sub TthaRa.rj' lookup Reorder_TthaRa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_TthaRa_MatraEalt2 ;
+
+	sub TthaVa.rj' lookup Reorder_TthaVa_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_TthaVa_MatraEalt1 ;
+
+	sub TthaSa.rj' lookup Reorder_TthaSa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_TthaSa_MatraEalt3 ;
+
+#Nna ------------------------------------------------------------------------------------------------------------------
+	sub NnaTta.rj' lookup Reorder_NnaTta_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaTta_MatraEalt2 ;
+
+	sub NnaTtha.rj' lookup Reorder_NnaTtha_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_NnaTtha_MatraEalt3 ;
+
+	sub NnaNa.rj' lookup Reorder_NnaNa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaNa_MatraEalt2 ;
+
+	sub NnaDda.rj' lookup Reorder_NnaDda_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_NnaDda_MatraEalt3 ;
+
+	sub NnaDdha.rj' lookup Reorder_NnaDdha_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaDdha_MatraEalt2 ;
+
+	sub NnaNna.rj' lookup Reorder_NnaNna_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaNna_MatraEalt2 ;
+
+	sub NnaMa.rj' lookup Reorder_NnaMa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaMa_MatraEalt2 ;
+
+	sub NnaYa.rj' lookup Reorder_NnaYa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaYa_MatraEalt2 ;
+
+	sub NnaRa.rj' lookup Reorder_NnaRa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaRa_MatraEalt2 ;
+
+	sub NnaLa.rj' lookup Reorder_NnaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NnaLa_MatraEalt4 ;
+
+	sub NnaVa.rj' lookup Reorder_NnaVa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_NnaVa_MatraEalt2 ;
+
+#Tha ------------------------------------------------------------------------------------------------------------------
+	sub ThaTha.rj' lookup Reorder_ThaTha_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_ThaTha_MatraEalt1 ;
+
+	sub ThaNa.rj' lookup Reorder_ThaNa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ThaNa_MatraEalt4 ;
+
+	sub ThaMa.rj' lookup Reorder_ThaMa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_ThaMa_MatraEalt3 ;
+
+	sub ThaYa.rj' lookup Reorder_ThaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_ThaYa_MatraEalt3 ;
+
+	sub ThaRa.rj' lookup Reorder_ThaRa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ThaRa_MatraEalt4 ;
+
+	sub ThaLa.rj' lookup Reorder_ThaLa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ThaLa_MatraEalt4 ;
+
+	sub ThaVa.rj' lookup Reorder_ThaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ThaVa_MatraEalt4 ;
+
+	sub ThaSa.rj' lookup Reorder_ThaSa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_ThaSa_MatraEalt3 ;
+
+#Dha ------------------------------------------------------------------------------------------------------------------
+	sub DhaDha.rj' lookup Reorder_DhaDha_MatraEalt2b
+	matraE_alt2b.rj' lookup Reorder_DhaDha_MatraEalt2b ;
+
+	sub DhaNa.rj' lookup Reorder_DhaNa_MatraEalt2b
+	matraE_alt2b.rj' lookup Reorder_DhaNa_MatraEalt2b ;
+
+	sub DhaMa.rj' lookup Reorder_DhaMa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaMa_MatraEalt1b ;
+
+	sub DhaYa.rj' lookup Reorder_DhaYa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaYa_MatraEalt1b ;
+
+	sub DhaRa.rj' lookup Reorder_DhaRa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaRa_MatraEalt1b ;
+
+	sub DhaLa.rj' lookup Reorder_DhaLa_MatraEalt2b
+	matraE_alt2b.rj' lookup Reorder_DhaLa_MatraEalt2b ;
+
+	sub DhaVa.rj' lookup Reorder_DhaVa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaVa_MatraEalt1b ;
+
+	sub DhaSa.rj' lookup Reorder_DhaSa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaSa_MatraEalt1b ;
+
+	sub DhaHa.rj' lookup Reorder_DhaHa_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_DhaHa_MatraEalt1b ;
+
+	sub NaDha.rj' lookup Reorder_NaDha_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_NaDha_MatraEalt4b ;
+
+	sub NaDhaYa.rj' lookup Reorder_NaDhaYa_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_NaDhaYa_MatraEalt4b ;
+
+	sub NaDhaRa.rj' lookup Reorder_NaDhaRa_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_NaDhaRa_MatraEalt4b ;
+
+	sub RaDhaNa.rj' lookup Reorder_RaDhaNa_MatraEalt5b
+	matraE_alt5b.rj' lookup Reorder_RaDhaNa_MatraEalt5b ;
+
+	sub NaDhaRaYa.rj' lookup Reorder_NaDhaRaYa_MatraEalt5b
+	matraE_alt5b.rj' lookup Reorder_NaDhaRaYa_MatraEalt5b ;
+
+	sub NaDhaVa.rj' lookup Reorder_NaDhaVa_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_NaDhaVa_MatraEalt4b ;
+
+#Sha ------------------------------------------------------------------------------------------------------------------
+	sub ShaKa.rj' lookup Reorder_ShaKa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaKa_MatraEalt2 ;
+
+	sub ShaKa_alt_Aa.rj' lookup Reorder_ShaKa_alt_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaKa_alt_MatraEalt2 ;
+
+	sub ShaCa.rj' lookup Reorder_ShaCa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaCa_MatraEalt2 ;
+
+	sub ShaCha.rj' lookup Reorder_ShaCha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ShaCha_MatraEalt4 ;
+
+	sub ShaTta.rj' lookup Reorder_ShaTta_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaTta_MatraEalt2 ;
+
+	sub ShaTa.rj' lookup Reorder_ShaTa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaTa_MatraEalt2 ;
+
+	sub ShaNa.rj' lookup Reorder_ShaNa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaNa_MatraEalt2 ;
+
+	sub ShaPa.rj' lookup Reorder_ShaPa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaPa_MatraEalt2 ;
+
+	sub ShaBa.rj' lookup Reorder_ShaBa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaBa_MatraEalt2 ;
+
+	sub ShaMa.rj' lookup Reorder_ShaMa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaMa_MatraEalt2 ;
+
+	sub ShaYa.rj' lookup Reorder_ShaYa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaYa_MatraEalt2 ;
+
+	sub ShaRa.rj' lookup Reorder_ShaRa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaRa_MatraEalt2 ;
+
+	sub ShaLa.rj' lookup Reorder_ShaLa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaLa_MatraEalt2 ;
+
+	sub ShaVa.rj' lookup Reorder_ShaVa_MatraEalt2
+	matraE_alt2.rj' lookup Reorder_ShaVa_MatraEalt2 ;
+
+	sub ShaSha.rj' lookup Reorder_ShaSha_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_ShaSha_MatraEalt4 ;
+
+	sub ShaRaYa.rj' lookup Reorder_ShaRaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_ShaRaYa_MatraEalt3 ;
+
+	sub RaDha.rj' lookup Reorder_RaDha_MatraEalt1b
+	matraE_alt1b.rj' lookup Reorder_RaDha_MatraEalt1b ;
+
+	sub RaDhaRa.rj' lookup Reorder_RaDhaRa_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_RaDhaRa_MatraEalt4b ;
+
+	sub RaDhaMa.rj' lookup Reorder_RaDhaMa_MatraEalt5b
+	matraE_alt5b.rj' lookup Reorder_RaDhaMa_MatraEalt5b ;
+
+	sub RaDhaYa.rj' lookup Reorder_RaDhaYa_MatraEalt5b
+	matraE_alt5b.rj' lookup Reorder_RaDhaYa_MatraEalt5b ;
+
+	sub RaDhaVa.rj' lookup Reorder_RaDhaVa_MatraEalt4b
+	matraE_alt4b.rj' lookup Reorder_RaDhaVa_MatraEalt4b ;
+
+	sub RaDhaNaYa.rj' lookup Reorder_RaDhaNaYa_matraE_alt5b
+	matraE_alt5b.rj' lookup Reorder_RaDhaNaYa_matraE_alt5b  ;
+
+#3 letter conjuncts -------------------------------------------------------------------------------
+	sub GaJaNya.rj' lookup Reorder_GaJaNya_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaJaNya_MatraEalt3 ;
+
+	sub GaJaNya_alt_Aa.rj' lookup Reorder_GaJaNya_alt_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaJaNya_alt_MatraEalt3 ;
+
+	sub GaNyaJa.rj' lookup Reorder_GaNyaJa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaNyaJa_MatraEalt4 ;
+
+	sub DhaNaYa.rj' lookup Reorder_DhaNaYa_MatraEalt3b
+	matraE_alt3b.rj' lookup Reorder_DhaNaYa_MatraEalt3b ;
+
+	sub DhaRaYa.rj' lookup Reorder_DhaRaYa_MatraEalt3b
+	matraE_alt3b.rj' lookup Reorder_DhaRaYa_MatraEalt3b ;
+
+	sub GaDhaVa.rj' lookup Reorder_GaDhaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaDhaVa_MatraEalt4 ;
+
+	sub GaNaYa.rj' lookup Reorder_GaNaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaNaYa_MatraEalt3 ;
+
+	sub GaBhaYa.rj' lookup Reorder_GaBhaYa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_GaBhaYa_MatraEalt4 ;
+
+	sub GaRaYa.rj' lookup Reorder_GaRaYa_MatraEalt3
+	matraE_alt3.rj' lookup Reorder_GaRaYa_MatraEalt3 ;
+
+	sub NyaKaSsa.rj' lookup Reorder_NyaKaSsa_MatraEalt1
+	matraE_alt1.rj' lookup Reorder_NyaKaSsa_MatraEalt1 ;
+
+	sub NyaKaSsaVa.rj' lookup Reorder_NyaKaSsaVa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaKaSsaVa_MatraEalt4 ;
+
+	sub NyaCaYa.rj' lookup Reorder_NyaCaYa_MatraEalt4
+	matraE_alt4.rj' lookup Reorder_NyaCaYa_MatraEalt4 ;
+
+	sub NyaJaYa.rj' lookup Reorder_NyaJaYa_MatraEalt3 
+	matraE_alt3.rj' lookup Reorder_NyaJaYa_MatraEalt3  ;
+
+	sub NnaDdaYa.rj' lookup Reorder_NnaDdaYa_MatraEalt3 
+	matraE_alt3.rj' lookup Reorder_NnaDdaYa_MatraEalt3  ;
+
+	sub NnaDdaRa.rj' lookup Reorder_NnaDdaRa_MatraEalt3 
+	matraE_alt3.rj' lookup Reorder_NnaDdaRa_MatraEalt3  ;
+
+	sub ShaCaYa.rj' lookup Reorder_ShaCaYa_MatraEalt3 
+	matraE_alt3.rj' lookup Reorder_ShaCaYa_MatraEalt3  ;
+
+	sub ShaVaYa.rj' lookup Reorder_ShaVaYa_MatraEalt3 
+	matraE_alt3.rj' lookup Reorder_ShaVaYa_MatraEalt3  ;
+
+	sub KhaTaYa.rj' lookup Reorder_KhaTaYa_matraE_alt3 
+	matraE_alt3.rj' lookup Reorder_KhaTaYa_matraE_alt3  ;
+
+	sub ThaVaYa.rj' lookup Reorder_ThaVaYa_matraE_alt4 
+	matraE_alt4.rj' lookup Reorder_ThaVaYa_matraE_alt4  ;
+
+
+} psts3;
+#----------------------------------------------------------------------
+lookup abvs2 {
+#Ai+Bindu
+	sub matraAi_LengthMark.rj		[Bindu.rj Bindu_alt.rj]	by	matraAi_Bindu_LengthMark.rj;
+	sub matraAi_LengthMark_2.rj	[Bindu.rj Bindu_alt.rj]	by	matraAi_Bindu_LengthMark_2.rj;
+	sub matraAi_LengthMark_3.rj	[Bindu.rj Bindu_alt.rj]	by	matraAi_Bindu_LengthMark_3.rj;
+
+#Ai+Chandrabindu
+	sub matraAi_LengthMark.rj		[Chandrabindu.rj Chandrabindu_alt.rj]	by	matraAi_Chandrabindu_LengthMark.rj;
+	sub matraAi_LengthMark_2.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by	matraAi_Chandrabindu_LengthMark_2.rj;
+	sub matraAi_LengthMark_3.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by	matraAi_Chandrabindu_LengthMark_3.rj;
+
+#Au+Bindu
+	sub matraAu_LengthMark.rj	[Bindu.rj Bindu_alt.rj]	by matraAu_Bindu.rj;
+	sub matraAu_LengthMark_alt1.rj	[Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt1.rj;
+	sub matraAu_LengthMark_alt1a.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt1a.rj;
+	sub matraAu_LengthMark_alt1c.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt1c.rj;
+	sub matraAu_LengthMark_alt1d.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt1d.rj;
+	sub matraAu_LengthMark_alt2a.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2a.rj;
+	sub matraAu_LengthMark_alt2b.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2b.rj;
+	sub matraAu_LengthMark_alt2c.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2c.rj;
+	sub matraAu_LengthMark_alt2d.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2d.rj;
+	sub matraAu_LengthMark_alt2e.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2e.rj;
+	sub matraAu_LengthMark_alt2f.rj [Bindu.rj Bindu_alt.rj]	by matraAu_Bindu_alt2f.rj;
+
+#Au+Chandrabindu
+	sub matraAu_LengthMark.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu.rj;
+	sub matraAu_LengthMark_alt1.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt1.rj;
+	sub matraAu_LengthMark_alt1a.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt1a.rj;
+	sub matraAu_LengthMark_alt1c.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt1c.rj;
+	sub matraAu_LengthMark_alt1d.rj	[Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt1d.rj;
+	sub matraAu_LengthMark_alt2a.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2a.rj;
+	sub matraAu_LengthMark_alt2b.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2b.rj;
+	sub matraAu_LengthMark_alt2c.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2c.rj;
+	sub matraAu_LengthMark_alt2d.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2d.rj;
+	sub matraAu_LengthMark_alt2e.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2e.rj;
+	sub matraAu_LengthMark_alt2f.rj [Chandrabindu.rj Chandrabindu_alt.rj]	by matraAu_Chandrabindu_alt2f.rj;
+
+} abvs2;
+
+} psts;
+
+feature blws {
+lookup blws0 {#when base letter needs to change based on a below-base matra
+sub	@Ru_Ruu_Group' [matraRu.rj matraRuu.rj matraLru.rj matraLruu.rj] by @Ru_Ruu_AltGroup;
+sub @U_Uu_Group' [matraUu.rj matraU.rj matraRu.rj matraRuu.rj]  by @U_Uu_AltGroup;
+sub @U_group' matraU.rj by @U_AltGroup;
+sub @Uu_Group' [matraUu.rj matraRu.rj matraRuu.rj] by @Uu_AltGroup;
+} blws0;
+#----------------------------------------------------------
+
+lookup blws1 {
+sub Ra.rj matraU.rj by RamatraU.rj;
+sub Ra.rj matraUu.rj by RamatraUu.rj;
+} blws1;
+#----------------------------------------------------------
+
+lookup blws2 { #
+sub @GroupU_1 matraU.rj' by matraU_alt1.rj;
+sub @GroupU_2 matraU.rj' by matraU_alt2.rj;
+sub @GroupU_3 matraU.rj' by matraU_alt3.rj;
+sub @GroupU_4 matraU.rj' by matraU_alt4.rj ;
+sub @GroupU_5 matraU.rj' by matraU_alt5.rj;
+sub @GroupU_6 matraU.rj' by matraU_alt6.rj;
+sub @GroupU_7 matraU.rj' by matraU_alt7.rj;
+sub @GroupU_8 matraU.rj' by matraU_alt8.rj ;
+sub @GroupU_9 matraU.rj' by matraU_alt9.rj ;
+sub @GroupU_10 matraU.rj' by matraU_alt10.rj;
+sub @GroupU_11 matraU.rj' by matraU_alt11.rj;
+sub @GroupU_12 matraU.rj' by matraU_alt12.rj;
+sub @GroupU_13 matraU.rj' by matraU_alt13.rj;
+sub @GroupU_15 matraU.rj' by matraU_alt15.rj;
+sub @GroupU_16 matraU.rj' by matraU_alt16.rj;
+sub @GroupU_17 matraU.rj' by matraU_alt17.rj;
+sub @GroupU_19 matraU.rj' by matraU_alt19.rj;
+sub @GroupU_20 matraU.rj' by matraU_alt20.rj;
+} blws2;
+#----------------------------------------------------------
+
+lookup blws3 {
+sub @GroupUu_1 matraUu.rj' by matraUu_alt1.rj;
+sub @GroupUu_2 matraUu.rj' by matraUu_alt2.rj;
+sub @GroupUu_3 matraUu.rj' by matraUu_alt3.rj;
+sub @GroupUu_4 matraUu.rj' by matraUu_alt4.rj;
+sub @GroupUu_5 matraUu.rj' by matraUu_alt5.rj;
+sub @GroupUu_6 matraUu.rj' by matraUu_alt6.rj;
+sub @GroupUu_7 matraUu.rj' by matraUu_alt7.rj;
+sub @GroupUu_8 matraUu.rj' by matraUu_alt8.rj;
+} blws3;
+#----------------------------------------------------------
+
+lookup blws4 {
+sub @GroupUu_1 matraRu.rj' by matraRu_alt1.rj;
+sub @GroupUu_2 matraRu.rj' by matraRu_alt2.rj;
+sub @GroupUu_3 matraRu.rj' by matraRu_alt3.rj;
+sub @GroupUu_4 matraRu.rj' by matraRu_alt4.rj;
+sub @GroupUu_5 matraRu.rj' by matraRu_alt5.rj;
+sub @GroupUu_6 matraRu.rj' by matraRu_alt6.rj;
+sub @GroupUu_7 matraRu.rj' by matraRu_alt7.rj;
+sub @GroupUu_8 matraRu.rj' by matraRu_alt8.rj;
+sub @Ru_Ruu_AltGroup	matraRu.rj' by matraRu_alt9.rj;
+
+sub @GroupRu_1 matraRu.rj' by matraRu_1.rj;
+sub @GroupRu_3 matraRu.rj' by matraRu_3.rj;
+sub @GroupRu_2 matraRu.rj' by matraRu_2.rj;
+
+sub @GroupUu_1 matraRuu.rj' by matraRuu_alt1.rj;
+sub @GroupUu_2 matraRuu.rj' by matraRuu_alt2.rj;
+sub @GroupUu_3 matraRuu.rj' by matraRuu_alt3.rj;
+sub @GroupUu_4 matraRuu.rj' by matraRuu_alt4.rj;
+sub @GroupUu_5 matraRuu.rj' by matraRuu_alt5.rj;
+sub @GroupUu_6 matraRuu.rj' by matraRuu_alt6.rj;
+sub @GroupUu_7 matraRuu.rj' by matraRuu_alt7.rj;
+sub @GroupUu_8 matraRuu.rj' by matraRuu_alt8.rj;
+sub @Ru_Ruu_AltGroup	matraRuu.rj' by matraRuu_alt9.rj;
+
+sub @GroupRu_1 matraRuu.rj' by matraRuu_1.rj;
+sub @GroupRu_3 matraRuu.rj' by matraRuu_3.rj;
+sub @GroupRu_2 matraRuu.rj' by matraRuu_2.rj;
+} blws4;
+
+lookup blws5 {
+sub @Ru_Ruu_AltGroup matraLru.rj' by matraLru_alt1.rj;
+sub @Ru_Ruu_AltGroup matraLruu.rj' by matraLruu_alt1.rj;
+} blws5;
+#----------------------------------------------------------
+
+} blws;
+
+feature haln {
+lookup half;
+} haln;
+
+feature salt {
+lookup salt1 { #ss01
+sub Siddhi.rj by Siddhi.rj.ss01;
+sub Doubledanda.rj by Doubledanda.rj.ss01;
+sub Om.rj by Om.rj.ss01;
+
+sub NgaKa.rj				by NgaKa.rj.ss01;
+sub NgaKa_alt_Ru.rj			by NgaKa_alt_Ru.rj.ss01;
+sub NgaKha.rj				by NgaKha.rj.ss01;
+sub NgaKha_alt_Uu.rj		by NgaKha_alt_Uu.rj.ss01;
+sub NgaGa.rj  				by NgaGa.rj.ss01;
+sub NgaGha.rj 				by NgaGha.rj.ss01;
+sub NgaGha_alt_Uu.rj 		by NgaGha_alt_Uu.rj.ss01;
+sub NgaNga.rj 				by NgaNga.rj.ss01;
+sub NgaCha.rj 				by NgaCha.rj.ss01;
+sub NgaNa.rj  				by NgaNa.rj.ss01;
+sub NgaMa.rj 				by NgaMa.rj.ss01;
+sub NgaSa.rj  				by NgaSa.rj.ss01;
+sub NgaSa_alt_Uu.rj  		by NgaSa_alt_Uu.rj.ss01;
+sub NgaYa.rj				by NgaYa.rj.ss01;
+sub NgaLa.rj				by NgaLa.rj.ss01;
+sub NgaLa_alt_Uu.rj			by NgaLa_alt_Uu.rj.ss01;
+sub NgaVa.rj				by NgaVa.rj.ss01;
+
+sub NgaKaTa.rj				by NgaKaTa.rj.ss01;
+sub NgaKaTa_alt_U_Uu.rj		by NgaKaTa_alt_U_Uu.rj.ss01;
+sub NgaKaTaYa.rj			by NgaKaTaYa.rj.ss01;
+sub NgaKaYa.rj				by NgaKaYa.rj.ss01;
+sub	NgaKaRa.rj				by	NgaKaRa.rj.ss01;
+sub	NgaKaVa.rj				by	NgaKaVa.rj.ss01;
+sub NgaKhaYa.rj				by NgaKhaYa.rj.ss01;
+sub NgaKaSsa.rj				by NgaKaSsa.rj.ss01;
+sub NgaKaSsaVa.rj			by NgaKaSsaVa.rj.ss01;
+sub NgaKaSsaYa.rj			by NgaKaSsaYa.rj.ss01;
+sub NgaGaYa.rj				by NgaGaYa.rj.ss01;
+sub NgaGaRa.rj				by NgaGaRa.rj.ss01;
+sub NgaGaDhaVa.rj			by NgaGaDhaVa.rj.ss01;
+sub NgaGhaYa.rj				by NgaGhaYa.rj.ss01;
+sub NgaGhaRa.rj				by NgaGhaRa.rj.ss01;
+sub NgaGhaRaYa.rj			by NgaGhaRaYa.rj.ss01;
+sub NgaHaYa.rj				by NgaHaYa.rj.ss01;
+sub NgaHaYa_alt_Aa.rj		by NgaHaYa_alt_Aa.rj.ss01;
+sub NgaHaLa.rj				by NgaHaLa.rj.ss01;
+sub NgaHaLa_alt_Aa.rj		by NgaHaLa_alt_Aa.rj.ss01;
+sub NgaHaLa_alt_Uu.rj		by NgaHaLa_alt_Uu.rj.ss01;
+sub NgaHaVa.rj				by NgaHaVa.rj.ss01;
+sub NgaHaVa_alt_Aa.rj		by NgaHaVa_alt_Aa.rj.ss01;
+sub NgaKaSsaNna.rj			by NgaKaSsaNna.rj.ss01;
+sub NgaKaSsaNna_alt_Uu.rj 	by NgaKaSsaNna_alt_Uu.rj.ss01;
+sub NgaGaDhaYa.rj			by NgaGaDhaYa.rj.ss01;
+sub	RaNgaGa.rj				by	RaNgaGa.rj.ss01;
+
+sub DdaKa.rj	by DdaKa.rj.ss01;
+sub DdaKa_alt_Aa.rj by DdaKa_alt_Aa.rj.ss01;
+sub DdaGa.rj	by DdaGa.rj.ss01;
+sub DdaGha.rj	by DdaGha.rj.ss01;
+sub DdaGha_alt_Uu.rj	by DdaGha_alt_Uu.rj.ss01;
+sub DdaDda.rj	by DdaDda.rj.ss01;
+sub DdaDdha.rj	by DdaDdha.rj.ss01;
+sub DdaDa.rj	by DdaDa.rj.ss01;
+sub DdaNa.rj	by DdaNa.rj.ss01;
+sub DdaBha.rj	by DdaBha.rj.ss01;
+sub DdaBha_alt_U_Uu.rj	by DdaBha_alt_U_Uu.rj.ss01;
+sub DdaMa.rj	by DdaMa.rj.ss01;
+sub DdaSa.rj	by DdaSa.rj.ss01;
+sub DdaSa_alt_Uu.rj	by DdaSa_alt_Uu.rj.ss01;
+sub DdaYa.rj	by DdaYa.rj.ss01;
+sub DdaLa.rj	by DdaLa.rj.ss01;
+sub DdaLa_alt_U.rj	by DdaLa_alt_U.rj.ss01;
+sub DdaVa.rj	by DdaVa.rj.ss01;
+sub DdaGhaRa.rj	by DdaGhaRa.rj.ss01;
+
+sub TaKaRa.rj	 by TaKaRa.rj.ss01;
+sub TaKaRa_alt_Aa.rj	 by TaKaRa_alt_Aa.rj.ss01;
+sub TaKaRa_alt_U_Uu.rj	 by TaKaRa.rj.ss01;
+sub TaKaVa.rj	 by TaKaVa.rj.ss01;
+sub TaKaVa_alt_Aa.rj	 by TaKaVa_alt_Aa.rj.ss01;
+sub TaKaVa_alt_U_Uu.rj	 by TaKaVa.rj.ss01;
+sub TaKaSsa.rj	 by TaKaSsa.rj.ss01;
+sub TaKaSsa_alt_Aa.rj	 by TaKaSsa_alt_Aa.rj.ss01;
+sub TaKaSsa_alt_U_Uu.rj	 by TaKaSsa.rj.ss01;
+sub TaKa.rj	 by TaKa.rj.ss01;
+sub TaKa_alt_U_Uu.rj by TaKa.rj.ss01;
+sub TaKa_alt_Aa.rj	 by TaKa_alt_Aa.rj.ss01;
+sub TaKa_alt_Ru.rj	 by TaKa_alt_Ru.rj.ss01;
+sub TaKha.rj by TaKha.rj.ss01;
+sub TaKha_alt_Uu.rj by TaKha.rj.ss01;
+sub TaJa.rj		by	TaJa.rj.ss01;
+sub TaJa_alt_Aa.rj	by	TaJa_alt_Aa.rj.ss01;
+sub TaTaRa.rj  by TaTaRa.rj.ss01;
+sub TaTaRa_alt_U_Uu.rj by TaTaRa_alt_U_Uu.rj.ss01;
+sub TaTaVa.rj  by TaTaVa.rj.ss01;
+sub TaTa.rj  by TaTa.rj.ss01;
+sub TaTa_alt_U.rj by TaTa_alt_U_Uu.rj.ss01;
+sub TaTa_alt_Uu.rj by TaTa_alt_U_Uu.rj.ss01;
+sub TaTa_alt_Ru.rj  by TaTa_alt_Ru.rj.ss01;
+sub TaTha.rj by TaTha.rj.ss01;
+sub TaTha_alt_U_Uu.rj by TaTha.rj.ss01;
+sub TaNa.rj  by TaNa.rj.ss01;
+sub TaNa_alt_U_Uu.rj  by TaNa.rj.ss01;
+sub TaPa.rj  by TaPa.rj.ss01;
+sub TaPa_alt_U_Uu.rj by TaPa.rj.ss01;
+sub TaPha.rj by TaPha.rj.ss01;
+sub TaPha_alt_U_Uu.rj by TaPha.rj.ss01;
+sub TaBha.rj by TaBha.rj.ss01;
+sub TaBha_alt_U_Uu.rj by TaBha_alt_U_Uu.rj.ss01;
+sub TaMa.rj  by TaMa.rj.ss01;
+sub TaMa_alt_U.rj  by TaMa.rj.ss01;
+sub TaSsa.rj  by TaSsa.rj.ss01;
+sub TaSsa_alt_U_Uu.rj by TaSsa.rj.ss01;
+sub TaSa.rj  by TaSa.rj.ss01;
+sub TaSa_alt_U_Uu.rj  by TaSa_alt_Uu.rj.ss01;
+sub TaSa_alt_Ru.rj  by TaSa_alt_Ru.rj.ss01;
+sub TaSaRa.rj  by TaSaRa.rj.ss01;
+sub TaSaRa_alt_U_Uu.rj  by TaSaRa_alt_Uu.rj.ss01;
+sub TaYa.rj  by TaYa.rj.ss01;
+sub TaYa_alt_U.rj  by TaYa.rj.ss01;
+sub TaLa.rj  by TaLa.rj.ss01;
+sub TaLa_alt_U_Uu.rj  by TaLa_alt_Uu.rj.ss01;
+sub TaVa.rj  by TaVa.rj.ss01;
+sub TaVa_alt_U_Uu.rj  by TaVa.rj.ss01;
+
+sub NaDha.rj	by	NaDha.rj.ss01;
+sub NaDhaRa.rj	by	NaDhaRa.rj.ss01;
+sub NaDhaYa.rj	by	NaDhaYa.rj.ss01;
+sub NaDhaVa.rj	by	NaDhaVa.rj.ss01;
+sub NaDhaRaYa.rj	by	NaDhaRaYa.rj.ss01;
+
+sub BhaNa.rj  by BhaNa.rj.ss01;
+sub BhaNa_alt_U_Uu.rj  by BhaNa.rj.ss01;
+sub BhaBha.rj by BhaBha.rj.ss01;
+sub BhaBha_alt_U_Uu.rj by BhaBha_alt_U_Uu.rj.ss01;
+sub BhaMa.rj  by BhaMa.rj.ss01;
+sub BhaMa_alt_U.rj  by BhaMa.rj.ss01;
+sub BhaSa.rj  by BhaSa.rj.ss01;
+sub BhaSa_alt_U.rj  by BhaSa_alt_Uu.rj.ss01;
+sub BhaSa_alt_Uu.rj  by BhaSa_alt_Uu.rj.ss01;
+sub BhaYa.rj  by BhaYa.rj.ss01;
+sub BhaYa_alt_U.rj  by BhaYa.rj.ss01;
+sub BhaLa.rj  by BhaLa.rj.ss01;
+sub BhaLa_alt_U_Uu.rj  by BhaLa_alt_Uu.rj.ss01;
+sub BhaVa.rj  by BhaVa.rj.ss01;
+sub BhaVa_alt_U_Uu.rj  by BhaVa.rj.ss01;
+
+sub ShaKa.rj by ShaKa.rj.ss01;
+sub ShaKa_alt_Aa.rj by ShaKa_alt_Aa.rj.ss01;
+sub ShaKa_alt_U_Uu.rj by ShaKa.rj.ss01;
+sub ShaTa.rj by ShaTa.rj.ss01;
+sub ShaTa_alt_U_Uu.rj by ShaTa_alt_U_Uu.rj.ss01;
+sub ShaNa.rj by ShaNa.rj.ss01;
+sub ShaNa_alt_U_Uu.rj by ShaNa.rj.ss01;
+sub ShaPa.rj by ShaPa.rj.ss01;
+sub ShaPa_alt_U_Uu.rj by ShaPa.rj.ss01;
+sub ShaBa.rj by ShaBa.rj.ss01;
+sub ShaBa_alt_U_Uu.rj by ShaBa.rj.ss01;
+sub ShaMa.rj by ShaMa.rj.ss01;
+sub ShaMa_alt_U.rj by ShaMa.rj.ss01;
+sub ShaYa.rj by ShaYa.rj.ss01;
+sub ShaLa.rj by ShaLa.rj.ss01;
+sub ShaLa_alt_U_Uu.rj by ShaLa_alt_Uu.rj.ss01;
+sub ShaVa.rj by ShaVa.rj.ss01;
+sub ShaVa_alt_U_Uu.rj by ShaVa.rj.ss01;
+
+sub SaKa.rj		by	SaKa.rj.ss01;
+sub SaKa_alt_U_Uu.rj by	SaKa.rj.ss01;
+sub SaKa_alt_Aa.rj	by	SaKa_alt_Aa.rj.ss01;
+sub	SaKa_alt_Ru.rj	by SaKa_alt_Ru.rj.ss01;
+sub SaKaRa.rj		by	SaKaRa.rj.ss01;
+sub SaKaRa_alt_Aa.rj		by	SaKaRa_alt_Aa.rj.ss01;
+sub SaKaRa_alt_U_Uu.rj		by	SaKaRa.rj.ss01;
+sub SaKaVa.rj		by	SaKaVa.rj.ss01;
+sub SaKaVa_alt_Aa.rj		by	SaKaVa_alt_Aa.rj.ss01;
+sub SaKaVa_alt_U_Uu.rj		by	SaKaVa.rj.ss01;
+sub SaJa.rj		by	SaJa.rj.ss01;
+sub SaJa_alt_Aa.rj	by	SaJa_alt_Aa.rj.ss01;
+sub SaTaRa.rj		by	SaTaRa.rj.ss01;
+sub SaTaRa_alt_U.rj		by	SaTaRa_alt_U_Uu.rj.ss01;
+sub SaTaRa_alt_Uu.rj		by	SaTaRa_alt_U_Uu.rj.ss01;
+sub SaTa.rj		by	SaTa.rj.ss01;
+sub SaTa_alt_U.rj by SaTa_alt_U_Uu.rj.ss01;
+sub SaTa_alt_Uu.rj by SaTa_alt_U_Uu.rj.ss01;
+sub SaTa_alt_Ru.rj	by SaTa_alt_Ru.rj.ss01;
+sub SaTaVa.rj		by SaTaVa.rj.ss01;
+sub SaTha.rj	by	SaTha.rj.ss01;
+sub SaTha_alt_U_Uu.rj	by SaTha.rj.ss01;
+sub SaNa.rj		by	SaNa.rj.ss01;
+sub SaNa_alt_U_Uu.rj		by	SaNa.rj.ss01;
+sub SaPa.rj		by	SaPa.rj.ss01;
+sub SaPa_alt_U.rj		by	SaPa.rj.ss01;
+sub	SaPa_alt_Ru.rj	by SaPa_alt_Ru.rj.ss01;
+sub SaPha.rj	by	SaPha.rj.ss01;
+sub SaPha_alt_U.rj	by	SaPha.rj.ss01;
+sub SaBa.rj		by	SaBa.rj.ss01;
+sub SaBa_alt_U_Uu.rj		by	SaBa.rj.ss01;
+sub SaMa.rj		by	SaMa.rj.ss01;
+sub	SaMa_alt_Ru.rj	by SaMa_alt_Ru.rj.ss01;
+sub SaYa.rj		by	SaYa.rj.ss01;
+sub SaVa.rj		by	SaVa.rj.ss01;
+sub SaVa_alt_U_Uu.rj		by	SaVa.rj.ss01;
+sub SaLa.rj		by	SaLa.rj.ss01;
+sub SaLa_alt_U_Uu.rj		by	SaLa_alt_Uu.rj.ss01;
+sub SaSa.rj		by SaSa.rj.ss01;
+sub SaSa_alt_U_Uu.rj by SaSa_alt_Uu.rj.ss01;
+
+#3 letter conjuncts
+	sub NgaKaTaVa.rj	by NgaKaTaVa.rj.ss01;
+	sub NgaKaTaVa_alt_Uu.rj	by NgaKaTaVa_alt_Uu.rj.ss01;
+	sub NgaTaVa.rj	by NgaTaVa.rj.ss01;
+	sub NnaDdaYa.rj	by NnaDdaYa.rj.ss01;
+	sub DdaGaRa.rj	by DdaGaRa.rj.ss01;
+	sub DdaGaYa.rj	by DdaGaYa.rj.ss01;
+} salt1;
+
+lookup salt2 {#matraA, I ss01
+	sub NaDha.rj.ss01	@MatraAlt1' by @MatraADefault;
+	sub NaDhaRa.rj.ss01	@MatraAlt1' by @MatraADefault;
+	sub NaDhaYa.rj.ss01	@MatraAlt1' by @MatraADefault;
+	sub NaDhaVa.rj.ss01	@MatraAlt1' by @MatraADefault;
+	sub NaDhaRaYa.rj.ss01	@MatraAlt1' by @MatraADefault ;
+	sub SaKaRa_alt_Aa.rj.ss01 @MatraAlt2a' by @MatraAlt2c;
+	sub SaKaVa_alt_Aa.rj.ss01 @MatraAlt2a' by @MatraAlt2c;
+	sub matraI_alt1.rj' NaDha.rj.ss01 by matraI.rj;
+	sub matraI_alt1.rj' NaDhaRa.rj.ss01 by matraI.rj;
+	sub matraI_alt1.rj' NaDhaYa.rj.ss01 by matraI.rj;
+	sub matraI_alt1.rj' NaDhaVa.rj.ss01 by matraI.rj;
+} salt2;
+
+
+lookup salt3 {#matra U, Uu, Ru ss01
+	sub TaKa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub TaKa.rj.ss01	matraUu_alt1.rj' by matraUu_alt2.rj;
+	sub TaJa.rj.ss01	matraU.rj' by matraU_alt2.rj;
+	sub TaTa_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt3.rj;
+	sub TaTha.rj.ss01	matraU_alt13.rj' by matraU_alt5.rj;
+	sub TaNa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub TaPa.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+	sub TaPha.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+	sub TaBha_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt3.rj;
+	sub TaMa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub	TaYa.rj.ss01	matraU_alt13.rj'	by matraU_alt10.rj;
+	sub TaLa_alt_Uu.rj.ss01	matraU_alt13.rj' by matraU_alt3.rj;
+	sub TaVa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub TaSa_alt_Uu.rj.ss01	matraU_alt15.rj' by matraU_alt13.rj;
+	sub TaSsa.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+
+	sub BhaNa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub BhaBha_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt3.rj;
+	sub BhaMa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub BhaLa_alt_Uu.rj.ss01	matraU_alt13.rj' by matraU_alt3.rj;
+	sub BhaVa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub BhaSa_alt_Uu.rj.ss01	matraU_alt15.rj' by matraU_alt13.rj;
+
+	sub SaKa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub SaTa_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt11.rj;
+	sub SaTaRa_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt11.rj;
+	sub SaTha.rj.ss01	matraU_alt13.rj' by matraU_alt5.rj;
+	sub SaNa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub SaPa.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+	sub SaPha.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+	sub SaBa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub SaMa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub SaVa.rj.ss01	matraU_alt13.rj' by matraU_alt11.rj;
+	sub SaSa_alt_Uu.rj.ss01	matraU_alt20.rj' by matraU_alt13.rj;
+
+	sub ShaKa.rj.ss01 matraU_alt13.rj' by matraU_alt8.rj;
+	sub ShaBa.rj.ss01 matraU_alt13.rj' by matraU_alt8.rj;
+	sub ShaVa.rj.ss01 matraU_alt13.rj' by matraU_alt8.rj;
+	sub ShaTa_alt_U_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt3.rj;
+	sub ShaNa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub ShaPa.rj.ss01	matraU_alt20.rj' by matraU_alt11.rj;
+	sub ShaMa.rj.ss01	matraU_alt13.rj' by matraU_alt12.rj;
+	sub ShaLa_alt_Uu.rj.ss01 matraU_alt13.rj' by matraU_alt3.rj;
+	sub NgaGhaRa.rj.ss01	matraU_alt5.rj'	by matraU_alt12.rj;
+	sub DdaGhaRa.rj.ss01	matraU_alt5.rj'	by matraU_alt12.rj;
+	sub TaTaVa.rj.ss01 matraU_alt15.rj' by matraU_alt16.rj; 
+
+	sub ShaKa.rj.ss01 matraUu_alt2.rj' by matraUu_alt8.rj;
+	sub NaDhaYa.rj.ss01 matraUu_alt1.rj' by matraUu_alt8.rj;
+	sub ShaBa.rj.ss01		matraUu_alt3.rj'	by matraUu_alt2.rj;
+	sub ShaKa.rj.ss01		matraUu_alt3.rj'	by matraUu_alt2.rj;
+
+	sub NgaKa.rj.ss01'	matraRu.rj	by NgaKa_alt_Ru.rj.ss01;
+
+	sub ShaTa.rj.ss01' matraUu_alt1.rj by ShaTa_alt_U_Uu.rj.ss01;
+	sub ShaTa_alt_U_Uu.rj.ss01 matraUu_alt1.rj' by matraUu_alt3.rj;
+	sub TaTaVa.rj.ss01' matraUu_alt3.rj by TaTaVa_alt_Uu.rj.ss01;
+	sub NgaTaVa_alt_Uu.rj' matraUu_alt3.rj by NgaTaVa_alt_Uu.rj.ss01;
+
+	sub NgaTaVa_alt_Uu.rj' matraRu_alt3.rj by NgaTaVa_alt_Uu.rj.ss01;
+	sub TaTaVa.rj.ss01' matraRu_alt3.rj by TaTaVa_alt_Uu.rj.ss01;
+} salt3;
+
+lookup salt4 {#matra Ai ss01
+sub [TaKaSsa.rj.ss01] matraE.rj matraAi_LengthMark.rj' by matraAi_LengthMark_3.rj;
+sub [TaKa.rj.ss01 TaTa.rj.ss01 TaTha.rj.ss01 TaNa.rj.ss01 TaBha.rj.ss01 TaLa.rj.ss01 TaVa.rj.ss01 NaDha.rj.ss01 BhaBha.rj.ss01 BhaNa.rj.ss01 BhaLa.rj.ss01 BhaVa.rj.ss01 SaKa.rj.ss01 SaTa.rj.ss01 SaTha.rj.ss01 SaNa.rj.ss01 SaBa.rj.ss01 SaLa.rj.ss01 SaVa.rj.ss01 TaKaRa.rj.ss01 TaKaVa.rj.ss01 TaTaRa.rj.ss01 SaKaRa.rj.ss01 SaTaRa.rj.ss01 SaTaVa.rj.ss01 SaKaVa.rj.ss01]  matraE.rj matraAi_LengthMark.rj' by matraAi_LengthMark_2.rj;
+sub [NaDha.rj.ss01 NaDhaVa.rj.ss01 NaDhaRa.rj.ss01] matraAi_LengthMark.rj' by matraAi_LengthMark_2.rj;
+} salt4;
+
+lookup salt5 {#E matra ss01
+sub	[TaKa.rj.ss01
+	TaKa_alt_Aa.rj.ss01
+	TaKha.rj.ss01
+	TaJa.rj.ss01
+	TaJa_alt_Aa.rj.ss01
+	TaTa.rj.ss01
+	TaTha.rj.ss01
+	TaNa.rj.ss01
+	TaPa.rj.ss01
+	TaPha.rj.ss01
+	TaBha.rj.ss01
+	TaMa.rj.ss01
+	TaYa.rj.ss01
+	TaLa.rj.ss01
+	TaVa.rj.ss01
+	TaSsa.rj.ss01
+	TaSa.rj.ss01 
+	TaSaRa.rj.ss01
+	TaTaRa.rj.ss01
+	TaTaRa.rj.ss01
+	TaKaRa.rj.ss01
+	TaKaRa_alt_Aa.rj.ss01
+	TaKaVa.rj.ss01
+	TaKaVa_alt_Aa.rj.ss01
+	TaKaSsa.rj.ss01
+	TaKaSsa_alt_Aa.rj.ss01] matraE.rj'	by matraE_2.rj;
+
+sub [SaKa.rj.ss01
+	SaKa_alt_Aa.rj.ss01
+	SaJa.rj.ss01
+	SaJa_alt_Aa.rj.ss01
+	SaTa.rj.ss01
+	SaTaVa.rj.ss01
+	SaTha.rj.ss01
+	SaNa.rj.ss01
+	SaPa.rj.ss01
+	SaPha.rj.ss01
+	SaBa.rj.ss01
+	SaMa.rj.ss01
+	SaYa.rj.ss01
+	SaVa.rj.ss01
+	SaLa.rj.ss01
+	SaSa.rj.ss01
+	SaKaVa.rj.ss01
+	SaKaVa_alt_Aa.rj.ss01
+	SaKaRa.rj.ss01
+	SaKaRa_alt_Aa.rj.ss01
+	SaTaRa.rj.ss01]	matraE.rj'	by matraE_2.rj;
+
+sub	[DdaBha.rj.ss01
+DdaDa.rj.ss01
+DdaDda.rj.ss01
+DdaDdha.rj.ss01
+DdaGa.rj.ss01
+DdaGha.rj.ss01
+DdaKa.rj.ss01
+DdaLa.rj.ss01
+DdaMa.rj.ss01
+DdaNa.rj.ss01
+DdaSa.rj.ss01
+DdaVa.rj.ss01
+DdaYa.rj.ss01] matraE_1.rj'	by matraE_2.rj;
+	sub matraE_alt2.rj'	ShaTa.rj.ss01	by matraE_alt4.rj;
+	sub matraE_alt2.rj'	ShaNa.rj.ss01	by matraE_alt4.rj;
+	sub matraE_alt2.rj'	ShaPa.rj.ss01	by matraE_alt3.rj;
+	sub matraE_alt2.rj'	ShaBa.rj.ss01	by matraE_alt3.rj;
+	sub matraE_alt2.rj'	ShaMa.rj.ss01	by matraE_alt3.rj;
+	sub matraE_alt2.rj'	ShaLa.rj.ss01	by matraE_alt4.rj;
+	sub matraE_alt2.rj'	ShaVa.rj.ss01	by matraE_alt3.rj;
+} salt5;
+
+lookup salt6 {#Aa, Au matra ss01
+	sub TaKa.rj.ss01'		@MatraAlt2c		by TaKa_alt_Aa.rj.ss01;
+	sub TaKa.rj.ss01'		[matraE.rj
+					matraE_1.rj
+					matraE_2.rj
+					matraE_alt1.rj
+					matraE_alt2.rj
+					matraE_alt1b.rj
+					matraE_alt2b.rj
+					matraE_alt3.rj
+					matraE_alt4.rj]	@MatraAlt2c		by TaKa_alt_Aa.rj.ss01;
+
+} salt6;
+
+lookup salt7 { #ss01
+	sub matraE_alt4b.rj' lookup Reorder_NaDha_SS_MatraE
+	NaDha.rj.ss01' lookup Reorder_NaDha_SS_MatraE;
+
+	sub matraE_alt4b.rj' lookup Reorder_NaDhaRa_SS_MatraE
+	NaDhaRa.rj.ss01' lookup Reorder_NaDhaRa_SS_MatraE;
+
+	sub matraE_alt4b.rj' lookup Reorder_NaDhaYa_SS_MatraE
+	NaDhaYa.rj.ss01' lookup Reorder_NaDhaYa_SS_MatraE;
+
+	sub matraE_alt4b.rj' lookup Reorder_NaDhaVa_SS_MatraE
+	NaDhaVa.rj.ss01' lookup Reorder_NaDhaVa_SS_MatraE;
+
+	sub matraE_alt5b.rj' lookup Reorder_NaDhaRaYa_SS_MatraE
+	NaDhaRaYa.rj.ss01' lookup Reorder_NaDhaRaYa_SS_MatraE;
+} salt7;
+
+
+} salt;
+
+feature ss01 {
+featureNames {
+  name "Alternate Characters";
+};
+lookup salt1 ;
+lookup salt2 ;
+lookup salt3 ;
+lookup salt4 ;
+lookup salt5 ;
+lookup salt6 ;
+lookup salt7 ;
+} ss01;
+
+feature ss02 {
+featureNames {
+  name "Alternate Top Matra Forms and Swasti";
+};
+sub Siddhi.rj by Siddhi.rj.ss02;
+sub vowelAi.rj by vowelAi.rj.ss02;
+sub vowelAu.rj by vowelAu.rj.ss02;
+sub matraAu_LengthMark.rj by matraAu_LengthMark.rj.ss02;
+sub matraAu_LengthMark_alt1.rj by matraAu_LengthMark_alt1.rj.ss02;
+sub matraAu_LengthMark_alt1a.rj by matraAu_LengthMark_alt1a.rj.ss02;
+sub matraAu_LengthMark_alt1c.rj by matraAu_LengthMark_alt1c.rj.ss02;
+sub matraAu_LengthMark_alt1d.rj by matraAu_LengthMark_alt1d.rj.ss02;
+sub matraAu_LengthMark_alt2a.rj by matraAu_LengthMark_alt2a.rj.ss02;
+sub matraAu_LengthMark_alt2b.rj by matraAu_LengthMark_alt2b.rj.ss02;
+sub matraAu_LengthMark_alt2c.rj by matraAu_LengthMark_alt2c.rj.ss02;
+sub matraAu_LengthMark_alt2d.rj by matraAu_LengthMark_alt2d.rj.ss02;
+sub matraAu_LengthMark_alt2e.rj by matraAu_LengthMark_alt2e.rj.ss02;
+sub matraAu_LengthMark_alt2f.rj by matraAu_LengthMark_alt2f.rj.ss02;
+sub matraAi_LengthMark.rj by matraAi_LengthMark.rj.ss02;
+sub matraAi_LengthMark_2.rj by matraAi_LengthMark_2.rj.ss02;
+sub matraAi_LengthMark_3.rj by matraAi_LengthMark_3.rj.ss02;
+sub matraAu_Bindu.rj by matraAu_Bindu.rj.ss02;
+sub matraAu_Bindu_alt2a.rj by matraAu_Bindu_alt2a.rj.ss02;
+sub matraAu_Bindu_alt2b.rj by matraAu_Bindu_alt2b.rj.ss02;
+sub matraAu_Bindu_alt2c.rj by matraAu_Bindu_alt2c.rj.ss02;
+sub matraAu_Bindu_alt2d.rj by matraAu_Bindu_alt2d.rj.ss02;
+sub matraAu_Bindu_alt2e.rj by matraAu_Bindu_alt2e.rj.ss02;
+sub matraAu_Bindu_alt2f.rj by matraAu_Bindu_alt2f.rj.ss02;
+sub matraAu_Chandrabindu.rj by matraAu_Chandrabindu.rj.ss02;
+sub matraAu_Chandrabindu_alt2a.rj by matraAu_Chandrabindu_alt2a.rj.ss02;
+sub matraAu_Chandrabindu_alt2b.rj by matraAu_Chandrabindu_alt2b.rj.ss02;
+sub matraAu_Chandrabindu_alt2c.rj by matraAu_Chandrabindu_alt2c.rj.ss02;
+sub matraAu_Chandrabindu_alt2d.rj by matraAu_Chandrabindu_alt2d.rj.ss02;
+sub matraAu_Chandrabindu_alt2e.rj by matraAu_Chandrabindu_alt2e.rj.ss02;
+sub matraAu_Chandrabindu_alt2f.rj by matraAu_Chandrabindu_alt2f.rj.ss02;
+sub matraAu_Bindu_alt1a.rj by matraAu_Bindu_alt1a.rj.ss02;
+sub matraAu_Chandrabindu_alt1a.rj by matraAu_Chandrabindu_alt1a.rj.ss02;
+sub matraAu_Bindu_alt1.rj by matraAu_Bindu_alt1.rj.ss02;
+sub matraAu_Bindu_alt1c.rj by matraAu_Bindu_alt1c.rj.ss02;
+sub matraAu_Bindu_alt1d.rj by matraAu_Bindu_alt1d.rj.ss02;
+sub matraAu_Chandrabindu_alt1.rj by matraAu_Chandrabindu_alt1.rj.ss02;
+sub matraAu_Chandrabindu_alt1c.rj by matraAu_Chandrabindu_alt1c.rj.ss02;
+sub matraAu_Chandrabindu_alt1d.rj by matraAu_Chandrabindu_alt1d.rj.ss02;
+sub matraAi_Bindu_LengthMark.rj by matraAi_Bindu_LengthMark.rj.ss02;
+sub matraAi_Bindu_LengthMark_2.rj by matraAi_Bindu_LengthMark_2.rj.ss02;
+sub matraAi_Bindu_LengthMark_3.rj by matraAi_Bindu_LengthMark_3.rj.ss02;
+sub matraAi_Chandrabindu_LengthMark.rj by matraAi_Chandrabindu_LengthMark.rj.ss02;
+sub matraAi_Chandrabindu_LengthMark_2.rj by matraAi_Chandrabindu_LengthMark_2.rj.ss02;
+sub matraAi_Chandrabindu_LengthMark_3.rj by matraAi_Chandrabindu_LengthMark_3.rj.ss02;
+sub Chandrabindu_alt.rj	by Chandrabindu_alt2.rj;
+
+} ss02;
+
+feature ss03 {
+featureNames {
+  name "Kutakshar Forms";
+};
+sub Om.rj space Ma.rj matraI.rj Nna.rj space Pa.rj DaMa.rj matraE.rj space Ha.rj matraUu.rj Chandrabindu.rj by OmManiPadmeHum_kut;
+sub Ka.rj RamatraU.rj Nna.rj matraA_alt1.rj by Karuna_kut;
+sub La.rj KaSsaMa_alt_Aa.rj matraIi_alt2a.rj by Lakshmi_kut;
+sub Ma.rj NgaGa.rj La.rj Bindu.rj by Mangalam_kut;
+sub Ba.rj matraU_alt11.rj DaDha.rj Bindu.rj space Sha.rj Ra.rj Nna.rj Ma.rj space Ga.rj CaCha.rj matraA.rj matraI.rj Ma.rj  by BuddhamSaranamGacchami_kut;
+sub BaVa.rj Na.rj matraA.rj Pa.rj matraE.rj matraAu_LengthMark.rj	by BaVaNaPaU_kut;
+sub ShaRa.rj matraIi_alt1a.rj space Ga.rj matraE_alt2.rj Nna.rj Sha.rj matraA_alt1.rj Ya.rj space Na.rj Ma.rj Visarga.rj by SriGanesayaNamah_kut;
+sub Ba.rj matraU_alt11.rj DaDha.rj Bindu.rj space Sha.rj Ra.rj Nna.rj Bindu.rj space Ga.rj CaCha.rj matraA.rj matraI.rj Ma.rj by BuddhamSaranamGacchami_kut;
+sub Ha.rj KaSsa.rj Ma.rj La.rj Va.rj Ra.rj Ya.rj Chandrabindu.rj by HaKaSsaMaLaVaRaYam_kut;
+sub vowelE.rj Va.rj Bindu.rj space Ha.rj KaSsa.rj Ma.rj La.rj Va.rj Ra.rj Ya.rj Chandrabindu.rj by Kalacakra_kut;
+sub HaNa.rj matraUu_alt3.rj Da.rj Chandrabindu.rj Ya.rj matraA.rj space matraI.rj Bha.rj Bindu.rj Ta_alt_U_Uu.rj matraU.rj Na.rj matraA.rj by NhudamYaBhimtuna_kut; 
+sub Om.rj space vowelA.rj Ra.rj Pa.rj Ca.rj Na.rj Dha.rj matraIi_alt1a.rj Visarga.rj by OmAhRaPaCaNaDhi_kut;
+sub Om.rj space Na.rj Ma.rj Visarga.rj space matraI.rj Sha.rj Va.rj matraA.rj Ya.rj by OmNamahSivaya_kut;
+sub Om.rj space Na.rj Ma.rj matraE.rj matraA.rj space Ba.rj matraU_alt11.rj DaDha.rj matraA.rj Ya.rj by OmNamoBudhaya_kut;
+sub Om.rj space Na.rj Ma.rj matraE.rj matraA.rj space Dha.rj RaMa.rj matraA.rj Ya.rj by OmNamoDharmaya_kut;
+sub Om.rj space Na.rj Ma.rj matraE.rj matraA.rj space Sa.rj NgaGha.rj matraA.rj Ya.rj by OmNamoSanghaya_kut;
+sub Om.rj space Ta.rj matraA.rj Ra.rj matraE.rj space Ta_alt_U_Uu.rj matraU.rj TaTa.rj matraA.rj Ra.rj matraE.rj space Ta_alt_U_Uu.rj matraU.rj Ra.rj matraE.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmTareTuttareTureSvaha_kut;
+sub Om.rj space Va.rj matraA.rj matraI.rj Ga.rj ShaVa.rj matraI.rj Ra.rj space Ma.rj matraUu.rj Bindu.rj by OmVagisvariMum_kut; 
+sub Om.rj space Va.rj JaRa.rj Pa.rj matraA.rj matraI.rj Nna.rj space Ha.rj matraUu.rj Chandrabindu.rj by OmVajraPaNiHum_kut;
+sub Om.rj space vowelAa.rj Visarga.rj space Ha.rj matraUu.rj Chandrabindu.rj space Pha.rj TtaHalant.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmAhHumPhatSvaHa_kut; 
+sub Om.rj space Ca.rj La.rj matraE.rj space Ca.rj matraU_alt11.rj La.rj matraE.rj space Ca.rj matraU_alt11.rj NaDa.rj matraE_1.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmCaleCuleChundeSvaha_kut;
+sub Om.rj space Pa.rj DaMa.rj matraE.rj matraA.rj DaBha.rj Va.rj Ya.rj matraE.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmPadmodbhavayevaha_kut;
+sub Om.rj space Pa.rj DaMa.rj matraE.rj matraA.rj SsaNna.rj matraIi.rj Ssa.rj space matraI.rj Va.rj Ma.rj La.rj matraE.rj space Ha.rj matraUu.rj Chandrabindu.rj space Pha.rj TtaHalant.rj by OmPadmosnisaVimaleHumPhat_kut;
+sub Ka.rj Kha.rj Ga.rj Gha.rj Nga.rj by KaKhaGaGhaNga_kut;
+sub Ca.rj Cha.rj Ja.rj Jha.rj Nya.rj by CaChaJaJhaNya_kut;
+sub Tta.rj Ttha.rj Dda.rj Ddha.rj Nna.rj by TtaTthaDdaDdhaNna_kut;
+sub Ta.rj Tha.rj Da.rj Dha.rj Na.rj by TaThaDaDhaNa_kut;
+sub Pa.rj Pha.rj Ba.rj Bha.rj Ma.rj by PaPhaBaBhaMa_kut;
+sub Ya.rj Ra.rj La.rj Va.rj by YaRaLaVa_kut;
+sub Sha.rj Ssa.rj Sa.rj Ha.rj by ShaSsaSaHa_kut;
+sub KaSsa.rj TaRa.rj JaNya.rj by KaSsaTaRaJaNya_kut;
+sub KaYa_alt_Aa.rj matraA_alt2a.rj matraI.rj La.rj Ja_alt_Aa.rj matraA_alt2a.rj TaRa.rj matraA.rj by Callijatra_kut;
+sub vowelE.rj Ka.rj space Tta.rj matraA.rj vowelI.rj Pa.rj by EK_kut;
+sub Om.rj space vowelAa.rj Visarga.rj space Ha.rj matraUu.rj Chandrabindu.rj by OmAhHum_kut;
+
+} ss03;
+
+feature ss04 {
+featureNames {
+  name "Extended Kutakshar Forms";
+};
+sub Om.rj space Ma.rj matraI.rj Nna.rj space Pa.rj DaMa.rj matraE.rj space Ha.rj matraUu.rj Chandrabindu.rj  by OmManiPadmeHum_ext_kut;
+sub Ha.rj KaSsa.rj Ma.rj La.rj Va.rj Ra.rj Ya.rj Chandrabindu.rj by HaKaSsaMaLaVaRaYam_ext_kut;
+sub vowelE.rj Va.rj Bindu.rj space Ha.rj KaSsa.rj Ma.rj La.rj Va.rj Ra.rj Ya.rj Chandrabindu.rj by Kalacakra_ext_kut;
+sub Om.rj space Ca.rj La.rj matraE.rj space Ca.rj matraU_alt11.rj La.rj matraE.rj space Ca.rj matraU_alt11.rj NaDa.rj matraE_1.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmCaleCuleChundeSvaha_ext_kut;
+sub Om.rj space Pa.rj DaMa.rj matraE.rj matraA.rj DaBha.rj Va.rj Ya.rj matraE.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmPadmodbhavayevaha_ext_kut;
+sub Om.rj space Pa.rj DaMa.rj matraE.rj matraA.rj SsaNna.rj matraIi.rj Ssa.rj space matraI.rj Va.rj Ma.rj La.rj matraE.rj space Ha.rj matraUu.rj Chandrabindu.rj space Pha.rj TtaHalant.rj by OmPadmosnisaVimaleHumPhat_ext_kut;
+sub Om.rj space vowelAa.rj Visarga.rj space Ha.rj matraUu.rj Chandrabindu.rj space Pha.rj TtaHalant.rj space SaVa.rj matraA.rj Ha.rj matraA.rj by OmAhHumPhatSvaHa_ext_kut; 
+
+} ss04;

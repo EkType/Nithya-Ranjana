@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaNa.rj.ss01" format="2">
+  <advance width="503"/>
+  <anchor x="348" y="19" name="bottom"/>
+  <anchor x="348" y="69" name="bottom2"/>
+  <anchor x="448" y="646" name="top1"/>
+  <anchor x="233" y="646" name="top2"/>
+  <anchor x="75" y="584" name="top_alt"/>
+  <anchor x="379" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="174" y="267" type="curve"/>
+      <point x="193" y="289" type="line"/>
+      <point x="167" y="312"/>
+      <point x="125" y="350"/>
+      <point x="97" y="379" type="curve"/>
+      <point x="64" y="367" type="line"/>
+      <point x="122" y="321" type="line"/>
+      <point x="218" y="320"/>
+      <point x="257" y="344"/>
+      <point x="257" y="431" type="curve" smooth="yes"/>
+      <point x="257" y="619" type="line"/>
+      <point x="157" y="619" type="line"/>
+      <point x="157" y="448" type="line"/>
+      <point x="205" y="473" type="line"/>
+      <point x="191" y="482"/>
+      <point x="174" y="487"/>
+      <point x="153" y="487" type="curve" smooth="yes"/>
+      <point x="83" y="487"/>
+      <point x="87" y="412"/>
+      <point x="55" y="412" type="curve" smooth="yes"/>
+      <point x="46" y="412"/>
+      <point x="36" y="417"/>
+      <point x="28" y="422" type="curve"/>
+      <point x="11" y="401" type="line"/>
+      <point x="71" y="350"/>
+      <point x="114" y="310"/>
+    </contour>
+    <contour>
+      <point x="187" y="56" type="curve" smooth="yes"/>
+      <point x="229" y="56"/>
+      <point x="251" y="83"/>
+      <point x="251" y="121" type="curve" smooth="yes"/>
+      <point x="251" y="217" type="line"/>
+      <point x="227" y="229"/>
+      <point x="201" y="244"/>
+      <point x="181" y="244" type="curve" smooth="yes"/>
+      <point x="119" y="244"/>
+      <point x="76" y="210"/>
+      <point x="76" y="159" type="curve" smooth="yes"/>
+      <point x="76" y="103"/>
+      <point x="127" y="56"/>
+    </contour>
+    <contour>
+      <point x="349" y="139" type="curve"/>
+      <point x="365" y="168" type="line"/>
+      <point x="299" y="219"/>
+      <point x="239" y="244"/>
+      <point x="181" y="244" type="curve"/>
+      <point x="242" y="166" type="line"/>
+      <point x="280" y="163"/>
+      <point x="314" y="153"/>
+    </contour>
+    <contour>
+      <point x="384" y="346" type="curve"/>
+      <point x="390" y="372" type="line"/>
+      <point x="346" y="424"/>
+      <point x="290" y="463"/>
+      <point x="236" y="475" type="curve"/>
+      <point x="245" y="394" type="line"/>
+      <point x="286" y="394"/>
+      <point x="322" y="381"/>
+    </contour>
+    <contour>
+      <point x="144" y="542" type="curve" smooth="yes"/>
+      <point x="206" y="542"/>
+      <point x="217" y="546"/>
+      <point x="243" y="561" type="curve"/>
+      <point x="229" y="569" type="line"/>
+      <point x="405" y="569" type="line"/>
+      <point x="448" y="646" type="line"/>
+      <point x="439" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="14" y="576"/>
+      <point x="62" y="542"/>
+    </contour>
+    <contour>
+      <point x="348" y="202" type="line"/>
+      <point x="448" y="202" type="line"/>
+      <point x="448" y="646" type="line"/>
+      <point x="348" y="619" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="348"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

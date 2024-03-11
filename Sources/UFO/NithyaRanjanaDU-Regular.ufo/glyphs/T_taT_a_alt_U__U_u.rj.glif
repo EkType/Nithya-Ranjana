@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TtaTa_alt_U_Uu.rj" format="2">
+  <advance width="600"/>
+  <anchor x="283" y="146" name="bottom"/>
+  <anchor x="283" y="69" name="bottom2"/>
+  <anchor x="343" y="5" name="bottom3"/>
+  <anchor x="284" y="646" name="top2"/>
+  <anchor x="520" y="646" name="top1"/>
+  <outline>
+    <contour>
+      <point x="175" y="47" type="curve"/>
+      <point x="185" y="65" type="line"/>
+      <point x="165" y="77"/>
+      <point x="145" y="92"/>
+      <point x="126" y="112" type="curve"/>
+      <point x="116" y="102" type="line"/>
+      <point x="153" y="94"/>
+      <point x="173" y="107"/>
+      <point x="188" y="144" type="curve" smooth="yes"/>
+      <point x="203" y="181"/>
+      <point x="215" y="190"/>
+      <point x="240" y="190" type="curve" smooth="yes"/>
+      <point x="258" y="190"/>
+      <point x="282" y="180"/>
+      <point x="300" y="167" type="curve"/>
+      <point x="305" y="204" type="line"/>
+      <point x="267" y="228"/>
+      <point x="226" y="243"/>
+      <point x="186" y="243" type="curve" smooth="yes"/>
+      <point x="113" y="243"/>
+      <point x="66" y="209"/>
+      <point x="66" y="157" type="curve" smooth="yes"/>
+      <point x="66" y="113"/>
+      <point x="95" y="77"/>
+    </contour>
+    <component base="_terminal" xOffset="283"/>
+    <component base="_TtaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

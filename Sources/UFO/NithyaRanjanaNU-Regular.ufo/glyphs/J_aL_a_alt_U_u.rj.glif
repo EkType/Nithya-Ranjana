@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaLa_alt_Uu.rj" format="2">
+  <advance width="639"/>
+  <anchor x="319" y="46" name="bottom2"/>
+  <anchor x="314" y="646" name="top2"/>
+  <anchor x="520" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="483" y="-33" type="curve"/>
+      <point x="492" y="-17" type="line"/>
+      <point x="418" y="23"/>
+      <point x="414" y="28"/>
+      <point x="414" y="77" type="curve" smooth="yes"/>
+      <point x="414" y="250" type="line"/>
+      <point x="319" y="250" type="line"/>
+      <point x="319" y="36" type="line"/>
+      <point x="363" y="18"/>
+      <point x="418" y="-5"/>
+    </contour>
+    <contour>
+      <point x="179" y="2" type="curve"/>
+      <point x="187" y="19" type="line"/>
+      <point x="145" y="43"/>
+      <point x="124" y="70"/>
+      <point x="124" y="98" type="curve" smooth="yes"/>
+      <point x="124" y="133"/>
+      <point x="148" y="157"/>
+      <point x="189" y="157" type="curve" smooth="yes"/>
+      <point x="203" y="157"/>
+      <point x="220" y="152"/>
+      <point x="246" y="143" type="curve"/>
+      <point x="241" y="175" type="line"/>
+      <point x="217" y="208"/>
+      <point x="178" y="227"/>
+      <point x="141" y="227" type="curve" smooth="yes"/>
+      <point x="81" y="227"/>
+      <point x="39" y="189"/>
+      <point x="39" y="136" type="curve" smooth="yes"/>
+      <point x="39" y="82"/>
+      <point x="86" y="34"/>
+    </contour>
+    <contour>
+      <point x="252" y="49" type="curve" smooth="yes"/>
+      <point x="268" y="49"/>
+      <point x="277" y="56"/>
+      <point x="277" y="69" type="curve" smooth="yes"/>
+      <point x="277" y="194" type="line"/>
+      <point x="255" y="163" type="line"/>
+      <point x="278" y="158"/>
+      <point x="312" y="146"/>
+      <point x="340" y="131" type="curve"/>
+      <point x="350" y="169" type="line"/>
+      <point x="319" y="193"/>
+      <point x="265" y="222"/>
+      <point x="220" y="238" type="curve"/>
+      <point x="210" y="234" type="line"/>
+      <point x="210" y="114" type="line"/>
+      <point x="230" y="136" type="line"/>
+      <point x="196" y="136"/>
+      <point x="173" y="120"/>
+      <point x="173" y="98" type="curve" smooth="yes"/>
+      <point x="173" y="74"/>
+      <point x="213" y="49"/>
+    </contour>
+    <component base="JaHalf_t_Na.rj" xOffset="5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>JaHalf_t_Na.rj</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

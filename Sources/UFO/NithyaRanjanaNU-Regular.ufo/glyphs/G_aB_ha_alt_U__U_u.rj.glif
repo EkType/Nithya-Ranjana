@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="GaBha_alt_U_Uu.rj" format="2">
+  <advance width="469"/>
+  <anchor x="314" y="45" name="bottom"/>
+  <anchor x="314" y="69" name="bottom2"/>
+  <anchor x="235" y="646" name="top2"/>
+  <anchor x="345" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="149" y="340" type="curve" smooth="yes"/>
+      <point x="202" y="340"/>
+      <point x="233" y="375"/>
+      <point x="233" y="435" type="curve" smooth="yes"/>
+      <point x="233" y="619" type="line"/>
+      <point x="133" y="619" type="line"/>
+      <point x="133" y="454" type="line"/>
+      <point x="168" y="485" type="line"/>
+      <point x="157" y="496"/>
+      <point x="141" y="503"/>
+      <point x="124" y="503" type="curve" smooth="yes"/>
+      <point x="62" y="503"/>
+      <point x="83" y="435"/>
+      <point x="52" y="435" type="curve" smooth="yes"/>
+      <point x="46" y="435"/>
+      <point x="36" y="440"/>
+      <point x="24" y="449" type="curve"/>
+      <point x="11" y="436" type="line"/>
+      <point x="63" y="367"/>
+      <point x="91" y="340"/>
+    </contour>
+    <contour>
+      <point x="314" y="209" type="line"/>
+      <point x="414" y="209" type="line"/>
+      <point x="414" y="646" type="line"/>
+      <point x="314" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="558" type="curve" smooth="yes"/>
+      <point x="188" y="558"/>
+      <point x="197" y="577"/>
+      <point x="205" y="597" type="curve"/>
+      <point x="184" y="574" type="line"/>
+      <point x="371" y="574" type="line"/>
+      <point x="414" y="646" type="line"/>
+      <point x="405" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="13" y="585"/>
+      <point x="58" y="558"/>
+    </contour>
+    <component base="_BhaPost_altUu" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

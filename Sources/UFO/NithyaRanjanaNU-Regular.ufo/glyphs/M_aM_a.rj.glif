@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaMa.rj" format="2">
+  <advance width="619"/>
+  <anchor x="464" y="39" name="bottom"/>
+  <anchor x="464" y="69" name="bottom2"/>
+  <anchor x="564" y="646" name="top1"/>
+  <anchor x="288" y="646" name="top2"/>
+  <anchor x="48" y="602" name="top_alt"/>
+  <anchor x="464" y="30" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="139" y="275" type="curve" smooth="yes"/>
+      <point x="177" y="275"/>
+      <point x="196" y="297"/>
+      <point x="196" y="340" type="curve" smooth="yes"/>
+      <point x="196" y="431" type="line"/>
+      <point x="141" y="383" type="line"/>
+      <point x="183" y="384"/>
+      <point x="230" y="369"/>
+      <point x="277" y="338" type="curve"/>
+      <point x="287" y="386" type="line"/>
+      <point x="238" y="440"/>
+      <point x="172" y="464"/>
+      <point x="119" y="464" type="curve" smooth="yes"/>
+      <point x="63" y="464"/>
+      <point x="22" y="426"/>
+      <point x="22" y="375" type="curve" smooth="yes"/>
+      <point x="22" y="317"/>
+      <point x="78" y="275"/>
+    </contour>
+    <contour>
+      <point x="96" y="434" type="line"/>
+      <point x="191" y="434" type="line"/>
+      <point x="191" y="654" type="line"/>
+      <point x="96" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="141" y="558" type="curve" smooth="yes"/>
+      <point x="169" y="558"/>
+      <point x="182" y="567"/>
+      <point x="182" y="597" type="curve"/>
+      <point x="188" y="569" type="line"/>
+      <point x="371" y="569" type="line"/>
+      <point x="371" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="13" y="585"/>
+      <point x="58" y="558"/>
+    </contour>
+    <component base="_MaPost1" xOffset="176"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

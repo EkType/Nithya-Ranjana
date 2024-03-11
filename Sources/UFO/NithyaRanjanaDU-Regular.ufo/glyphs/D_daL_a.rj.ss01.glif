@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaLa.rj.ss01" format="2">
+  <advance width="492"/>
+  <anchor x="344" y="46" name="bottom"/>
+  <anchor x="439" y="646" name="top1"/>
+  <anchor x="240" y="646" name="top2"/>
+  <anchor x="91" y="604" name="top_alt"/>
+  <anchor x="429" y="-10" name="bottom3"/>
+  <outline>
+    <component base="_DdaPre1" xOffset="10"/>
+    <component base="_LaPost2" xOffset="49"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_DdaPre1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_LaPost2</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

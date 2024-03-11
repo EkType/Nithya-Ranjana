@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaMa.rj" format="2">
+  <advance width="608"/>
+  <anchor x="453" y="39" name="bottom"/>
+  <anchor x="453" y="69" name="bottom2"/>
+  <anchor x="553" y="646" name="top1"/>
+  <anchor x="280" y="646" name="top2"/>
+  <anchor x="37" y="620" name="top_alt"/>
+  <anchor x="453" y="30" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="271" y="213" type="line"/>
+      <point x="366" y="213" type="line"/>
+      <point x="366" y="311" type="line"/>
+      <point x="271" y="311" type="line"/>
+    </contour>
+    <component base="_SsaPre2" xOffset="-10"/>
+    <component base="_MaPost3" xOffset="44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

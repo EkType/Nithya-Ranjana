@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaNa.rj.ss01" format="2">
+  <advance width="473"/>
+  <anchor x="318" y="9" name="bottom"/>
+  <anchor x="318" y="69" name="bottom2"/>
+  <anchor x="349" y="24" name="bottom3"/>
+  <anchor x="418" y="646" name="top1"/>
+  <anchor x="213" y="646" name="top2"/>
+  <anchor x="68" y="604" name="top_alt"/>
+  <outline>
+    <component base="_TaPre1"/>
+    <component base="_NaPost1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_Chandrabindu_alt2c.rj" format="2">
+  <advance width="2"/>
+  <anchor x="13" y="684" name="top2"/>
+  <outline>
+    <component base="_topSwatch" xOffset="-194"/>
+    <component base="matraA_alt2c.rj" xOffset="5"/>
+    <component base="Chandrabindu_alt.rj" xOffset="-101" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

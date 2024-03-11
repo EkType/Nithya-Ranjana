@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaTa.rj" format="2">
+  <advance width="482"/>
+  <anchor x="327" y="69" name="bottom"/>
+  <anchor x="427" y="646" name="top1"/>
+  <anchor x="228" y="646" name="top2"/>
+  <anchor x="54" y="617" name="top_alt"/>
+  <anchor x="327" y="40" name="bottom2"/>
+  <anchor x="443" y="-21" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="327" y="231" type="line"/>
+      <point x="427" y="231" type="line"/>
+      <point x="427" y="646" type="line"/>
+      <point x="327" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="326" type="curve" smooth="yes"/>
+      <point x="209" y="326"/>
+      <point x="237" y="350"/>
+      <point x="237" y="390" type="curve" smooth="yes"/>
+      <point x="237" y="463" type="line"/>
+      <point x="160" y="516" type="line"/>
+      <point x="94" y="516"/>
+      <point x="43" y="475"/>
+      <point x="43" y="423" type="curve" smooth="yes"/>
+      <point x="43" y="371"/>
+      <point x="97" y="326"/>
+    </contour>
+    <contour>
+      <point x="355" y="338" type="curve"/>
+      <point x="362" y="377" type="line"/>
+      <point x="321" y="431"/>
+      <point x="263" y="476"/>
+      <point x="209" y="490" type="curve"/>
+      <point x="209" y="406" type="line"/>
+      <point x="250" y="404"/>
+      <point x="294" y="381"/>
+    </contour>
+    <contour>
+      <point x="142" y="452" type="line"/>
+      <point x="237" y="452" type="line"/>
+      <point x="237" y="620" type="line"/>
+      <point x="142" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="558" type="curve" smooth="yes"/>
+      <point x="202" y="558"/>
+      <point x="221" y="577"/>
+      <point x="229" y="597" type="curve"/>
+      <point x="212" y="574" type="line"/>
+      <point x="390" y="574" type="line"/>
+      <point x="427" y="646" type="line"/>
+      <point x="417" y="654" type="line"/>
+      <point x="20" y="654" type="line"/>
+      <point x="14" y="646" type="line"/>
+      <point x="27" y="585"/>
+      <point x="72" y="558"/>
+    </contour>
+    <component base="_TaPost1" xOffset="23"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

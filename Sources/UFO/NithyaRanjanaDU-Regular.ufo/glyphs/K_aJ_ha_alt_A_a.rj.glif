@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaJha_alt_Aa.rj" format="2">
+  <advance width="753"/>
+  <anchor x="372" y="646" name="top2"/>
+  <anchor x="240" y="63" name="bottom2_1"/>
+  <anchor x="603" y="40" name="bottom2_2"/>
+  <anchor x="260" y="12" name="bottom3_1"/>
+  <anchor x="634" y="0" name="bottom3_2"/>
+  <anchor x="259" y="71" name="bottom_1"/>
+  <anchor x="603" y="35" name="bottom_2"/>
+  <anchor x="523" y="646" name="top1"/>
+  <anchor x="80" y="618" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="625" y="317" type="curve"/>
+      <point x="703" y="317" type="line"/>
+      <point x="662" y="343"/>
+      <point x="534" y="408"/>
+      <point x="472" y="434" type="curve"/>
+      <point x="472" y="377" type="line"/>
+      <point x="535" y="358"/>
+      <point x="578" y="341"/>
+    </contour>
+    <contour>
+      <point x="492" y="366" type="curve"/>
+      <point x="492" y="418" type="line"/>
+      <point x="430" y="449"/>
+      <point x="370" y="476"/>
+      <point x="305" y="500" type="curve"/>
+      <point x="305" y="430" type="line"/>
+      <point x="355" y="419"/>
+      <point x="420" y="396"/>
+    </contour>
+    <contour>
+      <point x="603" y="223" type="line"/>
+      <point x="703" y="223" type="line"/>
+      <point x="703" y="317" type="line"/>
+      <point x="603" y="344" type="line"/>
+    </contour>
+    <component base="BaJha.rj" xOffset="-5"/>
+    <component base="_terminal" xOffset="603"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

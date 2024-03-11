@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaRa.rj" format="2">
+  <advance width="502"/>
+  <anchor x="332" y="33" name="bottom"/>
+  <anchor x="330" y="56" name="bottom2"/>
+  <anchor x="304" y="9" name="bottom3"/>
+  <anchor x="105" y="588" name="top"/>
+  <anchor x="447" y="646" name="top1"/>
+  <anchor x="249" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="182" y="218" type="curve" smooth="yes"/>
+      <point x="231" y="218"/>
+      <point x="256" y="243"/>
+      <point x="256" y="294" type="curve" smooth="yes"/>
+      <point x="256" y="409" type="line"/>
+      <point x="234" y="359" type="line"/>
+      <point x="281" y="354"/>
+      <point x="328" y="335"/>
+      <point x="373" y="301" type="curve"/>
+      <point x="382" y="348" type="line"/>
+      <point x="320" y="416"/>
+      <point x="260" y="450"/>
+      <point x="170" y="450" type="curve" smooth="yes"/>
+      <point x="101" y="450"/>
+      <point x="45" y="405"/>
+      <point x="45" y="342" type="curve" smooth="yes"/>
+      <point x="45" y="270"/>
+      <point x="112" y="218"/>
+    </contour>
+    <contour>
+      <point x="186" y="529" type="curve" smooth="yes"/>
+      <point x="269" y="529"/>
+      <point x="345" y="540"/>
+      <point x="404" y="566" type="curve"/>
+      <point x="447" y="646" type="line"/>
+      <point x="438" y="654" type="line"/>
+      <point x="10" y="654" type="line"/>
+      <point x="5" y="646" type="line"/>
+      <point x="33" y="567"/>
+      <point x="93" y="529"/>
+    </contour>
+    <contour>
+      <point x="347" y="209" type="line"/>
+      <point x="447" y="209" type="line"/>
+      <point x="447" y="646" type="line"/>
+      <point x="347" y="594" type="line"/>
+    </contour>
+    <component base="_Rakar2" xOffset="-37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

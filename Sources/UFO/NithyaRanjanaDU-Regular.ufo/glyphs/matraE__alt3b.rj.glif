@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraE_alt3b.rj" format="2">
+  <advance width="186"/>
+  <outline>
+    <contour>
+      <point x="353" y="-48" type="line"/>
+      <point x="367" y="-28" type="line"/>
+      <point x="293" y="21" type="line" smooth="yes"/>
+      <point x="173" y="100"/>
+      <point x="114" y="194"/>
+      <point x="114" y="308" type="curve" smooth="yes"/>
+      <point x="114" y="427"/>
+      <point x="177" y="527"/>
+      <point x="283" y="573" type="curve"/>
+      <point x="298" y="654" type="line"/>
+      <point x="231" y="654" type="line"/>
+      <point x="107" y="604"/>
+      <point x="22" y="487"/>
+      <point x="22" y="349" type="curve" smooth="yes"/>
+      <point x="22" y="215"/>
+      <point x="101" y="102"/>
+      <point x="262" y="6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

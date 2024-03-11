@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaRa.rj" format="2">
+  <advance width="498"/>
+  <anchor x="328" y="33" name="bottom"/>
+  <anchor x="326" y="56" name="bottom2"/>
+  <anchor x="318" y="9" name="bottom3"/>
+  <anchor x="79" y="586" name="top"/>
+  <anchor x="443" y="646" name="top1"/>
+  <anchor x="259" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="139" y="539" type="curve" smooth="yes"/>
+      <point x="186" y="539"/>
+      <point x="236" y="556"/>
+      <point x="246" y="582" type="curve"/>
+      <point x="221" y="569" type="line"/>
+      <point x="409" y="569" type="line"/>
+      <point x="443" y="646" type="line"/>
+      <point x="434" y="654" type="line"/>
+      <point x="5" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="17" y="575"/>
+      <point x="65" y="539"/>
+    </contour>
+    <contour>
+      <point x="179" y="219" type="curve" smooth="yes"/>
+      <point x="223" y="219"/>
+      <point x="246" y="238"/>
+      <point x="246" y="277" type="curve" smooth="yes"/>
+      <point x="246" y="399" type="line"/>
+      <point x="158" y="444" type="line"/>
+      <point x="77" y="444"/>
+      <point x="28" y="407"/>
+      <point x="28" y="344" type="curve" smooth="yes"/>
+      <point x="28" y="276"/>
+      <point x="97" y="219"/>
+    </contour>
+    <contour>
+      <point x="367" y="279" type="curve"/>
+      <point x="374" y="318" type="line"/>
+      <point x="339" y="364"/>
+      <point x="275" y="416"/>
+      <point x="215" y="431" type="curve"/>
+      <point x="215" y="337" type="line"/>
+      <point x="265" y="334"/>
+      <point x="319" y="315"/>
+    </contour>
+    <contour>
+      <point x="144" y="371" type="line"/>
+      <point x="244" y="371" type="line"/>
+      <point x="244" y="620" type="line"/>
+      <point x="144" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="443" y="209" type="line"/>
+      <point x="443" y="646" type="line"/>
+      <point x="343" y="604" type="line"/>
+      <point x="343" y="219" type="line"/>
+    </contour>
+    <component base="_Rakar2" xOffset="-41"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

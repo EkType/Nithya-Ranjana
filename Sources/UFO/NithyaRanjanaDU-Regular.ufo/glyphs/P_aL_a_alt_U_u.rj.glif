@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaLa_alt_Uu.rj" format="2">
+  <advance width="502"/>
+  <anchor x="347" y="56" name="bottom"/>
+  <anchor x="250" y="646" name="top2"/>
+  <anchor x="373" y="42" name="bottom2"/>
+  <anchor x="77" y="616" name="top_alt"/>
+  <outline>
+    <component base="_PaPre1" xOffset="20"/>
+    <component base="_LaPost_alt_Uu" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_PaPre1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

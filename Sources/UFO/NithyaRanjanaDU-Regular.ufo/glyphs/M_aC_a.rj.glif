@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaCa.rj" format="2">
+  <advance width="481"/>
+  <anchor x="331" y="4" name="bottom"/>
+  <anchor x="327" y="67" name="bottom2"/>
+  <anchor x="426" y="646" name="top1"/>
+  <anchor x="228" y="646" name="top2"/>
+  <anchor x="52" y="621" name="top_alt"/>
+  <anchor x="375" y="-9" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="156" y="558" type="curve" smooth="yes"/>
+      <point x="203" y="558"/>
+      <point x="222" y="577"/>
+      <point x="230" y="597" type="curve"/>
+      <point x="209" y="574" type="line"/>
+      <point x="389" y="574" type="line"/>
+      <point x="426" y="646" type="line"/>
+      <point x="417" y="654" type="line"/>
+      <point x="21" y="654" type="line"/>
+      <point x="15" y="646" type="line"/>
+      <point x="28" y="585"/>
+      <point x="73" y="558"/>
+    </contour>
+    <contour>
+      <point x="163" y="343" type="curve" smooth="yes"/>
+      <point x="204" y="343"/>
+      <point x="232" y="366"/>
+      <point x="232" y="405" type="curve" smooth="yes"/>
+      <point x="232" y="475" type="line"/>
+      <point x="156" y="516" type="line"/>
+      <point x="90" y="516"/>
+      <point x="39" y="487"/>
+      <point x="39" y="436" type="curve" smooth="yes"/>
+      <point x="39" y="386"/>
+      <point x="93" y="343"/>
+    </contour>
+    <contour>
+      <point x="359" y="348" type="curve"/>
+      <point x="366" y="387" type="line"/>
+      <point x="322" y="441"/>
+      <point x="264" y="486"/>
+      <point x="210" y="500" type="curve"/>
+      <point x="210" y="416" type="line"/>
+      <point x="251" y="414"/>
+      <point x="295" y="391"/>
+    </contour>
+    <contour>
+      <point x="143" y="462" type="line"/>
+      <point x="238" y="462" type="line"/>
+      <point x="238" y="620" type="line"/>
+      <point x="143" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="331" y="251" type="line"/>
+      <point x="426" y="251" type="line"/>
+      <point x="426" y="646" type="line"/>
+      <point x="331" y="620" type="line"/>
+    </contour>
+    <component base="_CaPost1" xOffset="45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

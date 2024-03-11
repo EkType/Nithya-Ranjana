@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaYa_alt_Aa.rj" format="2">
+  <advance width="775"/>
+  <anchor x="377" y="646" name="top2"/>
+  <anchor x="89" y="604" name="top_alt"/>
+  <anchor x="450" y="40" name="bottom2_1"/>
+  <anchor x="625" y="40" name="bottom2_2"/>
+  <anchor x="481" y="0" name="bottom3_1"/>
+  <anchor x="656" y="0" name="bottom3_2"/>
+  <anchor x="450" y="35" name="bottom_1"/>
+  <anchor x="625" y="35" name="bottom_2"/>
+  <outline>
+    <contour>
+      <point x="298" y="9" type="curve"/>
+      <point x="306" y="11" type="line"/>
+      <point x="321" y="56"/>
+      <point x="361" y="81"/>
+      <point x="397" y="81" type="curve" smooth="yes"/>
+      <point x="422" y="81"/>
+      <point x="442" y="73"/>
+      <point x="465" y="61" type="curve"/>
+      <point x="474" y="100" type="line"/>
+      <point x="440" y="131"/>
+      <point x="401" y="148"/>
+      <point x="354" y="148" type="curve" smooth="yes"/>
+      <point x="289" y="148"/>
+      <point x="246" y="121"/>
+      <point x="224" y="67" type="curve"/>
+      <point x="276" y="69" type="line"/>
+      <point x="222" y="103"/>
+      <point x="178" y="130"/>
+      <point x="145" y="149" type="curve"/>
+      <point x="188" y="98" type="line"/>
+      <point x="207" y="156"/>
+      <point x="259" y="190"/>
+      <point x="330" y="190" type="curve" smooth="yes"/>
+      <point x="340" y="190"/>
+      <point x="363" y="188"/>
+      <point x="376" y="185" type="curve"/>
+      <point x="383" y="188" type="line"/>
+      <point x="368" y="215" type="line"/>
+      <point x="344" y="234"/>
+      <point x="307" y="249"/>
+      <point x="257" y="249" type="curve" smooth="yes"/>
+      <point x="179" y="249"/>
+      <point x="116" y="202"/>
+      <point x="94" y="139" type="curve"/>
+      <point x="97" y="129" type="line"/>
+      <point x="122" y="114"/>
+      <point x="198" y="68"/>
+    </contour>
+    <contour>
+      <point x="383" y="188" type="line"/>
+      <point x="383" y="276" type="line"/>
+      <point x="291" y="276" type="line"/>
+      <point x="291" y="216" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="450"/>
+    <component base="_JaPre2_alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

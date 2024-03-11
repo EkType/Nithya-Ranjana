@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaNna.rj" format="2">
+  <advance width="604"/>
+  <anchor x="449" y="-31" name="bottom"/>
+  <anchor x="475" y="44" name="bottom2"/>
+  <anchor x="480" y="-10" name="bottom3"/>
+  <anchor x="549" y="646" name="top1"/>
+  <anchor x="280" y="646" name="top2"/>
+  <anchor x="37" y="620" name="top_alt"/>
+  <outline>
+    <component base="_SsaPre2" xOffset="-10"/>
+    <component base="_NnaPost2" xOffset="37"/>
+    <component base="_Danda2" xOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

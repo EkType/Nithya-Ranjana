@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaSa.rj.ss01" format="2">
+  <advance width="653"/>
+  <anchor x="498" y="69" name="bottom"/>
+  <anchor x="609" y="-20" name="bottom3"/>
+  <anchor x="598" y="646" name="top1"/>
+  <anchor x="313" y="646" name="top2"/>
+  <anchor x="61" y="593" name="top_alt"/>
+  <anchor x="498" y="40" name="bottom2"/>
+  <outline>
+    <component base="_SaPost2" xOffset="74"/>
+    <component base="_SaPre2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSsa_alt_U_Uu.rj" format="2">
+  <advance width="717"/>
+  <anchor x="562" y="67" name="bottom"/>
+  <anchor x="527" y="68" name="bottom2"/>
+  <anchor x="357" y="646" name="top2"/>
+  <anchor x="582" y="-10" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="574" y="204" type="line"/>
+      <point x="593" y="230" type="line"/>
+      <point x="460" y="336" type="line"/>
+      <point x="430" y="296" type="line"/>
+    </contour>
+    <component base="TaPa_alt_U_Uu.rj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

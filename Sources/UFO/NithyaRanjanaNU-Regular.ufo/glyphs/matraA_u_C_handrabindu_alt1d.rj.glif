@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_Chandrabindu_alt1d.rj" format="2">
+  <advance width="19"/>
+  <anchor x="23" y="684" name="top2"/>
+  <outline>
+    <component base="matraAu_LengthMark_alt1d.rj"/>
+    <component base="Chandrabindu_alt.rj" xOffset="-91" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

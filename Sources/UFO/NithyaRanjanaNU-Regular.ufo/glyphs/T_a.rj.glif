@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ta.rj" format="2">
+  <advance width="493"/>
+  <unicode hex="1141F"/>
+  <anchor x="462" y="-26" name="bottom3"/>
+  <anchor x="78" y="594" name="top"/>
+  <anchor x="438" y="646" name="top1"/>
+  <anchor x="237" y="646" name="top2"/>
+  <anchor x="338" y="40" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="341" y="-27" type="curve"/>
+      <point x="354" y="-8" type="line"/>
+      <point x="239" y="76"/>
+      <point x="159" y="147"/>
+      <point x="102" y="230" type="curve"/>
+      <point x="122" y="166" type="line"/>
+      <point x="192" y="166"/>
+      <point x="226" y="213"/>
+      <point x="226" y="272" type="curve" smooth="yes"/>
+      <point x="226" y="290"/>
+      <point x="225" y="297"/>
+      <point x="225" y="315" type="curve" smooth="yes"/>
+      <point x="225" y="354"/>
+      <point x="246" y="375"/>
+      <point x="285" y="375" type="curve" smooth="yes"/>
+      <point x="315" y="375"/>
+      <point x="333" y="366"/>
+      <point x="375" y="329" type="curve"/>
+      <point x="374" y="378" type="line"/>
+      <point x="333" y="430"/>
+      <point x="273" y="456"/>
+      <point x="198" y="456" type="curve" smooth="yes"/>
+      <point x="96" y="456"/>
+      <point x="30" y="394"/>
+      <point x="30" y="300" type="curve" smooth="yes"/>
+      <point x="30" y="194"/>
+      <point x="126" y="97"/>
+    </contour>
+    <contour>
+      <point x="178" y="536" type="curve" smooth="yes"/>
+      <point x="269" y="536"/>
+      <point x="341" y="548"/>
+      <point x="397" y="573" type="curve"/>
+      <point x="438" y="646" type="line"/>
+      <point x="429" y="654" type="line"/>
+      <point x="0" y="654" type="line"/>
+      <point x="-5" y="646" type="line"/>
+      <point x="22" y="572"/>
+      <point x="82" y="536"/>
+    </contour>
+    <contour>
+      <point x="338" y="203" type="line"/>
+      <point x="438" y="203" type="line"/>
+      <point x="438" y="646" type="line"/>
+      <point x="338" y="618" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="338"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+    </dict>
+  </lib>
+</glyph>

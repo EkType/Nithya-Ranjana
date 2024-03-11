@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DaLa.rj" format="2">
+  <advance width="498"/>
+  <anchor x="343" y="46" name="bottom"/>
+  <anchor x="427" y="-11" name="bottom3"/>
+  <anchor x="109" y="618" name="top"/>
+  <anchor x="443" y="646" name="top1"/>
+  <anchor x="232" y="646" name="top2"/>
+  <outline>
+    <component base="_DaPre1" xOffset="10"/>
+    <component base="_LaPost" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_DaPre1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_LaPost</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

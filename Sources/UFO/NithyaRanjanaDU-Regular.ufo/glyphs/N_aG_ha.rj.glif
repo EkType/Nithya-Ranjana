@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NaGha.rj" format="2">
+  <advance width="547"/>
+  <anchor x="397" y="3" name="bottom"/>
+  <anchor x="399" y="-7" name="bottom3"/>
+  <anchor x="492" y="646" name="top1"/>
+  <anchor x="250" y="646" name="top2"/>
+  <anchor x="52" y="611" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="110" y="361" type="curve" smooth="yes"/>
+      <point x="148" y="361"/>
+      <point x="167" y="382"/>
+      <point x="167" y="426" type="curve" smooth="yes"/>
+      <point x="167" y="446"/>
+      <point x="166" y="454"/>
+      <point x="163" y="482" type="curve"/>
+      <point x="118" y="446" type="line"/>
+      <point x="160" y="446"/>
+      <point x="196" y="435"/>
+      <point x="242" y="403" type="curve"/>
+      <point x="249" y="446" type="line"/>
+      <point x="207" y="493"/>
+      <point x="155" y="510"/>
+      <point x="102" y="510" type="curve" smooth="yes"/>
+      <point x="47" y="510"/>
+      <point x="14" y="485"/>
+      <point x="14" y="444" type="curve" smooth="yes"/>
+      <point x="14" y="396"/>
+      <point x="58" y="361"/>
+    </contour>
+    <contour>
+      <point x="141" y="552" type="curve" smooth="yes"/>
+      <point x="208" y="552"/>
+      <point x="276" y="570"/>
+      <point x="296" y="584" type="curve"/>
+      <point x="296" y="654" type="line"/>
+      <point x="5" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="9" y="593"/>
+      <point x="65" y="552"/>
+    </contour>
+    <component base="_GhaPost1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

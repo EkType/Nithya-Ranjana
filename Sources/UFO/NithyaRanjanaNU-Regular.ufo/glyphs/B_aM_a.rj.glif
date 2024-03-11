@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="BaMa.rj" format="2">
+  <advance width="579"/>
+  <anchor x="424" y="39" name="bottom"/>
+  <anchor x="424" y="69" name="bottom2"/>
+  <anchor x="524" y="646" name="top1"/>
+  <anchor x="258" y="646" name="top2"/>
+  <anchor x="75" y="614" name="top_alt"/>
+  <anchor x="424" y="30" name="bottom3"/>
+  <outline>
+    <component base="_BaMaComp" xOffset="15"/>
+    <component base="_MaPost3" xOffset="15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

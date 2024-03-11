@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="BhaLa.rj.ss01" format="2">
+  <advance width="498"/>
+  <anchor x="96" y="602" name="top"/>
+  <anchor x="443" y="646" name="top1"/>
+  <anchor x="238" y="646" name="top2"/>
+  <anchor x="427" y="-11" name="bottom3"/>
+  <outline>
+    <component base="_LaPost" xOffset="21"/>
+    <component base="_BhaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_LaPost</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

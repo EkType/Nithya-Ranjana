@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PhaRa.rj" format="2">
+  <advance width="704"/>
+  <anchor x="350" y="35" name="bottom"/>
+  <anchor x="345" y="46" name="bottom2"/>
+  <anchor x="79" y="614" name="top"/>
+  <anchor x="652" y="646" name="top1"/>
+  <anchor x="371" y="646" name="top2"/>
+  <anchor x="284" y="9" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="692" y="100" type="curve"/>
+      <point x="704" y="117" type="line"/>
+      <point x="659" y="150"/>
+      <point x="652" y="167"/>
+      <point x="652" y="210" type="curve" smooth="yes"/>
+      <point x="652" y="646" type="line"/>
+      <point x="552" y="639" type="line"/>
+      <point x="552" y="210" type="line"/>
+      <point x="563" y="232" type="line"/>
+      <point x="520" y="260"/>
+      <point x="464" y="309"/>
+      <point x="438" y="332" type="curve"/>
+      <point x="419" y="271" type="line"/>
+      <point x="509" y="210"/>
+      <point x="579" y="170"/>
+    </contour>
+    <contour>
+      <point x="415" y="569" type="line"/>
+      <point x="623" y="569" type="line"/>
+      <point x="652" y="646" type="line"/>
+      <point x="644" y="654" type="line"/>
+      <point x="415" y="654" type="line"/>
+    </contour>
+    <component base="PaRa.rj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

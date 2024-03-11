@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PhaYa.rj" format="2">
+  <advance width="781"/>
+  <anchor x="732" y="646" name="top1"/>
+  <anchor x="377" y="646" name="top2"/>
+  <anchor x="47" y="620" name="top_alt"/>
+  <anchor x="449" y="69" name="bottom"/>
+  <anchor x="449" y="59" name="bottom2"/>
+  <anchor x="449" y="9" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="772" y="230" type="curve"/>
+      <point x="781" y="247" type="line"/>
+      <point x="736" y="270"/>
+      <point x="732" y="287"/>
+      <point x="732" y="330" type="curve" smooth="yes"/>
+      <point x="732" y="646" type="line"/>
+      <point x="632" y="619" type="line"/>
+      <point x="632" y="322" type="line"/>
+      <point x="646" y="336" type="line"/>
+      <point x="612" y="351"/>
+      <point x="573" y="369"/>
+      <point x="512" y="411" type="curve"/>
+      <point x="502" y="347" type="line"/>
+      <point x="560" y="321"/>
+      <point x="675" y="272"/>
+    </contour>
+    <contour>
+      <point x="498" y="351" type="curve"/>
+      <point x="498" y="407" type="line"/>
+      <point x="440" y="435"/>
+      <point x="384" y="468"/>
+      <point x="338" y="495" type="curve"/>
+      <point x="321" y="428" type="line"/>
+      <point x="349" y="416"/>
+      <point x="427" y="381"/>
+    </contour>
+    <contour>
+      <point x="517" y="574" type="line"/>
+      <point x="685" y="574" type="line"/>
+      <point x="732" y="646" type="line"/>
+      <point x="724" y="654" type="line"/>
+      <point x="517" y="654" type="line"/>
+    </contour>
+    <component base="PaYa.rj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

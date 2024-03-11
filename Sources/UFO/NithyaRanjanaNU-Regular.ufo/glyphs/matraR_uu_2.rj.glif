@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraRuu_2.rj" format="2">
+  <anchor x="247" y="19" name="_bottomRu"/>
+  <outline>
+    <contour>
+      <point x="435" y="-151" type="curve"/>
+      <point x="444" y="-136" type="line"/>
+      <point x="365" y="-97"/>
+      <point x="320" y="-81"/>
+      <point x="284" y="-81" type="curve" smooth="yes"/>
+      <point x="246" y="-81"/>
+      <point x="218" y="-94"/>
+      <point x="185" y="-115" type="curve"/>
+      <point x="229" y="-125" type="line"/>
+      <point x="151" y="-73" type="line"/>
+      <point x="166" y="-91" type="line"/>
+      <point x="202" y="-63"/>
+      <point x="231" y="-51"/>
+      <point x="267" y="-51" type="curve" smooth="yes"/>
+      <point x="299" y="-51"/>
+      <point x="339" y="-60"/>
+      <point x="375" y="-75" type="curve"/>
+      <point x="383" y="-60" type="line"/>
+      <point x="327" y="-29"/>
+      <point x="281" y="-14"/>
+      <point x="236" y="-14" type="curve" smooth="yes"/>
+      <point x="173" y="-14"/>
+      <point x="157" y="-51"/>
+      <point x="114" y="-51" type="curve" smooth="yes"/>
+      <point x="103" y="-51"/>
+      <point x="95" y="-48"/>
+      <point x="83" y="-41" type="curve"/>
+      <point x="73" y="-54" type="line"/>
+      <point x="112" y="-80"/>
+      <point x="156" y="-107"/>
+      <point x="214" y="-143" type="curve"/>
+      <point x="219" y="-143" type="line"/>
+      <point x="249" y="-125"/>
+      <point x="276" y="-117"/>
+      <point x="310" y="-117" type="curve" smooth="yes"/>
+      <point x="341" y="-117"/>
+      <point x="367" y="-122"/>
+    </contour>
+    <contour>
+      <point x="190" y="-67" type="curve"/>
+      <point x="199" y="-47" type="line"/>
+      <point x="137" y="-1" type="line"/>
+      <point x="147" y="-15" type="line"/>
+      <point x="172" y="5"/>
+      <point x="213" y="19"/>
+      <point x="247" y="19" type="curve"/>
+      <point x="224" y="64" type="line"/>
+      <point x="162" y="64"/>
+      <point x="124" y="23"/>
+      <point x="91" y="23" type="curve" smooth="yes"/>
+      <point x="80" y="23"/>
+      <point x="70" y="28"/>
+      <point x="56" y="35" type="curve"/>
+      <point x="47" y="22" type="line"/>
+      <point x="79" y="-1"/>
+      <point x="141" y="-38"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>572</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaGa.rj" format="2">
+  <advance width="559"/>
+  <anchor x="311" y="49" name="bottom"/>
+  <anchor x="311" y="69" name="bottom2"/>
+  <anchor x="311" y="30" name="bottom3"/>
+  <anchor x="253" y="646" name="top2"/>
+  <anchor x="69" y="612" name="top_alt"/>
+  <anchor x="511" y="646" name="top1"/>
+  <outline>
+    <contour>
+      <point x="183" y="57" type="curve" smooth="yes"/>
+      <point x="229" y="57"/>
+      <point x="251" y="83"/>
+      <point x="251" y="145" type="curve" smooth="yes"/>
+      <point x="251" y="262" type="line"/>
+      <point x="156" y="262" type="line"/>
+      <point x="156" y="165" type="line"/>
+      <point x="202" y="174" type="line"/>
+      <point x="188" y="193"/>
+      <point x="172" y="202"/>
+      <point x="153" y="202" type="curve" smooth="yes"/>
+      <point x="113" y="202"/>
+      <point x="119" y="156"/>
+      <point x="94" y="156" type="curve" smooth="yes"/>
+      <point x="88" y="156"/>
+      <point x="79" y="160"/>
+      <point x="69" y="168" type="curve"/>
+      <point x="57" y="156" type="line"/>
+      <point x="99" y="90"/>
+      <point x="135" y="57"/>
+    </contour>
+    <contour>
+      <point x="311" y="205" type="line"/>
+      <point x="411" y="205" type="line"/>
+      <point x="411" y="312" type="line"/>
+      <point x="311" y="281" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="311"/>
+    <component base="_NgaPre1.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

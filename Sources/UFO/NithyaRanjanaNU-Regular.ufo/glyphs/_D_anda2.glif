@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_Danda2" format="2">
+  <advance width="645"/>
+  <anchor x="497" y="25" name="bottom"/>
+  <anchor x="497" y="30" name="bottom2"/>
+  <anchor x="528" y="-10" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="497" y="213" type="line"/>
+      <point x="597" y="213" type="line"/>
+      <point x="597" y="646" type="line"/>
+      <point x="497" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="574" type="line"/>
+      <point x="567" y="574" type="line"/>
+      <point x="597" y="646" type="line"/>
+      <point x="588" y="654" type="line"/>
+      <point x="319" y="654" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="497" yOffset="-10"/>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaBa.rj" format="2">
+  <advance width="619"/>
+  <anchor x="294" y="9" name="bottom"/>
+  <anchor x="264" y="62" name="bottom2"/>
+  <anchor x="284" y="-10" name="bottom3"/>
+  <anchor x="389" y="646" name="top1"/>
+  <anchor x="304" y="646" name="top2"/>
+  <anchor x="78" y="609" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="464" y="213" type="line"/>
+      <point x="564" y="213" type="line"/>
+      <point x="564" y="455" type="line"/>
+      <point x="473" y="493" type="line"/>
+      <point x="464" y="488" type="line"/>
+    </contour>
+    <component base="_BaPost2" xOffset="25"/>
+    <component base="_terminal" xOffset="464"/>
+    <component base="_JaPre1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_terminal</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

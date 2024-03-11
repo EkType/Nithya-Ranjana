@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaNa.rj.ss01" format="2">
+  <advance width="457"/>
+  <anchor x="309" y="29" name="bottom"/>
+  <anchor x="309" y="69" name="bottom2"/>
+  <anchor x="339" y="9" name="bottom3"/>
+  <anchor x="404" y="646" name="top1"/>
+  <anchor x="198" y="646" name="top2"/>
+  <anchor x="56" y="604" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="493" y="-26" type="curve"/>
+      <point x="503" y="-8" type="line"/>
+      <point x="459" y="17" type="line" smooth="yes"/>
+      <point x="419" y="40"/>
+      <point x="404" y="61"/>
+      <point x="404" y="102" type="curve" smooth="yes"/>
+      <point x="404" y="245" type="line"/>
+      <point x="309" y="245" type="line"/>
+      <point x="309" y="69" type="line"/>
+      <point x="342" y="50"/>
+      <point x="411" y="12"/>
+    </contour>
+    <contour>
+      <point x="171" y="50" type="curve" smooth="yes"/>
+      <point x="213" y="50"/>
+      <point x="235" y="77"/>
+      <point x="235" y="115" type="curve" smooth="yes"/>
+      <point x="235" y="211" type="line"/>
+      <point x="211" y="223"/>
+      <point x="185" y="238"/>
+      <point x="165" y="238" type="curve" smooth="yes"/>
+      <point x="103" y="238"/>
+      <point x="60" y="204"/>
+      <point x="60" y="153" type="curve" smooth="yes"/>
+      <point x="60" y="93"/>
+      <point x="108" y="50"/>
+    </contour>
+    <contour>
+      <point x="333" y="117" type="curve"/>
+      <point x="349" y="146" type="line"/>
+      <point x="298" y="204"/>
+      <point x="236" y="238"/>
+      <point x="165" y="238" type="curve"/>
+      <point x="226" y="157" type="line"/>
+      <point x="264" y="154"/>
+      <point x="298" y="139"/>
+    </contour>
+    <component base="_DdaPre1" xOffset="-25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_DdaPre1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

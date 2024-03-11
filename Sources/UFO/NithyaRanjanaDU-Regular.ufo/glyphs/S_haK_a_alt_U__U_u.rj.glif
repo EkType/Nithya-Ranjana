@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ShaKa_alt_U_Uu.rj" format="2">
+  <advance width="683"/>
+  <anchor x="317" y="646" name="top2"/>
+  <anchor x="390" y="105" name="bottom"/>
+  <anchor x="402" y="36" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="728" y="-26" type="curve"/>
+      <point x="737" y="-8" type="line"/>
+      <point x="684" y="20" type="line" smooth="yes"/>
+      <point x="648" y="39"/>
+      <point x="639" y="57"/>
+      <point x="639" y="97" type="curve" smooth="yes"/>
+      <point x="639" y="200" type="line"/>
+      <point x="539" y="200" type="line"/>
+      <point x="539" y="65" type="line"/>
+      <point x="591" y="34"/>
+      <point x="648" y="9"/>
+    </contour>
+    <contour>
+      <point x="591" y="101" type="curve"/>
+      <point x="582" y="146" type="line"/>
+      <point x="507" y="198"/>
+      <point x="483" y="211"/>
+      <point x="411" y="243" type="curve"/>
+      <point x="411" y="189" type="line"/>
+      <point x="497" y="158"/>
+      <point x="523" y="143"/>
+    </contour>
+    <contour>
+      <point x="539" y="167" type="line"/>
+      <point x="639" y="167" type="line"/>
+      <point x="639" y="216" type="line"/>
+      <point x="548" y="267" type="line"/>
+      <point x="539" y="262" type="line"/>
+    </contour>
+    <contour>
+      <point x="427" y="574" type="line"/>
+      <point x="649" y="574" type="line"/>
+      <point x="653" y="581" type="line"/>
+      <point x="606" y="654" type="line"/>
+      <point x="427" y="654" type="line"/>
+    </contour>
+    <component base="ShaBa_alt_U_Uu.rj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NgaLa.rj.ss01" format="2">
+  <advance width="588"/>
+  <anchor x="326" y="46" name="bottom"/>
+  <anchor x="411" y="-10" name="bottom3"/>
+  <anchor x="540" y="646" name="top1"/>
+  <anchor x="278" y="646" name="top2"/>
+  <anchor x="82" y="601" name="top_alt"/>
+  <outline>
+    <component base="_NgaPre1"/>
+    <component base="_LaPost2" xOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_NgaPre1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSsa.rj.ss01" format="2">
+  <advance width="549"/>
+  <anchor x="394" y="-5" name="bottom"/>
+  <anchor x="364" y="50" name="bottom2"/>
+  <anchor x="494" y="646" name="top1"/>
+  <anchor x="267" y="646" name="top2"/>
+  <anchor x="56" y="624" name="top_alt"/>
+  <anchor x="389" y="-10" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="405" y="134" type="line"/>
+      <point x="422" y="159" type="line"/>
+      <point x="300" y="249" type="line"/>
+      <point x="275" y="217" type="line"/>
+    </contour>
+    <component base="_TaPre2"/>
+    <component base="_PaPost2" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

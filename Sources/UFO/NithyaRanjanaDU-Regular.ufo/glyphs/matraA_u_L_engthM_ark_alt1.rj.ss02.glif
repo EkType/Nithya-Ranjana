@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_LengthMark_alt1.rj.ss02" format="2">
+  <advance width="200"/>
+  <anchor x="177" y="754" name="top2"/>
+  <anchor x="44" y="35" name="bottom"/>
+  <anchor x="44" y="40" name="bottom2"/>
+  <anchor x="75" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="44" y="213" type="line"/>
+      <point x="144" y="213" type="line"/>
+      <point x="144" y="654" type="line"/>
+      <point x="44" y="654" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="455" type="curve"/>
+      <point x="77" y="486" type="line"/>
+      <point x="37" y="551"/>
+      <point x="3" y="599"/>
+      <point x="-56" y="654" type="curve"/>
+      <point x="-70" y="654" type="line"/>
+      <point x="-88" y="602" type="line"/>
+      <point x="-26" y="556"/>
+      <point x="26" y="508"/>
+    </contour>
+    <component base="_terminal" xOffset="44"/>
+    <component base="matraAi_LengthMark.rj.ss02" xOffset="-382"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

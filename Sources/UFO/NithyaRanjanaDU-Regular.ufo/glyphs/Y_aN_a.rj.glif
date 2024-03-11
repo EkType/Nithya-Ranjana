@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="YaNa.rj" format="2">
+  <advance width="522"/>
+  <anchor x="367" y="9" name="bottom"/>
+  <anchor x="367" y="69" name="bottom2"/>
+  <anchor x="397" y="9" name="bottom3"/>
+  <anchor x="467" y="646" name="top1"/>
+  <anchor x="247" y="646" name="top2"/>
+  <anchor x="62" y="618" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="210" y="42" type="curve" smooth="yes"/>
+      <point x="248" y="42"/>
+      <point x="270" y="64"/>
+      <point x="270" y="100" type="curve" smooth="yes"/>
+      <point x="270" y="201" type="line"/>
+      <point x="210" y="158" type="line"/>
+      <point x="265" y="158"/>
+      <point x="321" y="145"/>
+      <point x="381" y="111" type="curve"/>
+      <point x="389" y="160" type="line"/>
+      <point x="320" y="208"/>
+      <point x="256" y="234"/>
+      <point x="194" y="234" type="curve" smooth="yes"/>
+      <point x="132" y="234"/>
+      <point x="88" y="198"/>
+      <point x="88" y="147" type="curve" smooth="yes"/>
+      <point x="88" y="85"/>
+      <point x="139" y="42"/>
+    </contour>
+    <contour>
+      <point x="367" y="227" type="line"/>
+      <point x="467" y="227" type="line"/>
+      <point x="467" y="327" type="line"/>
+      <point x="367" y="327" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="367"/>
+    <component base="_YaPre1" xOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

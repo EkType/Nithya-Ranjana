@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaKa_alt_U_Uu.rj" format="2">
+  <advance width="760"/>
+  <anchor x="445" y="108" name="bottom"/>
+  <anchor x="408" y="68" name="bottom2"/>
+  <anchor x="400" y="646" name="top2"/>
+  <anchor x="646" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="667" y="114" type="curve"/>
+      <point x="658" y="159" type="line"/>
+      <point x="583" y="211"/>
+      <point x="559" y="224"/>
+      <point x="487" y="256" type="curve"/>
+      <point x="487" y="202" type="line"/>
+      <point x="573" y="171"/>
+      <point x="599" y="156"/>
+    </contour>
+    <contour>
+      <point x="615" y="190" type="line"/>
+      <point x="715" y="190" type="line"/>
+      <point x="715" y="249" type="line"/>
+      <point x="624" y="290" type="line"/>
+      <point x="615" y="285" type="line"/>
+    </contour>
+    <contour>
+      <point x="513" y="569" type="line"/>
+      <point x="695" y="569" type="line"/>
+      <point x="699" y="576" type="line"/>
+      <point x="652" y="654" type="line"/>
+      <point x="513" y="654" type="line"/>
+    </contour>
+    <component base="SaBa_alt_U_Uu.rj"/>
+    <component base="_terminal" xOffset="615"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

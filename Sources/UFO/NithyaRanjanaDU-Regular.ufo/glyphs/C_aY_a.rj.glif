@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CaYa.rj" format="2">
+  <advance width="579"/>
+  <anchor x="424" y="69" name="bottom"/>
+  <anchor x="424" y="59" name="bottom2"/>
+  <anchor x="424" y="9" name="bottom3"/>
+  <anchor x="524" y="646" name="top1"/>
+  <anchor x="269" y="646" name="top2"/>
+  <anchor x="68" y="596" name="top_alt"/>
+  <outline>
+    <component base="_CaPre2" xOffset="-25"/>
+    <component base="_YaPost2" xOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

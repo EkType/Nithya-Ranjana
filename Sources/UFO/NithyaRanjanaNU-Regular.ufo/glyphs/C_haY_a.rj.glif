@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ChaYa.rj" format="2">
+  <advance width="601"/>
+  <anchor x="446" y="59" name="bottom"/>
+  <anchor x="457" y="53" name="bottom2"/>
+  <anchor x="546" y="646" name="top1"/>
+  <anchor x="274" y="646" name="top2"/>
+  <anchor x="71" y="610" name="top_alt"/>
+  <anchor x="477" y="-10" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="287" y="-1" type="curve"/>
+      <point x="299" y="4" type="line"/>
+      <point x="311" y="47"/>
+      <point x="346" y="72"/>
+      <point x="383" y="72" type="curve" smooth="yes"/>
+      <point x="412" y="72"/>
+      <point x="431" y="65"/>
+      <point x="457" y="53" type="curve"/>
+      <point x="460" y="91" type="line"/>
+      <point x="423" y="129"/>
+      <point x="382" y="154"/>
+      <point x="327" y="154" type="curve" smooth="yes"/>
+      <point x="275" y="154"/>
+      <point x="237" y="128"/>
+      <point x="214" y="67" type="curve"/>
+      <point x="290" y="46" type="line"/>
+      <point x="237" y="79"/>
+      <point x="191" y="106"/>
+      <point x="132" y="146" type="curve"/>
+      <point x="165" y="98" type="line"/>
+      <point x="178" y="166"/>
+      <point x="225" y="205"/>
+      <point x="303" y="205" type="curve" smooth="yes"/>
+      <point x="313" y="205"/>
+      <point x="332" y="203"/>
+      <point x="351" y="198" type="curve"/>
+      <point x="358" y="202" type="line"/>
+      <point x="329" y="230" type="line"/>
+      <point x="267" y="261" type="line"/>
+      <point x="176" y="275"/>
+      <point x="101" y="231"/>
+      <point x="65" y="143" type="curve"/>
+      <point x="66" y="137" type="line"/>
+      <point x="122" y="99"/>
+      <point x="204" y="50"/>
+    </contour>
+    <contour>
+      <point x="358" y="202" type="line"/>
+      <point x="358" y="299" type="line"/>
+      <point x="258" y="299" type="line"/>
+      <point x="258" y="256" type="line"/>
+    </contour>
+    <component base="_ChaPre2" xOffset="-30"/>
+    <component base="_Danda2" xOffset="-51"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="PaSa_alt_Uu.rj" format="2">
+  <advance width="606"/>
+  <anchor x="451" y="99" name="bottom"/>
+  <anchor x="451" y="69" name="bottom2"/>
+  <anchor x="280" y="646" name="top2"/>
+  <anchor x="482" y="0" name="bottom3"/>
+  <anchor x="47" y="620" name="top_alt"/>
+  <outline>
+    <component base="_PaPre2" xOffset="-10"/>
+    <component base="_SaPost3_alt_Uu" xOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

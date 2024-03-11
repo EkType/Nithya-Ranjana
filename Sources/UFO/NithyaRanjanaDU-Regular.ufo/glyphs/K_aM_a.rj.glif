@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaMa.rj" format="2">
+  <advance width="764"/>
+  <anchor x="429" y="39" name="bottom"/>
+  <anchor x="429" y="69" name="bottom2"/>
+  <anchor x="449" y="9" name="bottom3"/>
+  <anchor x="529" y="646" name="top1"/>
+  <anchor x="379" y="646" name="top2"/>
+  <anchor x="70" y="614" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="482" y="366" type="curve"/>
+      <point x="482" y="418" type="line"/>
+      <point x="420" y="449"/>
+      <point x="360" y="476"/>
+      <point x="295" y="500" type="curve"/>
+      <point x="295" y="430" type="line"/>
+      <point x="345" y="419"/>
+      <point x="410" y="396"/>
+    </contour>
+    <contour>
+      <point x="645" y="312" type="curve"/>
+      <point x="636" y="357" type="line"/>
+      <point x="595" y="383"/>
+      <point x="554" y="403"/>
+      <point x="492" y="429" type="curve"/>
+      <point x="492" y="372" type="line"/>
+      <point x="555" y="353"/>
+      <point x="598" y="336"/>
+    </contour>
+    <contour>
+      <point x="609" y="223" type="line"/>
+      <point x="709" y="223" type="line"/>
+      <point x="709" y="435" type="line"/>
+      <point x="618" y="473" type="line"/>
+      <point x="609" y="468" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="574" type="line"/>
+      <point x="718" y="574" type="line"/>
+      <point x="725" y="582" type="line"/>
+      <point x="683" y="654" type="line"/>
+      <point x="429" y="654" type="line"/>
+    </contour>
+    <component base="BaMa.rj" xOffset="5"/>
+    <component base="_terminal" xOffset="609"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

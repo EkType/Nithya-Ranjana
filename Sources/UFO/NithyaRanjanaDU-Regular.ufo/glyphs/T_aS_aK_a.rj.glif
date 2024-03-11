@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSaKa.rj" format="2">
+  <advance width="736"/>
+  <anchor x="525" y="646" name="top1"/>
+  <anchor x="367" y="646" name="top2"/>
+  <anchor x="595" y="40" name="bottom2"/>
+  <anchor x="498" y="-8" name="bottom3"/>
+  <anchor x="63" y="617" name="top_alt"/>
+  <outline>
+    <component base="_SaKaPost" xOffset="-20"/>
+    <component base="_TaPre" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

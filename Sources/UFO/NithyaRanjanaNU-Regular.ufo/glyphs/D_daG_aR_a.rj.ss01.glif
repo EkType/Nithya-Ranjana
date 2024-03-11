@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaGaRa.rj.ss01" format="2">
+  <advance width="583"/>
+  <anchor x="419" y="5" name="bottom"/>
+  <anchor x="421" y="38" name="bottom2"/>
+  <anchor x="530" y="646" name="top1"/>
+  <anchor x="287" y="646" name="top2"/>
+  <anchor x="69" y="615" name="top_alt"/>
+  <anchor x="419" y="-17" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="180" y="287" type="curve"/>
+      <point x="189" y="288" type="line"/>
+      <point x="214" y="314"/>
+      <point x="249" y="341"/>
+      <point x="262" y="341" type="curve" smooth="yes"/>
+      <point x="267" y="341"/>
+      <point x="270" y="338"/>
+      <point x="270" y="331" type="curve" smooth="yes"/>
+      <point x="270" y="293" type="line"/>
+      <point x="362" y="293" type="line"/>
+      <point x="362" y="312" type="line" smooth="yes"/>
+      <point x="362" y="342"/>
+      <point x="350" y="360"/>
+      <point x="311" y="385" type="curve" smooth="yes"/>
+      <point x="277" y="406"/>
+      <point x="256" y="414"/>
+      <point x="236" y="414" type="curve" smooth="yes"/>
+      <point x="198" y="414"/>
+      <point x="159" y="391"/>
+      <point x="128" y="351" type="curve"/>
+      <point x="149" y="350" type="line"/>
+      <point x="89" y="401" type="line"/>
+      <point x="104" y="376" type="line"/>
+      <point x="126" y="421"/>
+      <point x="173" y="449"/>
+      <point x="228" y="449" type="curve" smooth="yes"/>
+      <point x="273" y="449"/>
+      <point x="308" y="439"/>
+      <point x="351" y="413" type="curve"/>
+      <point x="360" y="419" type="line"/>
+      <point x="309" y="490" type="line"/>
+      <point x="267" y="516"/>
+      <point x="228" y="528"/>
+      <point x="190" y="528" type="curve" smooth="yes"/>
+      <point x="107" y="528"/>
+      <point x="49" y="497"/>
+      <point x="19" y="434" type="curve" smooth="yes"/>
+      <point x="14" y="424"/>
+      <point x="16" y="416"/>
+      <point x="24" y="408" type="curve" smooth="yes"/>
+      <point x="62" y="370"/>
+      <point x="127" y="322"/>
+    </contour>
+    <contour>
+      <point x="282" y="137" type="curve" smooth="yes"/>
+      <point x="336" y="137"/>
+      <point x="362" y="167"/>
+      <point x="362" y="228" type="curve" smooth="yes"/>
+      <point x="362" y="300" type="line"/>
+      <point x="270" y="300" type="line"/>
+      <point x="270" y="243" type="line"/>
+      <point x="299" y="251" type="line"/>
+      <point x="285" y="270"/>
+      <point x="269" y="279"/>
+      <point x="250" y="279" type="curve" smooth="yes"/>
+      <point x="208" y="279"/>
+      <point x="207" y="226"/>
+      <point x="180" y="226" type="curve" smooth="yes"/>
+      <point x="174" y="226"/>
+      <point x="162" y="232"/>
+      <point x="152" y="240" type="curve"/>
+      <point x="140" y="228" type="line"/>
+      <point x="176" y="175"/>
+      <point x="235" y="137"/>
+    </contour>
+    <contour>
+      <point x="360" y="419" type="line"/>
+      <point x="360" y="601" type="line"/>
+      <point x="260" y="601" type="line"/>
+      <point x="260" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="568" type="curve" smooth="yes"/>
+      <point x="222" y="568"/>
+      <point x="256" y="572"/>
+      <point x="294" y="580" type="curve"/>
+      <point x="285" y="579" type="line"/>
+      <point x="506" y="579" type="line"/>
+      <point x="530" y="646" type="line"/>
+      <point x="521" y="654" type="line"/>
+      <point x="5" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="21" y="585"/>
+      <point x="78" y="568"/>
+    </contour>
+    <contour>
+      <point x="430" y="213" type="line"/>
+      <point x="530" y="213" type="line"/>
+      <point x="530" y="646" type="line"/>
+      <point x="430" y="608" type="line"/>
+    </contour>
+    <component base="_Rakar3" xOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RamatraU.rj" format="2">
+  <advance width="650"/>
+  <anchor x="313" y="646" name="top2"/>
+  <anchor x="315" y="40" name="bottom2_1"/>
+  <anchor x="495" y="40" name="bottom2_2"/>
+  <anchor x="346" y="0" name="bottom3_1"/>
+  <anchor x="526" y="0" name="bottom3_2"/>
+  <anchor x="315" y="35" name="bottom_1"/>
+  <anchor x="495" y="35" name="bottom_2"/>
+  <outline>
+    <contour>
+      <point x="234" y="177" type="curve" smooth="yes"/>
+      <point x="297" y="177"/>
+      <point x="359" y="208"/>
+      <point x="359" y="265" type="curve"/>
+      <point x="330" y="405" type="line"/>
+      <point x="305" y="428"/>
+      <point x="263" y="445"/>
+      <point x="227" y="445" type="curve" smooth="yes"/>
+      <point x="116" y="445"/>
+      <point x="110" y="346"/>
+      <point x="66" y="346" type="curve" smooth="yes"/>
+      <point x="55" y="346"/>
+      <point x="41" y="354"/>
+      <point x="28" y="370" type="curve"/>
+      <point x="10" y="357" type="line"/>
+      <point x="72" y="229"/>
+      <point x="145" y="177"/>
+    </contour>
+    <contour>
+      <point x="552" y="213" type="curve"/>
+      <point x="543" y="267" type="line"/>
+      <point x="484" y="307"/>
+      <point x="449" y="333"/>
+      <point x="362" y="371" type="curve"/>
+      <point x="362" y="304" type="line"/>
+      <point x="445" y="275"/>
+      <point x="482" y="256"/>
+    </contour>
+    <contour>
+      <point x="315" y="213" type="line"/>
+      <point x="415" y="213" type="line"/>
+      <point x="415" y="606" type="line"/>
+      <point x="315" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="495" y="203" type="line"/>
+      <point x="595" y="203" type="line"/>
+      <point x="595" y="355" type="line"/>
+      <point x="504" y="393" type="line"/>
+      <point x="495" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="532" type="curve" smooth="yes"/>
+      <point x="354" y="532"/>
+      <point x="518" y="554"/>
+      <point x="604" y="576" type="curve"/>
+      <point x="611" y="584" type="line"/>
+      <point x="569" y="654" type="line"/>
+      <point x="16" y="654" type="line"/>
+      <point x="10" y="644" type="line"/>
+      <point x="36" y="568"/>
+      <point x="121" y="532"/>
+    </contour>
+    <component base="_terminal" xOffset="315"/>
+    <component base="_terminal" xOffset="495"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

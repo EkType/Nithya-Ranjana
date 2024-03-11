@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaSsaHalant.rj" format="2">
+  <advance width="651"/>
+  <anchor x="338" y="25" name="bottom"/>
+  <anchor x="318" y="33" name="bottom2"/>
+  <anchor x="338" y="-2" name="bottom3"/>
+  <anchor x="426" y="646" name="top1"/>
+  <anchor x="323" y="646" name="top2"/>
+  <anchor x="75" y="604" name="top_alt"/>
+  <outline>
+    <component base="KaSsa.rj"/>
+    <component base="Halant.rj" xOffset="123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

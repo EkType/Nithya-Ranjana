@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAi_Bindu_LengthMark.rj" format="2">
+  <anchor x="543" y="646" name="_top1"/>
+  <anchor x="606" y="684" name="top2"/>
+  <outline>
+    <component base="Bindu_alt.rj" xOffset="472" yOffset="38"/>
+    <component base="matraAi_LengthMark.rj"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

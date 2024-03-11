@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DhaSa_alt_Uu.rj" format="2">
+  <advance width="583"/>
+  <anchor x="428" y="99" name="bottom"/>
+  <anchor x="297" y="646" name="top2"/>
+  <anchor x="428" y="69" name="bottom2"/>
+  <anchor x="459" y="0" name="bottom3"/>
+  <outline>
+    <component base="_DhaPre2" xOffset="15"/>
+    <component base="_SaPost3_alt_Uu" xOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

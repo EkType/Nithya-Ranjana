@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_Rakar1" format="2">
+  <advance width="647"/>
+  <anchor x="307" y="35" name="bottom"/>
+  <anchor x="302" y="46" name="bottom2"/>
+  <anchor x="258" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="511" y="-56" type="curve"/>
+      <point x="519" y="-38" type="line"/>
+      <point x="467" y="-10" type="line" smooth="yes"/>
+      <point x="433" y="8"/>
+      <point x="419" y="29"/>
+      <point x="419" y="70" type="curve" smooth="yes"/>
+      <point x="419" y="263" type="line"/>
+      <point x="319" y="263" type="line"/>
+      <point x="319" y="162" type="line" smooth="yes"/>
+      <point x="319" y="119"/>
+      <point x="293" y="102"/>
+      <point x="255" y="100" type="curve" smooth="yes"/>
+      <point x="199" y="98"/>
+      <point x="117" y="126"/>
+      <point x="55" y="148" type="curve"/>
+      <point x="45" y="126" type="line"/>
+      <point x="177" y="68"/>
+      <point x="363" y="-3"/>
+    </contour>
+  </outline>
+</glyph>

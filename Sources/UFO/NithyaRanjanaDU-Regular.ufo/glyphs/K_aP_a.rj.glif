@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaPa.rj" format="2">
+  <advance width="762"/>
+  <anchor x="422" y="5" name="bottom"/>
+  <anchor x="387" y="68" name="bottom2"/>
+  <anchor x="360" y="9" name="bottom3"/>
+  <anchor x="522" y="646" name="top1"/>
+  <anchor x="374" y="646" name="top2"/>
+  <anchor x="85" y="618" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="495" y="360" type="curve"/>
+      <point x="495" y="412" type="line"/>
+      <point x="433" y="443"/>
+      <point x="373" y="470"/>
+      <point x="308" y="494" type="curve"/>
+      <point x="308" y="424" type="line"/>
+      <point x="358" y="413"/>
+      <point x="423" y="390"/>
+    </contour>
+    <contour>
+      <point x="648" y="306" type="curve"/>
+      <point x="640" y="349" type="line"/>
+      <point x="599" y="375"/>
+      <point x="557" y="393"/>
+      <point x="495" y="423" type="curve"/>
+      <point x="495" y="366" type="line"/>
+      <point x="558" y="347"/>
+      <point x="601" y="330"/>
+    </contour>
+    <contour>
+      <point x="607" y="217" type="line"/>
+      <point x="707" y="217" type="line"/>
+      <point x="707" y="429" type="line"/>
+      <point x="616" y="467" type="line"/>
+      <point x="607" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="432" y="579" type="line"/>
+      <point x="716" y="579" type="line"/>
+      <point x="723" y="587" type="line"/>
+      <point x="681" y="654" type="line"/>
+      <point x="432" y="654" type="line"/>
+    </contour>
+    <component base="_KaPa" xOffset="5"/>
+    <component base="_terminal" xOffset="607"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="VaLa.rj" format="2">
+  <advance width="488"/>
+  <anchor x="333" y="46" name="bottom"/>
+  <anchor x="417" y="-11" name="bottom3"/>
+  <anchor x="433" y="646" name="top1"/>
+  <anchor x="217" y="646" name="top2"/>
+  <anchor x="83" y="605" name="top_alt"/>
+  <outline>
+    <component base="_VaPre1" xOffset="5"/>
+    <component base="_LaPost" xOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_VaPre1</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_LaPost</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

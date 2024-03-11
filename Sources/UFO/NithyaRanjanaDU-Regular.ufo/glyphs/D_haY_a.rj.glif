@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DhaYa.rj" format="2">
+  <advance width="606"/>
+  <anchor x="451" y="69" name="bottom"/>
+  <anchor x="451" y="59" name="bottom2"/>
+  <anchor x="451" y="9" name="bottom3"/>
+  <anchor x="551" y="646" name="top1"/>
+  <anchor x="297" y="646" name="top2"/>
+  <outline>
+    <component base="_DhaPre2" xOffset="40"/>
+    <component base="_YaPost2" xOffset="74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

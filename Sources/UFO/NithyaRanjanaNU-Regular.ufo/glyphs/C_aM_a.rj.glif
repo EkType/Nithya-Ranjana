@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="CaMa.rj" format="2">
+  <advance width="576"/>
+  <anchor x="421" y="39" name="bottom"/>
+  <anchor x="421" y="69" name="bottom2"/>
+  <anchor x="521" y="646" name="top1"/>
+  <anchor x="264" y="646" name="top2"/>
+  <anchor x="63" y="596" name="top_alt"/>
+  <anchor x="421" y="30" name="bottom3"/>
+  <outline>
+    <component base="_CaPre2" xOffset="-30"/>
+    <component base="_MaPost3" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

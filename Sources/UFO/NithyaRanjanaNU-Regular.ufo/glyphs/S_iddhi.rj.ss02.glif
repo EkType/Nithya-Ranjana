@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Siddhi.rj.ss02" format="2">
+  <advance width="412"/>
+  <outline>
+    <contour>
+      <point x="442" y="-27" type="curve"/>
+      <point x="456" y="-11" type="line"/>
+      <point x="408" y="34" type="line" smooth="yes"/>
+      <point x="371" y="68"/>
+      <point x="356" y="106"/>
+      <point x="356" y="156" type="curve" smooth="yes"/>
+      <point x="356" y="646" type="line"/>
+      <point x="256" y="610" type="line"/>
+      <point x="256" y="297" type="line" smooth="yes"/>
+      <point x="256" y="253"/>
+      <point x="238" y="234"/>
+      <point x="205" y="234" type="curve" smooth="yes"/>
+      <point x="165" y="234"/>
+      <point x="103" y="279"/>
+      <point x="42" y="325" type="curve"/>
+      <point x="29" y="307" type="line"/>
+      <point x="97" y="247"/>
+      <point x="356" y="39"/>
+    </contour>
+    <contour>
+      <point x="125" y="367" type="curve" smooth="yes"/>
+      <point x="157" y="367"/>
+      <point x="183" y="386"/>
+      <point x="183" y="421" type="curve" smooth="yes"/>
+      <point x="183" y="448"/>
+      <point x="162" y="468"/>
+      <point x="131" y="468" type="curve" smooth="yes"/>
+      <point x="105" y="468"/>
+      <point x="86" y="452"/>
+      <point x="84" y="426" type="curve"/>
+      <point x="99" y="390" type="line"/>
+      <point x="154" y="383" type="line"/>
+      <point x="133" y="398"/>
+      <point x="120" y="422"/>
+      <point x="120" y="457" type="curve" smooth="yes"/>
+      <point x="120" y="501"/>
+      <point x="171" y="554"/>
+      <point x="249" y="554" type="curve"/>
+      <point x="174" y="597" type="line"/>
+      <point x="103" y="581"/>
+      <point x="55" y="527"/>
+      <point x="55" y="452" type="curve" smooth="yes"/>
+      <point x="55" y="403"/>
+      <point x="82" y="367"/>
+    </contour>
+    <contour>
+      <point x="169" y="554" type="curve" smooth="yes"/>
+      <point x="187" y="554"/>
+      <point x="277" y="554"/>
+      <point x="317" y="554" type="curve"/>
+      <point x="356" y="646" type="line"/>
+      <point x="349" y="654" type="line"/>
+      <point x="12" y="654" type="line"/>
+      <point x="8" y="646" type="line"/>
+      <point x="32" y="587"/>
+      <point x="86" y="554"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+    </dict>
+  </lib>
+</glyph>

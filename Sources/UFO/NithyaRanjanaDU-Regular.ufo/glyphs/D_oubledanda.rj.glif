@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Doubledanda.rj" format="2">
+  <advance width="442"/>
+  <unicode hex="0965"/>
+  <anchor x="84" y="40" name="bottom2_1"/>
+  <anchor x="285" y="40" name="bottom2_2"/>
+  <anchor x="115" y="0" name="bottom3_1"/>
+  <anchor x="316" y="0" name="bottom3_2"/>
+  <anchor x="84" y="35" name="bottom_1"/>
+  <anchor x="285" y="35" name="bottom_2"/>
+  <outline>
+    <component base="Danda.rj"/>
+    <component base="Danda.rj" xOffset="201"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+    </dict>
+  </lib>
+</glyph>

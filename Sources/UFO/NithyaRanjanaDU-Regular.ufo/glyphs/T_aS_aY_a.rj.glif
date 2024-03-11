@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSaYa.rj" format="2">
+  <advance width="736"/>
+  <anchor x="591" y="69" name="bottom"/>
+  <anchor x="611" y="53" name="bottom2"/>
+  <anchor x="646" y="-17" name="bottom3"/>
+  <anchor x="681" y="646" name="top1"/>
+  <anchor x="367" y="646" name="top2"/>
+  <anchor x="69" y="614" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="145" y="270" type="curve"/>
+      <point x="161" y="289" type="line"/>
+      <point x="124" y="327"/>
+      <point x="102" y="352"/>
+      <point x="65" y="400" type="curve"/>
+      <point x="66" y="358" type="line"/>
+      <point x="83" y="348" type="line"/>
+      <point x="117" y="349"/>
+      <point x="136" y="362"/>
+      <point x="148" y="394" type="curve" smooth="yes"/>
+      <point x="162" y="430"/>
+      <point x="175" y="442"/>
+      <point x="202" y="442" type="curve" smooth="yes"/>
+      <point x="222" y="442"/>
+      <point x="248" y="426"/>
+      <point x="273" y="398" type="curve"/>
+      <point x="271" y="449" type="line"/>
+      <point x="221" y="495"/>
+      <point x="183" y="513"/>
+      <point x="128" y="513" type="curve" smooth="yes"/>
+      <point x="72" y="513"/>
+      <point x="29" y="471"/>
+      <point x="29" y="419" type="curve" smooth="yes"/>
+      <point x="29" y="363"/>
+      <point x="64" y="328"/>
+    </contour>
+    <contour>
+      <point x="146" y="558" type="curve" smooth="yes"/>
+      <point x="194" y="558"/>
+      <point x="282" y="569"/>
+      <point x="313" y="580" type="curve"/>
+      <point x="333" y="654" type="line"/>
+      <point x="4" y="654" type="line"/>
+      <point x="0" y="645" type="line"/>
+      <point x="20" y="586"/>
+      <point x="68" y="558"/>
+    </contour>
+    <component base="_SaYaPost" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="GaDa.rj" format="2">
+  <advance width="463"/>
+  <anchor x="315" y="-1" name="bottom"/>
+  <anchor x="315" y="19" name="bottom2"/>
+  <anchor x="315" y="-6" name="bottom3"/>
+  <anchor x="409" y="646" name="top1"/>
+  <anchor x="234" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="144" y="364" type="curve" smooth="yes"/>
+      <point x="194" y="364"/>
+      <point x="224" y="395"/>
+      <point x="224" y="448" type="curve" smooth="yes"/>
+      <point x="224" y="609" type="line"/>
+      <point x="129" y="609" type="line"/>
+      <point x="129" y="465" type="line"/>
+      <point x="159" y="494" type="line"/>
+      <point x="149" y="504"/>
+      <point x="135" y="510"/>
+      <point x="120" y="510" type="curve" smooth="yes"/>
+      <point x="74" y="510"/>
+      <point x="85" y="449"/>
+      <point x="58" y="449" type="curve" smooth="yes"/>
+      <point x="52" y="449"/>
+      <point x="43" y="453"/>
+      <point x="33" y="461" type="curve"/>
+      <point x="21" y="449" type="line"/>
+      <point x="53" y="396"/>
+      <point x="98" y="364"/>
+    </contour>
+    <contour>
+      <point x="136" y="558" type="curve" smooth="yes"/>
+      <point x="183" y="558"/>
+      <point x="192" y="577"/>
+      <point x="200" y="597" type="curve"/>
+      <point x="174" y="574" type="line"/>
+      <point x="366" y="574" type="line"/>
+      <point x="409" y="646" type="line"/>
+      <point x="400" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="13" y="585"/>
+      <point x="53" y="558"/>
+    </contour>
+    <contour>
+      <point x="309" y="288" type="line"/>
+      <point x="409" y="288" type="line"/>
+      <point x="409" y="646" type="line"/>
+      <point x="309" y="608" type="line"/>
+    </contour>
+    <component base="_DaPost1" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

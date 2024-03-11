@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bha_alt_U_Uu.rj" format="2">
+  <advance width="505"/>
+  <anchor x="350" y="195" name="bottom"/>
+  <anchor x="350" y="49" name="bottom2"/>
+  <anchor x="94" y="584" name="top"/>
+  <anchor x="450" y="646" name="top1"/>
+  <anchor x="254" y="646" name="top2"/>
+  <anchor x="381" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="224" y="105" type="curve"/>
+      <point x="243" y="121" type="line"/>
+      <point x="186" y="182"/>
+      <point x="146" y="231"/>
+      <point x="108" y="300" type="curve"/>
+      <point x="133" y="211" type="line"/>
+      <point x="283" y="251"/>
+      <point x="185" y="377"/>
+      <point x="310" y="377" type="curve" smooth="yes"/>
+      <point x="328" y="377"/>
+      <point x="351" y="365"/>
+      <point x="380" y="331" type="curve"/>
+      <point x="375" y="408" type="line"/>
+      <point x="329" y="447"/>
+      <point x="285" y="464"/>
+      <point x="247" y="464" type="curve" smooth="yes"/>
+      <point x="114" y="464"/>
+      <point x="124" y="349"/>
+      <point x="52" y="349" type="curve" smooth="yes"/>
+      <point x="44" y="349"/>
+      <point x="30" y="355"/>
+      <point x="18" y="365" type="curve"/>
+      <point x="0" y="349" type="line"/>
+      <point x="70" y="250"/>
+      <point x="142" y="179"/>
+    </contour>
+    <contour>
+      <point x="184" y="536" type="curve" smooth="yes"/>
+      <point x="275" y="536"/>
+      <point x="353" y="548"/>
+      <point x="409" y="573" type="curve"/>
+      <point x="450" y="646" type="line"/>
+      <point x="441" y="654" type="line"/>
+      <point x="6" y="654" type="line"/>
+      <point x="1" y="646" type="line"/>
+      <point x="28" y="572"/>
+      <point x="88" y="536"/>
+    </contour>
+    <contour>
+      <point x="350" y="203" type="line"/>
+      <point x="450" y="203" type="line"/>
+      <point x="450" y="646" type="line"/>
+      <point x="350" y="618" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaBa.rj" format="2">
+  <advance width="476"/>
+  <anchor x="321" y="-10" name="bottom"/>
+  <anchor x="299" y="61" name="bottom2"/>
+  <anchor x="287" y="0" name="bottom3"/>
+  <anchor x="421" y="646" name="top1"/>
+  <anchor x="228" y="646" name="top2"/>
+  <anchor x="49" y="619" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="321" y="231" type="line"/>
+      <point x="421" y="231" type="line"/>
+      <point x="421" y="646" type="line"/>
+      <point x="321" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="343" type="curve" smooth="yes"/>
+      <point x="199" y="343"/>
+      <point x="227" y="366"/>
+      <point x="227" y="405" type="curve" smooth="yes"/>
+      <point x="227" y="475" type="line"/>
+      <point x="151" y="516" type="line"/>
+      <point x="85" y="516"/>
+      <point x="34" y="487"/>
+      <point x="34" y="436" type="curve" smooth="yes"/>
+      <point x="34" y="386"/>
+      <point x="88" y="343"/>
+    </contour>
+    <contour>
+      <point x="354" y="348" type="curve"/>
+      <point x="361" y="387" type="line"/>
+      <point x="317" y="441"/>
+      <point x="259" y="486"/>
+      <point x="205" y="500" type="curve"/>
+      <point x="205" y="416" type="line"/>
+      <point x="246" y="414"/>
+      <point x="290" y="391"/>
+    </contour>
+    <contour>
+      <point x="138" y="462" type="line"/>
+      <point x="233" y="462" type="line"/>
+      <point x="233" y="620" type="line"/>
+      <point x="138" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="558" type="curve" smooth="yes"/>
+      <point x="198" y="558"/>
+      <point x="217" y="577"/>
+      <point x="225" y="597" type="curve"/>
+      <point x="204" y="574" type="line"/>
+      <point x="384" y="574" type="line"/>
+      <point x="421" y="646" type="line"/>
+      <point x="412" y="654" type="line"/>
+      <point x="16" y="654" type="line"/>
+      <point x="10" y="646" type="line"/>
+      <point x="23" y="585"/>
+      <point x="68" y="558"/>
+    </contour>
+    <component base="_BaPost1" xOffset="58"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

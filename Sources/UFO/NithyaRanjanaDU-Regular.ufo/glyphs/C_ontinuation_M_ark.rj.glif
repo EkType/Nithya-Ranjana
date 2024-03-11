@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Continuation_Mark.rj" format="2">
+  <advance width="241"/>
+  <unicode hex="1144E"/>
+  <outline>
+    <contour>
+      <point x="273" y="-26" type="curve"/>
+      <point x="283" y="-8" type="line"/>
+      <point x="239" y="17" type="line" smooth="yes"/>
+      <point x="199" y="40"/>
+      <point x="184" y="61"/>
+      <point x="184" y="102" type="curve" smooth="yes"/>
+      <point x="184" y="145" type="line"/>
+      <point x="84" y="145" type="line"/>
+      <point x="84" y="69" type="line"/>
+      <point x="117" y="50"/>
+      <point x="191" y="12"/>
+    </contour>
+    <contour>
+      <point x="84" y="137" type="line"/>
+      <point x="184" y="137" type="line"/>
+      <point x="184" y="190" type="line"/>
+      <point x="94" y="243" type="line"/>
+      <point x="84" y="236" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="257" type="line"/>
+      <point x="184" y="264" type="line"/>
+      <point x="184" y="398" type="line"/>
+      <point x="94" y="451" type="line"/>
+      <point x="84" y="444" type="line"/>
+      <point x="84" y="310" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="465" type="line"/>
+      <point x="184" y="472" type="line"/>
+      <point x="184" y="654" type="line"/>
+      <point x="84" y="654" type="line"/>
+      <point x="84" y="518" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_Chandrabindu.rj.ss02" format="2">
+  <advance width="200"/>
+  <anchor x="207" y="684" name="top2"/>
+  <anchor x="44" y="35" name="bottom"/>
+  <anchor x="44" y="40" name="bottom2"/>
+  <anchor x="75" y="0" name="bottom3"/>
+  <anchor x="144" y="648" name="top1"/>
+  <outline>
+    <component base="matraA.rj"/>
+    <component base="matraAi_LengthMark.rj.ss02" xOffset="-381"/>
+    <component base="Chandrabindu_alt.rj" xScale="0.7" yScale="0.7" xOffset="65" yOffset="316"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraAu_Bindu_alt1.rj" format="2">
+  <advance width="199"/>
+  <anchor x="44" y="35" name="bottom"/>
+  <anchor x="44" y="40" name="bottom2"/>
+  <anchor x="75" y="0" name="bottom3"/>
+  <anchor x="207" y="684" name="top2"/>
+  <outline>
+    <component base="matraAu_LengthMark_alt1.rj"/>
+    <component base="Bindu_alt.rj" xOffset="73" yOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

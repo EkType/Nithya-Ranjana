@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraE_1.rj" format="2">
+  <anchor x="119" y="603" name="_top_alt"/>
+  <outline>
+    <contour>
+      <point x="77" y="502" type="curve" smooth="yes"/>
+      <point x="95" y="502"/>
+      <point x="105" y="511"/>
+      <point x="105" y="526" type="curve" smooth="yes"/>
+      <point x="105" y="540"/>
+      <point x="96" y="550"/>
+      <point x="82" y="550" type="curve" smooth="yes"/>
+      <point x="70" y="550"/>
+      <point x="62" y="544"/>
+      <point x="60" y="531" type="curve"/>
+      <point x="72" y="538" type="line"/>
+      <point x="72" y="566"/>
+      <point x="97" y="582"/>
+      <point x="133" y="582" type="curve"/>
+      <point x="119" y="603" type="line"/>
+      <point x="85" y="606"/>
+      <point x="41" y="584"/>
+      <point x="41" y="541" type="curve" smooth="yes"/>
+      <point x="41" y="518"/>
+      <point x="55" y="502"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>153</integer>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Nonspacing</string>
+    </dict>
+  </lib>
+</glyph>

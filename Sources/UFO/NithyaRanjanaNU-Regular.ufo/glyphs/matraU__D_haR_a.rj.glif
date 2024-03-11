@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="matraU_DhaRa.rj" format="2">
+  <advance width="175"/>
+  <anchor x="-134" y="646" name="top2"/>
+  <anchor x="25" y="35" name="bottom"/>
+  <anchor x="25" y="40" name="bottom2"/>
+  <anchor x="56" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="82" y="243" type="curve"/>
+      <point x="73" y="297" type="line"/>
+      <point x="14" y="337"/>
+      <point x="-21" y="363"/>
+      <point x="-108" y="401" type="curve"/>
+      <point x="-108" y="334" type="line"/>
+      <point x="-25" y="305"/>
+      <point x="12" y="286"/>
+    </contour>
+    <contour>
+      <point x="25" y="203" type="line"/>
+      <point x="125" y="203" type="line"/>
+      <point x="125" y="385" type="line"/>
+      <point x="34" y="423" type="line"/>
+      <point x="25" y="418" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="25"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Matra</string>
+    </dict>
+  </lib>
+</glyph>

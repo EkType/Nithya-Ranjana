@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SsaNa.rj" format="2">
+  <advance width="492"/>
+  <anchor x="337" y="9" name="bottom"/>
+  <anchor x="337" y="69" name="bottom2"/>
+  <anchor x="367" y="30" name="bottom3"/>
+  <anchor x="437" y="646" name="top1"/>
+  <anchor x="250" y="646" name="top2"/>
+  <anchor x="77" y="616" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="180" y="42" type="curve" smooth="yes"/>
+      <point x="218" y="42"/>
+      <point x="240" y="64"/>
+      <point x="240" y="100" type="curve" smooth="yes"/>
+      <point x="240" y="201" type="line"/>
+      <point x="180" y="158" type="line"/>
+      <point x="235" y="158"/>
+      <point x="291" y="145"/>
+      <point x="351" y="111" type="curve"/>
+      <point x="359" y="160" type="line"/>
+      <point x="290" y="208"/>
+      <point x="226" y="234"/>
+      <point x="164" y="234" type="curve" smooth="yes"/>
+      <point x="102" y="234"/>
+      <point x="58" y="198"/>
+      <point x="58" y="147" type="curve" smooth="yes"/>
+      <point x="58" y="85"/>
+      <point x="109" y="42"/>
+    </contour>
+    <component base="_terminal" xOffset="337"/>
+    <component base="_SsaPre1" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LaPaYa.rj" format="2">
+  <advance width="757"/>
+  <anchor x="602" y="88" name="bottom"/>
+  <anchor x="622" y="38" name="bottom2"/>
+  <anchor x="670" y="-22" name="bottom3"/>
+  <anchor x="702" y="646" name="top1"/>
+  <anchor x="380" y="646" name="top2"/>
+  <anchor x="61" y="612" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="530" y="129" type="line"/>
+      <point x="530" y="630" type="line"/>
+      <point x="430" y="630" type="line"/>
+      <point x="430" y="178" type="line"/>
+      <point x="459" y="244" type="line"/>
+      <point x="427" y="254"/>
+      <point x="408" y="259"/>
+      <point x="379" y="259" type="curve" smooth="yes"/>
+      <point x="312" y="259"/>
+      <point x="282" y="205"/>
+      <point x="300" y="164" type="curve"/>
+      <point x="432" y="169" type="line"/>
+      <point x="311" y="185"/>
+      <point x="255" y="196"/>
+      <point x="255" y="246" type="curve" smooth="yes"/>
+      <point x="255" y="276"/>
+      <point x="283" y="294"/>
+      <point x="322" y="294" type="curve" smooth="yes"/>
+      <point x="331" y="294"/>
+      <point x="344" y="294"/>
+      <point x="352" y="293" type="curve"/>
+      <point x="358" y="296" type="line"/>
+      <point x="358" y="630" type="line"/>
+      <point x="268" y="630" type="line"/>
+      <point x="268" y="315" type="line"/>
+      <point x="336" y="323" type="line"/>
+      <point x="311" y="330"/>
+      <point x="284" y="337"/>
+      <point x="265" y="337" type="curve" smooth="yes"/>
+      <point x="187" y="337"/>
+      <point x="148" y="303"/>
+      <point x="148" y="259" type="curve" smooth="yes"/>
+      <point x="148" y="197"/>
+      <point x="216" y="164"/>
+      <point x="412" y="142" type="curve"/>
+    </contour>
+    <contour>
+      <point x="153" y="335" type="curve"/>
+      <point x="160" y="351" type="line"/>
+      <point x="124" y="369"/>
+      <point x="106" y="390"/>
+      <point x="106" y="417" type="curve" smooth="yes"/>
+      <point x="106" y="443"/>
+      <point x="129" y="462"/>
+      <point x="159" y="462" type="curve" smooth="yes"/>
+      <point x="170" y="462"/>
+      <point x="181" y="459"/>
+      <point x="198" y="450" type="curve"/>
+      <point x="188" y="482" type="line"/>
+      <point x="169" y="508"/>
+      <point x="136" y="520"/>
+      <point x="104" y="520" type="curve"/>
+      <point x="58" y="520"/>
+      <point x="25" y="488"/>
+      <point x="25" y="445" type="curve" smooth="yes"/>
+      <point x="25" y="394"/>
+      <point x="67" y="357"/>
+    </contour>
+    <contour>
+      <point x="791" y="-46" type="curve"/>
+      <point x="681" y="28" type="line" smooth="yes"/>
+      <point x="618" y="70"/>
+      <point x="558" y="92"/>
+      <point x="506" y="92" type="curve" smooth="yes"/>
+      <point x="457" y="92"/>
+      <point x="421" y="80"/>
+      <point x="389" y="32" type="curve"/>
+      <point x="452" y="8" type="line"/>
+      <point x="405" y="37"/>
+      <point x="364" y="63"/>
+      <point x="312" y="99" type="curve"/>
+      <point x="354" y="50" type="line"/>
+      <point x="379" y="100"/>
+      <point x="425" y="128"/>
+      <point x="474" y="128" type="curve" smooth="yes"/>
+      <point x="489" y="128"/>
+      <point x="507" y="127"/>
+      <point x="524" y="124" type="curve"/>
+      <point x="530" y="129" type="line"/>
+      <point x="417" y="160" type="line"/>
+      <point x="324" y="160"/>
+      <point x="289" y="148"/>
+      <point x="257" y="93" type="curve"/>
+      <point x="258" y="84" type="line"/>
+      <point x="315" y="50"/>
+      <point x="364" y="21"/>
+      <point x="453" y="-24" type="curve"/>
+      <point x="469" y="-19" type="line"/>
+      <point x="493" y="13"/>
+      <point x="527" y="28"/>
+      <point x="572" y="28" type="curve" smooth="yes"/>
+      <point x="617" y="28"/>
+      <point x="691" y="1"/>
+    </contour>
+    <contour>
+      <point x="207" y="378" type="curve" smooth="yes"/>
+      <point x="227" y="378"/>
+      <point x="237" y="385"/>
+      <point x="237" y="399" type="curve" smooth="yes"/>
+      <point x="237" y="496" type="line"/>
+      <point x="222" y="464" type="line"/>
+      <point x="237" y="462"/>
+      <point x="261" y="456"/>
+      <point x="281" y="448" type="curve"/>
+      <point x="287" y="485" type="line"/>
+      <point x="254" y="506"/>
+      <point x="212" y="523"/>
+      <point x="178" y="534" type="curve"/>
+      <point x="171" y="530" type="line"/>
+      <point x="171" y="430" type="line"/>
+      <point x="184" y="442" type="line"/>
+      <point x="161" y="442"/>
+      <point x="144" y="431"/>
+      <point x="144" y="415" type="curve" smooth="yes"/>
+      <point x="144" y="397"/>
+      <point x="170" y="378"/>
+    </contour>
+    <contour>
+      <point x="191" y="565" type="curve" smooth="yes"/>
+      <point x="241" y="565"/>
+      <point x="267" y="568"/>
+      <point x="315" y="577" type="curve" smooth="yes"/>
+      <point x="347" y="583" type="line"/>
+      <point x="478" y="583" type="line"/>
+      <point x="478" y="654" type="line"/>
+      <point x="13" y="654" type="line"/>
+      <point x="8" y="646" type="line"/>
+      <point x="30" y="586"/>
+      <point x="90" y="565"/>
+    </contour>
+    <contour>
+      <point x="602" y="171" type="line"/>
+      <point x="702" y="171" type="line"/>
+      <point x="702" y="646" type="line"/>
+      <point x="602" y="646" type="line"/>
+    </contour>
+    <contour>
+      <point x="474" y="584" type="line"/>
+      <point x="678" y="584" type="line"/>
+      <point x="702" y="646" type="line"/>
+      <point x="693" y="654" type="line"/>
+      <point x="474" y="654" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="602" yOffset="-20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

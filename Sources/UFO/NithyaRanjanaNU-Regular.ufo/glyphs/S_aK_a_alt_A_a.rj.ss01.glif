@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SaKa_alt_Aa.rj.ss01" format="2">
+  <advance width="683"/>
+  <anchor x="309" y="48" name="bottom2"/>
+  <anchor x="448" y="646" name="top1"/>
+  <anchor x="328" y="646" name="top2"/>
+  <anchor x="75" y="584" name="top_alt"/>
+  <anchor x="343" y="-10" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="719" y="-48" type="curve"/>
+      <point x="727" y="-30" type="line"/>
+      <point x="674" y="-2" type="line" smooth="yes"/>
+      <point x="638" y="17"/>
+      <point x="629" y="35"/>
+      <point x="629" y="75" type="curve" smooth="yes"/>
+      <point x="629" y="133" type="line"/>
+      <point x="529" y="133" type="line"/>
+      <point x="529" y="40" type="line"/>
+      <point x="584" y="10"/>
+      <point x="639" y="-13"/>
+    </contour>
+    <contour>
+      <point x="580" y="94" type="curve"/>
+      <point x="571" y="135" type="line"/>
+      <point x="499" y="180"/>
+      <point x="472" y="193"/>
+      <point x="400" y="225" type="curve"/>
+      <point x="400" y="171" type="line"/>
+      <point x="486" y="140"/>
+      <point x="515" y="129"/>
+    </contour>
+    <contour>
+      <point x="529" y="121" type="line"/>
+      <point x="629" y="121" type="line"/>
+      <point x="629" y="167" type="line"/>
+      <point x="538" y="221" type="line"/>
+      <point x="529" y="216" type="line"/>
+    </contour>
+    <component base="SaBa.rj.ss01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

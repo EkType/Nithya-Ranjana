@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DaNa.rj" format="2">
+  <advance width="498"/>
+  <anchor x="343" y="9" name="bottom"/>
+  <anchor x="343" y="69" name="bottom2"/>
+  <anchor x="373" y="9" name="bottom3"/>
+  <anchor x="105" y="615" name="top"/>
+  <anchor x="443" y="646" name="top1"/>
+  <anchor x="232" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="186" y="33" type="curve" smooth="yes"/>
+      <point x="224" y="33"/>
+      <point x="246" y="55"/>
+      <point x="246" y="91" type="curve" smooth="yes"/>
+      <point x="246" y="192" type="line"/>
+      <point x="186" y="149" type="line"/>
+      <point x="241" y="149"/>
+      <point x="297" y="136"/>
+      <point x="357" y="102" type="curve"/>
+      <point x="365" y="151" type="line"/>
+      <point x="296" y="199"/>
+      <point x="232" y="225"/>
+      <point x="170" y="225" type="curve" smooth="yes"/>
+      <point x="108" y="225"/>
+      <point x="64" y="189"/>
+      <point x="64" y="138" type="curve" smooth="yes"/>
+      <point x="64" y="76"/>
+      <point x="115" y="33"/>
+    </contour>
+    <component base="_terminal" xOffset="343"/>
+    <component base="_DaPre1" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_DaPre1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

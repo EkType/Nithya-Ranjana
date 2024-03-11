@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="FlowerPunctuationMark.rj" format="2">
+  <advance width="734"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="366" y="277" type="curve" smooth="yes"/>
+      <point x="393" y="277"/>
+      <point x="416" y="299"/>
+      <point x="416" y="327" type="curve" smooth="yes"/>
+      <point x="416" y="354"/>
+      <point x="393" y="376"/>
+      <point x="366" y="376" type="curve" smooth="yes"/>
+      <point x="339" y="376"/>
+      <point x="317" y="354"/>
+      <point x="317" y="327" type="curve" smooth="yes"/>
+      <point x="317" y="299"/>
+      <point x="339" y="277"/>
+    </contour>
+    <component base="_petal1_part" xOffset="-76" yOffset="20"/>
+    <component base="_petal1_part" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="667" yOffset="-128"/>
+    <component base="_petal1_part" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="67" yOffset="775"/>
+    <component base="_petal1_part" xScale="-1" yScale="-1" xOffset="810" yOffset="627"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+    </dict>
+  </lib>
+</glyph>

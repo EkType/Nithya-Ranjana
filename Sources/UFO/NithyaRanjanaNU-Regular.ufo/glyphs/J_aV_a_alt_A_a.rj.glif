@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="JaVa_alt_Aa.rj" format="2">
+  <advance width="618"/>
+  <anchor x="294" y="10" name="bottom"/>
+  <anchor x="262" y="62" name="bottom2"/>
+  <anchor x="284" y="-10" name="bottom3"/>
+  <anchor x="294" y="646" name="top2"/>
+  <anchor x="78" y="609" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="464" y="213" type="line"/>
+      <point x="564" y="213" type="line"/>
+      <point x="564" y="330" type="line"/>
+      <point x="464" y="384" type="line"/>
+    </contour>
+    <component base="_VaPost2" xOffset="25"/>
+    <component base="_terminal" xOffset="464"/>
+    <component base="_JaPre1_alt"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

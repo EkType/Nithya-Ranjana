@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NnaTta.rj" format="2">
+  <advance width="694"/>
+  <anchor x="389" y="64" name="bottom"/>
+  <anchor x="420" y="43" name="bottom2"/>
+  <anchor x="425" y="29" name="bottom3"/>
+  <anchor x="644" y="646" name="top1"/>
+  <anchor x="357" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="429" y="576" type="line"/>
+      <point x="601" y="576" type="line"/>
+      <point x="644" y="646" type="line"/>
+      <point x="635" y="654" type="line"/>
+      <point x="429" y="654" type="line"/>
+    </contour>
+    <component base="_NnaPre1" xOffset="5"/>
+    <component base="_TtaPost1" xOffset="73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

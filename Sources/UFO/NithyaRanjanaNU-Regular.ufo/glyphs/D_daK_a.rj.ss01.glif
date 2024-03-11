@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaKa.rj.ss01" format="2">
+  <advance width="647"/>
+  <anchor x="332" y="9" name="bottom"/>
+  <anchor x="302" y="62" name="bottom2"/>
+  <anchor x="322" y="-10" name="bottom3"/>
+  <anchor x="427" y="646" name="top1"/>
+  <anchor x="297" y="646" name="top2"/>
+  <anchor x="58" y="614" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="553" y="112" type="curve"/>
+      <point x="541" y="168" type="line"/>
+      <point x="488" y="201"/>
+      <point x="465" y="219"/>
+      <point x="374" y="257" type="curve"/>
+      <point x="372" y="193" type="line"/>
+      <point x="454" y="167"/>
+      <point x="483" y="152"/>
+    </contour>
+    <contour>
+      <point x="502" y="185" type="line"/>
+      <point x="602" y="185" type="line"/>
+      <point x="602" y="247" type="line"/>
+      <point x="511" y="285" type="line"/>
+      <point x="502" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="574" type="line"/>
+      <point x="576" y="574" type="line"/>
+      <point x="580" y="581" type="line"/>
+      <point x="533" y="654" type="line"/>
+      <point x="394" y="654" type="line"/>
+    </contour>
+    <component base="_BaPost2" xOffset="63"/>
+    <component base="_DdaPre3"/>
+    <component base="_terminal" xOffset="502"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

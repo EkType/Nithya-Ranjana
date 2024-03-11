@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="MaKa.rj" format="2">
+  <advance width="644"/>
+  <anchor x="325" y="-10" name="bottom"/>
+  <anchor x="299" y="61" name="bottom2"/>
+  <anchor x="360" y="-10" name="bottom3"/>
+  <anchor x="421" y="646" name="top1"/>
+  <anchor x="288" y="646" name="top2"/>
+  <anchor x="49" y="619" name="top_alt"/>
+  <outline>
+    <contour>
+      <point x="556" y="130" type="curve"/>
+      <point x="544" y="186" type="line"/>
+      <point x="491" y="221"/>
+      <point x="468" y="234"/>
+      <point x="377" y="275" type="curve"/>
+      <point x="375" y="211" type="line"/>
+      <point x="457" y="182"/>
+      <point x="486" y="170"/>
+    </contour>
+    <contour>
+      <point x="499" y="213" type="line"/>
+      <point x="599" y="213" type="line"/>
+      <point x="599" y="269" type="line"/>
+      <point x="508" y="307" type="line"/>
+      <point x="499" y="302" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="574" type="line"/>
+      <point x="576" y="574" type="line"/>
+      <point x="580" y="581" type="line"/>
+      <point x="533" y="654" type="line"/>
+      <point x="394" y="654" type="line"/>
+    </contour>
+    <component base="MaBa.rj"/>
+    <component base="_terminal" xOffset="499"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

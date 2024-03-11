@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ChaMa.rj" format="2">
+  <advance width="591"/>
+  <anchor x="436" y="39" name="bottom"/>
+  <anchor x="436" y="69" name="bottom2"/>
+  <anchor x="536" y="646" name="top1"/>
+  <anchor x="269" y="646" name="top2"/>
+  <anchor x="66" y="610" name="top_alt"/>
+  <anchor x="436" y="30" name="bottom3"/>
+  <outline>
+    <component base="_ChaPre2" xOffset="-35"/>
+    <component base="_MaPost3" xOffset="27"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

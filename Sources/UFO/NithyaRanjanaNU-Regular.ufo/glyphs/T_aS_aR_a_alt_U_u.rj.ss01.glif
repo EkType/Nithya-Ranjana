@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TaSaRa_alt_Uu.rj.ss01" format="2">
+  <advance width="564"/>
+  <anchor x="409" y="33" name="bottom"/>
+  <anchor x="398" y="72" name="bottom2"/>
+  <anchor x="268" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="600" y="-26" type="curve"/>
+      <point x="608" y="-8" type="line"/>
+      <point x="560" y="19" type="line" smooth="yes"/>
+      <point x="524" y="39"/>
+      <point x="509" y="64"/>
+      <point x="509" y="105" type="curve" smooth="yes"/>
+      <point x="509" y="281" type="line"/>
+      <point x="409" y="281" type="line"/>
+      <point x="409" y="202" type="line" smooth="yes"/>
+      <point x="409" y="144"/>
+      <point x="397" y="125"/>
+      <point x="360" y="125" type="curve" smooth="yes"/>
+      <point x="349" y="125"/>
+      <point x="332" y="129"/>
+      <point x="317" y="134" type="curve"/>
+      <point x="309" y="115" type="line"/>
+      <point x="399" y="66"/>
+      <point x="477" y="28"/>
+    </contour>
+    <contour>
+      <point x="278" y="35" type="curve"/>
+      <point x="293" y="54" type="line"/>
+      <point x="254" y="86"/>
+      <point x="224" y="114"/>
+      <point x="206" y="132" type="curve"/>
+      <point x="212" y="120" type="line"/>
+      <point x="273" y="120"/>
+      <point x="319" y="157"/>
+      <point x="319" y="220" type="curve" smooth="yes"/>
+      <point x="319" y="354" type="line"/>
+      <point x="219" y="354" type="line"/>
+      <point x="219" y="265" type="line"/>
+      <point x="261" y="285" type="line"/>
+      <point x="247" y="294"/>
+      <point x="232" y="299"/>
+      <point x="209" y="299" type="curve" smooth="yes"/>
+      <point x="144" y="299"/>
+      <point x="142" y="205"/>
+      <point x="102" y="205" type="curve" smooth="yes"/>
+      <point x="95" y="205"/>
+      <point x="79" y="211"/>
+      <point x="71" y="216" type="curve"/>
+      <point x="58" y="200" type="line"/>
+      <point x="113" y="142"/>
+      <point x="190" y="92"/>
+    </contour>
+    <contour>
+      <point x="442" y="158" type="curve"/>
+      <point x="449" y="187" type="line"/>
+      <point x="408" y="246"/>
+      <point x="339" y="295"/>
+      <point x="285" y="310" type="curve"/>
+      <point x="290" y="226" type="line"/>
+      <point x="331" y="224"/>
+      <point x="381" y="201"/>
+    </contour>
+    <contour>
+      <point x="409" y="209" type="line"/>
+      <point x="509" y="209" type="line"/>
+      <point x="509" y="646" type="line"/>
+      <point x="409" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="219" y="574" type="line"/>
+      <point x="466" y="574" type="line"/>
+      <point x="509" y="646" type="line"/>
+      <point x="500" y="654" type="line"/>
+      <point x="219" y="654" type="line"/>
+    </contour>
+    <component base="_TaPre2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

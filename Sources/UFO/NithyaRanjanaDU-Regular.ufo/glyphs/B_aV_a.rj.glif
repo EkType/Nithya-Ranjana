@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="BaVa.rj" format="2">
+  <advance width="481"/>
+  <anchor x="331" y="-10" name="bottom"/>
+  <anchor x="306" y="61" name="bottom2"/>
+  <anchor x="319" y="-11" name="bottom3"/>
+  <anchor x="74" y="624" name="top"/>
+  <anchor x="426" y="646" name="top1"/>
+  <anchor x="217" y="646" name="top2"/>
+  <outline>
+    <contour>
+      <point x="171" y="562" type="curve" smooth="yes"/>
+      <point x="255" y="562"/>
+      <point x="331" y="573"/>
+      <point x="388" y="591" type="curve"/>
+      <point x="426" y="646" type="line"/>
+      <point x="417" y="654" type="line"/>
+      <point x="4" y="654" type="line"/>
+      <point x="0" y="646" type="line"/>
+      <point x="26" y="595"/>
+      <point x="80" y="562"/>
+    </contour>
+    <component base="_BaVa" xOffset="9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>

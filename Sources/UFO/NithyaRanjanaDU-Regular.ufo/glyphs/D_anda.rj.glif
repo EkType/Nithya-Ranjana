@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Danda.rj" format="2">
+  <advance width="241"/>
+  <unicode hex="0964"/>
+  <anchor x="84" y="35" name="bottom"/>
+  <anchor x="84" y="40" name="bottom2"/>
+  <anchor x="115" y="0" name="bottom3"/>
+  <outline>
+    <contour>
+      <point x="84" y="225" type="line"/>
+      <point x="184" y="225" type="line"/>
+      <point x="184" y="654" type="line"/>
+      <point x="84" y="654" type="line"/>
+    </contour>
+    <component base="_terminal" xOffset="84"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DdaSa.rj.ss01" format="2">
+  <advance width="618"/>
+  <anchor x="463" y="69" name="bottom"/>
+  <anchor x="573" y="-26" name="bottom3"/>
+  <anchor x="563" y="646" name="top1"/>
+  <anchor x="297" y="646" name="top2"/>
+  <anchor x="60" y="608" name="top_alt"/>
+  <anchor x="463" y="40" name="bottom2"/>
+  <outline>
+    <contour>
+      <point x="404" y="-26" type="curve"/>
+      <point x="417" y="-7" type="line"/>
+      <point x="341" y="50"/>
+      <point x="305" y="82"/>
+      <point x="280" y="106" type="curve"/>
+      <point x="275" y="90" type="line"/>
+      <point x="336" y="90"/>
+      <point x="372" y="123"/>
+      <point x="372" y="180" type="curve" smooth="yes"/>
+      <point x="372" y="251" type="line"/>
+      <point x="337" y="253" type="line"/>
+      <point x="323" y="262"/>
+      <point x="308" y="267"/>
+      <point x="285" y="267" type="curve" smooth="yes"/>
+      <point x="206" y="267"/>
+      <point x="208" y="184"/>
+      <point x="173" y="184" type="curve" smooth="yes"/>
+      <point x="166" y="184"/>
+      <point x="158" y="187"/>
+      <point x="144" y="196" type="curve"/>
+      <point x="130" y="179" type="line"/>
+      <point x="211" y="106"/>
+      <point x="290" y="46"/>
+    </contour>
+    <contour>
+      <point x="476" y="134" type="curve"/>
+      <point x="481" y="160" type="line"/>
+      <point x="444" y="209"/>
+      <point x="383" y="249"/>
+      <point x="336" y="260" type="curve"/>
+      <point x="342" y="189" type="line"/>
+      <point x="378" y="188"/>
+      <point x="422" y="169"/>
+    </contour>
+    <contour>
+      <point x="463" y="209" type="line"/>
+      <point x="563" y="209" type="line"/>
+      <point x="563" y="646" type="line"/>
+      <point x="463" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="340" y="569" type="line"/>
+      <point x="511" y="569" type="line"/>
+      <point x="563" y="646" type="line"/>
+      <point x="553" y="654" type="line"/>
+      <point x="340" y="654" type="line"/>
+    </contour>
+    <component base="_DdaPre2" xOffset="10"/>
+    <component base="_terminal" xOffset="463"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>devanagari</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+    </dict>
+  </lib>
+</glyph>
