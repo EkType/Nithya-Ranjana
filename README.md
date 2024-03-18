@@ -22,7 +22,7 @@ Nithya Ranjana is licensed under the SIL Open Font License v1.1 (<http://scripts
 
 ### Downloading the font files (TTF files)
 
-The font files can be downloaded from the [releases page.](https://github.com/EkType/NithyaRanjana/releases)
+The font files can be downloaded from the [releases page.](https://github.com/EkType/Nithya-Ranjana/releases)
 
 ### Building the font from source
 The Glyphsapp and UFO sources are provided. 
@@ -33,7 +33,7 @@ The Glyphsapp and UFO sources are provided.
 
 Would you like to contribute to the development of this font family? Here is how you can help:
 
-1. Tell us about any bugs you find, or enhancements you would like to see. Send us bug reports, feature enhancements or glyph requests, using the [GitHub Issue Tracker](https://github.com/EkType/NithyaRanjana/issues/).
+1. Tell us about any bugs you find, or enhancements you would like to see. Send us bug reports, feature enhancements or glyph requests, using the [GitHub Issue Tracker](https://github.com/EkType/Nithya-Ranjana/issues/).
 
 2. Contribute directly to the fonts. This repository contains source files in Glyphsapp and UFO formats. You can make changes as required and build the fonts using `fontmake` and `gftools`. If you wish to contribute directly, please see below how we build the fonts and follow our build process so that we can easily include your contribution, and follow the GitHub pull request process to send your contribution. Write to `info@ektype.in` if you require any assistance in contributing to the family.
 
