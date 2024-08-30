@@ -20,6 +20,13 @@ License
 -------
 Nithya Ranjana is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>). To view the copyright and specific terms and conditions, please refer to [OFL.txt](OFL.txt)
 
+### Installing via Package Manager
+
+#### Arch Linux [AUR]
+
+- [nithya-ranjana-otf-bin](https://aur.archlinux.org/packages/nithya-ranjana-otf-bin) installs the files from the latest github release.
+
+
 ### Downloading the font files (TTF files)
 
 The font files can be downloaded from the [releases page.](https://github.com/EkType/Nithya-Ranjana/releases)
